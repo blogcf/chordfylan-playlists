@@ -53,8 +53,8 @@ var c=configs.find(function(x){return x.slug===slug;});if(!c)return;
 var status=el('p','Memuat daftar lagu...');root.appendChild(status);
 load(c).then(function(d){
  status.textContent=(c.limit?'Menampilkan hingga 50 lagu pertama. ':'')+'Diperbarui: '+new Date(d.updatedAt).toLocaleString('id-ID');
- var player=el('div','Pilih lagu dari daftar untuk memutar video.');player.className='cf-yt-player';root.appendChild(player);
- var current=el('p');current.setAttribute('aria-live','polite');root.appendChild(current);
+ var player=el('div');player.className='cf-yt-player';player.hidden=true;root.appendChild(player);
+ var current=el('p');current.hidden=true;current.setAttribute('aria-live','polite');root.appendChild(current);
  var input=el('input');input.type='search';input.placeholder='Cari lagu dalam playlist';input.setAttribute('aria-label','Cari lagu dalam playlist');root.appendChild(input);
  var list=el('ol');list.className='cf-yt-list';root.appendChild(list);
  var rows=[],chordLinks=[],matchingDone=false;
@@ -71,7 +71,7 @@ load(c).then(function(d){
  li.appendChild(actions);
  button.addEventListener('click',function(){
  var frame=el('iframe');frame.title=song.title;frame.referrerPolicy='strict-origin-when-cross-origin';frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;
- frame.src='https://www.youtube.com/embed/'+encodeURIComponent(song.videoId)+'?autoplay=1&playsinline=1';player.replaceChildren(frame);current.textContent=song.title;
+ frame.src='https://www.youtube.com/embed/'+encodeURIComponent(song.videoId)+'?autoplay=1&playsinline=1';player.replaceChildren(frame);player.hidden=false;current.hidden=false;current.textContent=song.title;
  });
  list.appendChild(li);rows.push({node:li,ready:false,key:(song.title+' '+song.channel).toLocaleLowerCase('id-ID')});
  });
