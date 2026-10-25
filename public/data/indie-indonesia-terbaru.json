@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIjd-NYGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBjhgJkc1d1PkwpdC4EMn6ElMOGdg&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKTZ-dYGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLC6Iizv_un_CwTDB_sccI_m9PjdoQ&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-25T16:33:01.066840+00:00",
+  "updatedAt": "2026-10-25T20:57:37.072787+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -304,59 +304,59 @@
       "position": 41
     },
     {
-      "videoId": "zaqIjFOSuh8",
-      "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
-      "channel": "The Brandals",
-      "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
-      "position": 42
-    },
-    {
       "videoId": "VphxiqsHaQg",
       "title": "Dimas M - aku mau hidup yang ada kamunya",
       "channel": "Dimas M",
       "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 43
+      "position": 42
     },
     {
       "videoId": "9aOhAuYCQ1Y",
       "title": "ttturbo - Jangan Ganggu Hari Ini (Official Music Video)",
       "channel": "ttturbo",
       "thumbnail": "https://i.ytimg.com/vi/9aOhAuYCQ1Y/mqdefault.jpg",
-      "position": 44
+      "position": 43
     },
     {
       "videoId": "dn_9tAkYsJE",
       "title": "RIO CLAPPY - JANJI BAHAGIA (OFFICIAL MUSIC VIDEO)",
       "channel": "Rio Clappy",
       "thumbnail": "https://i.ytimg.com/vi/dn_9tAkYsJE/mqdefault.jpg",
-      "position": 45
+      "position": 44
     },
     {
       "videoId": "E1ShNzjFVEA",
       "title": "More on Mumbles - Setidaknya Kita Selamat (Lyric Video)",
       "channel": "More on Mumbles",
       "thumbnail": "https://i.ytimg.com/vi/E1ShNzjFVEA/mqdefault.jpg",
-      "position": 46
+      "position": 45
     },
     {
       "videoId": "-JUrkl5mowM",
       "title": "The Midnight Darlings - It’s You (Official Lyric Video)",
       "channel": "The Midnight Darlings",
       "thumbnail": "https://i.ytimg.com/vi/-JUrkl5mowM/mqdefault.jpg",
-      "position": 47
+      "position": 46
     },
     {
       "videoId": "-lRfbPLEaEA",
       "title": "Rumah",
       "channel": "Navicula - Topic",
       "thumbnail": "https://i.ytimg.com/vi/-lRfbPLEaEA/mqdefault.jpg",
-      "position": 48
+      "position": 47
     },
     {
       "videoId": "xql5vYOTAHk",
       "title": "Navicula - Berburu Penyihir (official lyric video)",
       "channel": "Navicula Music",
       "thumbnail": "https://i.ytimg.com/vi/xql5vYOTAHk/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "KzUIi96f13c",
+      "title": "Polka Wars - Terbentur (Official Lyric Video)",
+      "channel": "Polka Wars",
+      "thumbnail": "https://i.ytimg.com/vi/KzUIi96f13c/mqdefault.jpg",
       "position": 49
     }
   ]

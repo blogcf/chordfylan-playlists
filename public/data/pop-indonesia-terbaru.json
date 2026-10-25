@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CIjd-NYGir7X7AMICMOO69YGEAE=&rs=AOn4CLDJlb2gI5Or87KuLo34_vyvAH6ukw&v=1792722755",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKTZ-dYGir7X7AMICMOO69YGEAE=&rs=AOn4CLBA72z-uLlZGRYrWfae0Nd2Xg-kWQ&v=1792722755",
   "sourceCount": 85,
-  "updatedAt": "2026-10-25T16:33:00.680887+00:00",
+  "updatedAt": "2026-10-25T20:57:36.455741+00:00",
   "songs": [
     {
       "videoId": "AhiuxzSEccs",
@@ -206,17 +206,17 @@
       "position": 27
     },
     {
-      "videoId": "DmHeChPunIY",
-      "title": "Mawar de Jongh - Oh Semoga | Visualizer",
-      "channel": "Trinity Optima Production",
-      "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
-      "position": 28
-    },
-    {
       "videoId": "Zwc_1gSKLzM",
       "title": "Difki Khalif - Belum Selesai (Official Music Video)",
       "channel": "Difki Khalif Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/Zwc_1gSKLzM/mqdefault.jpg",
+      "position": 28
+    },
+    {
+      "videoId": "DmHeChPunIY",
+      "title": "Mawar de Jongh - Oh Semoga | Visualizer",
+      "channel": "Trinity Optima Production",
+      "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
       "position": 29
     },
     {
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "DCIlEn1dEpY",
-      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "7R-Ft2y_bIM",
       "title": "Baik Hati",
       "channel": "Juicy Luicy - Topic",
       "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "DCIlEn1dEpY",
+      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
       "position": 32
     },
     {
@@ -332,10 +332,10 @@
       "position": 45
     },
     {
-      "videoId": "Um_eS8EzFEM",
-      "title": "Salahkah",
-      "channel": "Ruth Garcia - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
+      "videoId": "Q9DGSqTSHUU",
+      "title": "Jatuh Cinta Sendirian?",
+      "channel": "Romaria - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
       "position": 46
     },
     {
@@ -346,17 +346,17 @@
       "position": 47
     },
     {
+      "videoId": "Um_eS8EzFEM",
+      "title": "Salahkah",
+      "channel": "Ruth Garcia - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
+      "position": 48
+    },
+    {
       "videoId": "p-qLR581hAA",
       "title": "Aura",
       "channel": "Release - Topic",
       "thumbnail": "https://i.ytimg.com/vi/p-qLR581hAA/mqdefault.jpg",
-      "position": 48
-    },
-    {
-      "videoId": "Q9DGSqTSHUU",
-      "title": "Jatuh Cinta Sendirian?",
-      "channel": "Romaria - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
       "position": 49
     }
   ]
