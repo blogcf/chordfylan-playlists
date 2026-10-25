@@ -8,6 +8,36 @@ function safeImage(url){try{var u=new URL(url);return u.protocol==='https:'&&/(^
 function picture(url,title){var img=el('img');img.alt=title;img.loading='lazy';var src=safeImage(url);if(src)img.src=src;return img;}
 function external(url,text){var a=el('a',text);a.href=url;a.target='_blank';a.rel='noopener';return a;}
 function load(c){return fetch(base+'data/'+c.slug+'.json').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){if(data.playlistId!==c.playlistId||!Array.isArray(data.songs))throw Error();return data;});}
+// Match complete cleaned titles; ambiguous titles retain a blog search link.
+function chordKey(title){return title.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
+ .replace(/\([^)]*(?:official|video|lyric|audio|visualizer)[^)]*\)|\[[^\]]*(?:official|video|lyric|audio|visualizer)[^\]]*\]/g,' ')
+ .replace(/\b(?:official|music video|lyric video|lyrics?|audio|visualizer|chord|kunci gitar|chord gitar|gitar|feat|ft|featuring)\b/g,' ')
+ .replace(/[^a-z0-9]+/g,' ').trim().split(/\s+/).filter(Boolean).sort().join(' ');}
+var chordIndexPromise;
+function chordIndex(){
+ if(chordIndexPromise)return chordIndexPromise;
+ chordIndexPromise=new Promise(function(resolve){
+ var items=[],seen=new Set(),offset=1;
+ function page(){
+ var callback='cfPlaylistFeed'+Date.now()+Math.floor(Math.random()*1000000),tag=el('script'),timer,finished=false;
+ function finish(json){if(finished)return;finished=true;clearTimeout(timer);tag.remove();window[callback]=function(){};setTimeout(function(){delete window[callback];},60000);
+ var entries=json&&json.feed&&json.feed.entry||[],added=0;
+ entries.forEach(function(entry){var link=(entry.link||[]).find(function(x){return x.rel==='alternate';});
+ if(!link)return;try{var url=new URL(link.href);if(url.protocol!=='https:'||url.hostname!=='www.chordfylan.com'||!/^\/\d{4}\/\d{2}\//.test(url.pathname)||seen.has(url.pathname))return;
+ seen.add(url.pathname);items.push({key:chordKey(entry.title.$t),url:url.href});added++;}catch(e){} });
+ if(entries.length&&added&&offset<20001){offset+=entries.length;page();}else resolve(items);
+ }
+ window[callback]=finish;tag.onerror=function(){finish(null);};
+ tag.src='https://www.chordfylan.com/feeds/posts/summary?alt=json-in-script&max-results=150&start-index='+offset+'&callback='+callback;
+ timer=setTimeout(function(){finish(null);},12000);document.head.appendChild(tag);
+ }
+ page();
+ });return chordIndexPromise;
+}
+function connectChord(song,link,index){
+ var key=chordKey(song.title),matches=index.filter(function(post){return post.key===key;});
+ if(matches.length===1){link.href=matches[0].url;link.textContent='Lihat Chord';link.title='Buka chord '+song.title;}
+}
 function init(root){
 if(root.dataset.cfYtReady)return;root.dataset.cfYtReady='1';root.classList.add('cf-yt');
 var slug=root.dataset.cfYtPlaylist;
@@ -27,18 +57,24 @@ load(c).then(function(d){
  var current=el('p');current.setAttribute('aria-live','polite');root.appendChild(current);
  var input=el('input');input.type='search';input.placeholder='Cari lagu dalam playlist';input.setAttribute('aria-label','Cari lagu dalam playlist');root.appendChild(input);
  var list=el('ol');list.className='cf-yt-list';root.appendChild(list);
- var rows=[];
+ var rows=[],chordLinks=[];
+ var chordNote=el('p','Mencocokkan lagu dengan chord di blog...');chordNote.setAttribute('role','status');root.appendChild(chordNote);
  d.songs.forEach(function(song,i){
  if(!/^[A-Za-z0-9_-]{11}$/.test(song.videoId))return;
  var li=el('li');li.className='cf-yt-row';li.appendChild(picture(song.thumbnail,''));
  var button=el('button',(i+1)+'. '+song.title);button.type='button';button.appendChild(el('small',song.channel));li.appendChild(button);
- li.appendChild(external('https://www.youtube.com/watch?v='+encodeURIComponent(song.videoId),'YouTube'));
+ var actions=el('div');actions.className='cf-yt-actions';
+ var chordLink=el('a','Cari Chord');chordLink.className='cf-yt-chord';
+ chordLink.href='https://www.chordfylan.com/search?q='+encodeURIComponent(song.title.replace(/\([^)]*\)|\[[^\]]*\]/g,' ').trim());
+ actions.appendChild(chordLink);chordLinks.push({song:song,link:chordLink});
+ actions.appendChild(external('https://www.youtube.com/watch?v='+encodeURIComponent(song.videoId),'YouTube'));li.appendChild(actions);
  button.addEventListener('click',function(){
  var frame=el('iframe');frame.title=song.title;frame.referrerPolicy='strict-origin-when-cross-origin';frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;
  frame.src='https://www.youtube.com/embed/'+encodeURIComponent(song.videoId)+'?autoplay=1&playsinline=1';player.replaceChildren(frame);current.textContent=song.title;
  });
  list.appendChild(li);rows.push({node:li,key:(song.title+' '+song.channel).toLocaleLowerCase('id-ID')});
  });
+ chordIndex().then(function(index){chordLinks.forEach(function(item){connectChord(item.song,item.link,index);});chordNote.textContent='Lihat Chord membuka postingan yang cocok. Gunakan Cari Chord jika belum ada kecocokan otomatis.';});
  input.addEventListener('input',function(){var q=input.value.toLocaleLowerCase('id-ID').trim();rows.forEach(function(row){row.node.hidden=!row.key.includes(q);});});
 }).catch(function(){status.textContent='Daftar lagu belum tersedia. Silakan buka playlist di YouTube atau coba lagi nanti.';});
 }
