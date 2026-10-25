@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CNjy9tYGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLA9otqarSZbDpVYX9z2AXRLVHbvvw&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIjd-NYGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBjhgJkc1d1PkwpdC4EMn6ElMOGdg&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-25T08:12:26.160438+00:00",
+  "updatedAt": "2026-10-25T16:33:01.066840+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -255,24 +255,24 @@
       "position": 34
     },
     {
+      "videoId": "V5mSLPwyAqY",
+      "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
+      "channel": "Batas Senja Official",
+      "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
+      "position": 35
+    },
+    {
       "videoId": "SWkQwgx2Hzs",
       "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
       "channel": "Eleanor Whisper",
       "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
-      "position": 35
+      "position": 36
     },
     {
       "videoId": "NzTBePa7qv0",
       "title": "Hawa",
       "channel": "Havva - Topic",
       "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
-      "position": 36
-    },
-    {
-      "videoId": "V5mSLPwyAqY",
-      "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
-      "channel": "Batas Senja Official",
-      "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
       "position": 37
     },
     {
@@ -311,17 +311,17 @@
       "position": 42
     },
     {
-      "videoId": "9aOhAuYCQ1Y",
-      "title": "ttturbo - Jangan Ganggu Hari Ini (Official Music Video)",
-      "channel": "ttturbo",
-      "thumbnail": "https://i.ytimg.com/vi/9aOhAuYCQ1Y/mqdefault.jpg",
-      "position": 43
-    },
-    {
       "videoId": "VphxiqsHaQg",
       "title": "Dimas M - aku mau hidup yang ada kamunya",
       "channel": "Dimas M",
       "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
+      "position": 43
+    },
+    {
+      "videoId": "9aOhAuYCQ1Y",
+      "title": "ttturbo - Jangan Ganggu Hari Ini (Official Music Video)",
+      "channel": "ttturbo",
+      "thumbnail": "https://i.ytimg.com/vi/9aOhAuYCQ1Y/mqdefault.jpg",
       "position": 44
     },
     {
