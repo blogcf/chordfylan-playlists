@@ -2,3 +2,5 @@
 .cf-yt [hidden]{display:none!important;}
 
 .cf-yt-actions{display:flex;flex-direction:column;align-items:center;gap:6px;flex:none}.cf-yt .cf-yt-chord{display:inline-block;padding:7px 10px;border-radius:5px;background:#c93632;color:#fff!important;font-weight:700;text-decoration:none}.cf-yt .cf-yt-chord:hover{background:#a52b28}
+
+.cf-yt .cf-yt-chord::after{content:"\25B6";display:inline-block;margin-left:7px;font-size:10px;vertical-align:1px}
