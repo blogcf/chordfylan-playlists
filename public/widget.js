@@ -5,7 +5,14 @@ var configs=[{"slug": "lagu-populer", "title": "Lagu POPuler", "playlistId": "RD
 if(!document.querySelector('link[data-cf-yt-css]')){var css=document.createElement('link');css.rel='stylesheet';css.href=base+'widget.css?v=20261025-2';css.dataset.cfYtCss='1';document.head.appendChild(css);}
 function el(tag,text){var n=document.createElement(tag);if(text)n.textContent=text;return n;}
 function safeImage(url){try{var u=new URL(url);return u.protocol==='https:'&&/(^|\.)(ytimg\.com|ggpht\.com|googleusercontent\.com)$/.test(u.hostname)?u.href:'';}catch(e){return '';}}
-function picture(url,title){var img=el('img');img.alt=title;img.loading='lazy';var src=safeImage(url);if(src)img.src=src;return img;}
+function picture(url,title,fallbacks){
+ var img=el('img');img.alt=title;img.loading='lazy';
+ var sources=[url].concat(fallbacks||[]).map(safeImage).filter(function(src,i,all){return src&&all.indexOf(src)===i;});
+ function next(){if(sources.length){img.src=sources.shift();return;}
+  img.onerror=null;img.src='data:image/svg+xml,'+encodeURIComponent('<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360"><rect width="640" height="360" fill="#047857"/><path d="M280 100v135a35 35 0 1 1-20-32V120l140-30v115a35 35 0 1 1-20-32V65z" fill="#fff"/></svg>');
+ }
+ img.onerror=next;next();return img;
+} 
 function load(c){return fetch(base+'data/'+c.slug+'.json').then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(data){if(data.playlistId!==c.playlistId||!Array.isArray(data.songs))throw Error();return data;});}
 // Match complete cleaned titles; ambiguous titles retain a blog search link.
 function chordKey(title){return title.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase()
@@ -46,7 +53,7 @@ if(!slug){
  root.appendChild(el('h2','Jelajahi Playlist'));
  var grid=el('div');grid.className='cf-yt-grid';root.appendChild(grid);
  configs.forEach(function(c){var a=el('a');a.className='cf-yt-card';a.href=c.pageUrl;var label=el('small','Lihat daftar lagu');a.appendChild(el('strong',c.title));a.appendChild(label);grid.appendChild(a);
- load(c).then(function(d){a.insertBefore(picture(d.thumbnail,c.title),a.firstChild);label.textContent=d.songs.length+' lagu'+(c.limit?' pertama':'');}).catch(function(){label.textContent='Buka halaman playlist';});});
+ load(c).then(function(d){a.insertBefore(picture(d.thumbnail,c.title,d.songs.slice(0,3).reduce(function(urls,song){if(/^[A-Za-z0-9_-]{11}$/.test(song.videoId))urls.push('https://i.ytimg.com/vi/'+song.videoId+'/hqdefault.jpg');urls.push(song.thumbnail);return urls;},[])),a.firstChild);label.textContent=d.songs.length+' lagu'+(c.limit?' pertama':'');}).catch(function(){label.textContent='Buka halaman playlist';});});
  return;
 }
 var c=configs.find(function(x){return x.slug===slug;});if(!c)return;
