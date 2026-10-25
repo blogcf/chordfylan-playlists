@@ -1,0 +1,4 @@
+<b:if cond='data:view.isPost'>
+  <div data-cf-yt=''/>
+  <script defer='defer' src='https://blogcf.github.io/chordfylan-playlists/widget.js'/>
+</b:if>
