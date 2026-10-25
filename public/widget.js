@@ -50,7 +50,6 @@ if(!slug){
 }
 var c=configs.find(function(x){return x.slug===slug;});if(!c)return;
 var status=el('p','Memuat daftar lagu...');root.appendChild(status);
-root.appendChild(external('https://www.youtube.com/playlist?list='+encodeURIComponent(c.playlistId),'Lihat playlist lengkap di YouTube'));
 load(c).then(function(d){
  status.textContent=(c.limit?'Menampilkan hingga 50 lagu pertama. ':'')+'Diperbarui: '+new Date(d.updatedAt).toLocaleString('id-ID');
  var player=el('div','Pilih lagu dari daftar untuk memutar video.');player.className='cf-yt-player';root.appendChild(player);
@@ -67,7 +66,7 @@ load(c).then(function(d){
  var chordLink=el('a','Cari Chord');chordLink.className='cf-yt-chord';
  chordLink.href='https://www.chordfylan.com/search?q='+encodeURIComponent(song.title.replace(/\([^)]*\)|\[[^\]]*\]/g,' ').trim());
  actions.appendChild(chordLink);chordLinks.push({song:song,link:chordLink});
- actions.appendChild(external('https://www.youtube.com/watch?v='+encodeURIComponent(song.videoId),'YouTube'));li.appendChild(actions);
+ li.appendChild(actions);
  button.addEventListener('click',function(){
  var frame=el('iframe');frame.title=song.title;frame.referrerPolicy='strict-origin-when-cross-origin';frame.allow='autoplay; encrypted-media; picture-in-picture; fullscreen';frame.allowFullscreen=true;
  frame.src='https://www.youtube.com/embed/'+encodeURIComponent(song.videoId)+'?autoplay=1&playsinline=1';player.replaceChildren(frame);current.textContent=song.title;
@@ -76,7 +75,7 @@ load(c).then(function(d){
  });
  chordIndex().then(function(index){chordLinks.forEach(function(item){connectChord(item.song,item.link,index);});chordNote.textContent='Lihat Chord membuka postingan yang cocok. Gunakan Cari Chord jika belum ada kecocokan otomatis.';});
  input.addEventListener('input',function(){var q=input.value.toLocaleLowerCase('id-ID').trim();rows.forEach(function(row){row.node.hidden=!row.key.includes(q);});});
-}).catch(function(){status.textContent='Daftar lagu belum tersedia. Silakan buka playlist di YouTube atau coba lagi nanti.';});
+}).catch(function(){status.textContent='Daftar lagu belum tersedia. Silakan coba lagi nanti.';});
 }
 function start(){document.querySelectorAll('[data-cf-yt]').forEach(init);}
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start,{once:true});else start();
