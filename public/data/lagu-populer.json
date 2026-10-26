@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CNSk_dYGir7X7AMICPCB69YGEAE=&rs=AOn4CLAUk-vHyEzg11WD5wgauhQ7QxsCBw&v=1792721136",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COyv_9YGir7X7AMICPCB69YGEAE=&rs=AOn4CLB0-LgZDeqJ-mqAeIr66VU-EYKZuQ&v=1792721136",
   "sourceCount": 75,
-  "updatedAt": "2026-10-26T13:17:21.602802+00:00",
+  "updatedAt": "2026-10-26T22:45:31.978691+00:00",
   "songs": [
     {
       "videoId": "uf721kddxuM",
@@ -192,17 +192,17 @@
       "position": 25
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
-      "position": 26
-    },
-    {
       "videoId": "g3ZWhi29QFI",
       "title": "Juicy Luicy - Gurun Hujan (Official Lyric Video)",
       "channel": "Emotion Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/g3ZWhi29QFI/mqdefault.jpg",
+      "position": 26
+    },
+    {
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
       "position": 27
     },
     {
@@ -255,17 +255,17 @@
       "position": 34
     },
     {
-      "videoId": "uzV-aToTmMc",
-      "title": "Lyodra - Pintu Hati (Official Video)",
-      "channel": "Lyodra Official",
-      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "KpkR77OdOeo",
       "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "uzV-aToTmMc",
+      "title": "Lyodra - Pintu Hati (Official Video)",
+      "channel": "Lyodra Official",
+      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
       "position": 36
     },
     {

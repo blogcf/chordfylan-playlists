@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNSk_dYGir7X7AMICMOO69YGEAE=&rs=AOn4CLDWx9dxrW3qLxkox7nBcos-FCUJjw&v=1792722755",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=COyv_9YGir7X7AMICMOO69YGEAE=&rs=AOn4CLChRLZsDjn9GfnbRdBWXwE_AlQgoA&v=1792722755",
   "sourceCount": 85,
-  "updatedAt": "2026-10-26T13:17:22.216636+00:00",
+  "updatedAt": "2026-10-26T22:45:32.440718+00:00",
   "songs": [
     {
       "videoId": "AhiuxzSEccs",
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "7R-Ft2y_bIM",
-      "title": "Baik Hati",
-      "channel": "Juicy Luicy - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "DCIlEn1dEpY",
       "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "7R-Ft2y_bIM",
+      "title": "Baik Hati",
+      "channel": "Juicy Luicy - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
       "position": 32
     },
     {
@@ -304,10 +304,10 @@
       "position": 41
     },
     {
-      "videoId": "Um_eS8EzFEM",
-      "title": "Salahkah",
-      "channel": "Ruth Garcia - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
+      "videoId": "Q9DGSqTSHUU",
+      "title": "Jatuh Cinta Sendirian?",
+      "channel": "Romaria - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
       "position": 42
     },
     {
@@ -318,17 +318,17 @@
       "position": 43
     },
     {
-      "videoId": "Q9DGSqTSHUU",
-      "title": "Jatuh Cinta Sendirian?",
-      "channel": "Romaria - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
-      "position": 44
-    },
-    {
       "videoId": "mlM8WkPlz6A",
       "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
       "channel": "Bagas Ran",
       "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
+      "position": 44
+    },
+    {
+      "videoId": "Um_eS8EzFEM",
+      "title": "Salahkah",
+      "channel": "Ruth Garcia - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
       "position": 45
     },
     {
