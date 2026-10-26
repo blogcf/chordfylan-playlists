@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKTZ-dYGir7X7AMICPCB69YGEAE=&rs=AOn4CLCd9yDlSf1CVRNT5AlkLY6oCfI4SA&v=1792721136",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKS6-9YGir7X7AMICPCB69YGEAE=&rs=AOn4CLA4hBV54LCjhLikxS-1v47He4IfFA&v=1792721136",
   "sourceCount": 75,
-  "updatedAt": "2026-10-25T20:57:35.935579+00:00",
+  "updatedAt": "2026-10-26T04:58:14.623664+00:00",
   "songs": [
     {
       "videoId": "uf721kddxuM",
@@ -178,17 +178,17 @@
       "position": 23
     },
     {
-      "videoId": "GgpMwVJYkcM",
-      "title": "Salma Salsabil - maha benar (Official Music Video)",
-      "channel": "Salma Salsabil",
-      "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
-      "position": 24
-    },
-    {
       "videoId": "emtRD5CGOts",
       "title": "Ungu - Utara - Selatan | Official Music Video",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/emtRD5CGOts/mqdefault.jpg",
+      "position": 24
+    },
+    {
+      "videoId": "GgpMwVJYkcM",
+      "title": "Salma Salsabil - maha benar (Official Music Video)",
+      "channel": "Salma Salsabil",
+      "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
       "position": 25
     },
     {
@@ -241,24 +241,24 @@
       "position": 32
     },
     {
-      "videoId": "uzV-aToTmMc",
-      "title": "Lyodra - Pintu Hati (Official Video)",
-      "channel": "Lyodra Official",
-      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "i_lUqe8ds1I",
       "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
       "channel": "Aku eńau",
       "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 34
+      "position": 33
     },
     {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 34
+    },
+    {
+      "videoId": "uzV-aToTmMc",
+      "title": "Lyodra - Pintu Hati (Official Video)",
+      "channel": "Lyodra Official",
+      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
       "position": 35
     },
     {
@@ -311,24 +311,24 @@
       "position": 42
     },
     {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
+      "position": 43
+    },
+    {
       "videoId": "EVLUqn2LdFM",
       "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
       "channel": "Stevan Pasaribu Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
-      "position": 43
+      "position": 44
     },
     {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
-      "position": 44
-    },
-    {
-      "videoId": "6xDHiSfBz64",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Lyric Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/6xDHiSfBz64/mqdefault.jpg",
       "position": 45
     },
     {
