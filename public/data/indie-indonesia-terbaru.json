@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKS6-9YGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLADs6_TU8Zn3AnjP2rhy2G3GOl9hQ&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CNSk_dYGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLDYLjcSka8rXTMo7286sX67LhgTnA&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-26T04:58:15.451116+00:00",
+  "updatedAt": "2026-10-26T13:17:22.752703+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -178,17 +178,17 @@
       "position": 23
     },
     {
-      "videoId": "O_Z50GxMXwk",
-      "title": "JANGAR - AIR KERAS (Official Lyric Video)",
-      "channel": "Jangar Official",
-      "thumbnail": "https://i.ytimg.com/vi/O_Z50GxMXwk/mqdefault.jpg",
-      "position": 24
-    },
-    {
       "videoId": "1lXrva9pG3Y",
       "title": "terabas",
       "channel": "Lafa Pratomo - Topic",
       "thumbnail": "https://i.ytimg.com/vi/1lXrva9pG3Y/mqdefault.jpg",
+      "position": 24
+    },
+    {
+      "videoId": "O_Z50GxMXwk",
+      "title": "JANGAR - AIR KERAS (Official Lyric Video)",
+      "channel": "Jangar Official",
+      "thumbnail": "https://i.ytimg.com/vi/O_Z50GxMXwk/mqdefault.jpg",
       "position": 25
     },
     {
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "S0QJTDBf3SE",
-      "title": "permata hatiku",
-      "channel": "Daun Jatuh - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/S0QJTDBf3SE/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "jvrF1F-peyw",
       "title": "...dan berpesta",
       "channel": "Diskoria - Topic",
       "thumbnail": "https://i.ytimg.com/vi/jvrF1F-peyw/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "S0QJTDBf3SE",
+      "title": "permata hatiku",
+      "channel": "Daun Jatuh - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/S0QJTDBf3SE/mqdefault.jpg",
       "position": 30
     },
     {
@@ -255,17 +255,17 @@
       "position": 34
     },
     {
-      "videoId": "V5mSLPwyAqY",
-      "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
-      "channel": "Batas Senja Official",
-      "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "SWkQwgx2Hzs",
       "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
       "channel": "Eleanor Whisper",
       "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "V5mSLPwyAqY",
+      "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
+      "channel": "Batas Senja Official",
+      "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
       "position": 36
     },
     {
