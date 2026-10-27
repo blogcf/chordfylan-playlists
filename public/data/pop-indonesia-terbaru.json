@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=COyv_9YGir7X7AMICMOO69YGEAE=&rs=AOn4CLChRLZsDjn9GfnbRdBWXwE_AlQgoA&v=1792722755",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNTmgNcGir7X7AMICMOO69YGEAE=&rs=AOn4CLAXauhyO8DK2A0hIKZIYhhTe-iTbQ&v=1792722755",
   "sourceCount": 85,
-  "updatedAt": "2026-10-26T22:45:32.440718+00:00",
+  "updatedAt": "2026-10-27T05:15:43.410922+00:00",
   "songs": [
     {
       "videoId": "AhiuxzSEccs",
@@ -143,17 +143,17 @@
       "position": 18
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 19
-    },
-    {
       "videoId": "EVLUqn2LdFM",
       "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
       "channel": "Stevan Pasaribu Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
+      "position": 19
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 20
     },
     {
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "DCIlEn1dEpY",
-      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "7R-Ft2y_bIM",
       "title": "Baik Hati",
       "channel": "Juicy Luicy - Topic",
       "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "DCIlEn1dEpY",
+      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
       "position": 32
     },
     {
@@ -325,17 +325,17 @@
       "position": 44
     },
     {
-      "videoId": "Um_eS8EzFEM",
-      "title": "Salahkah",
-      "channel": "Ruth Garcia - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
-      "position": 45
-    },
-    {
       "videoId": "KdP4uUcRtIc",
       "title": "Luka Terakhir",
       "channel": "Sheera - Topic",
       "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
+      "position": 45
+    },
+    {
+      "videoId": "Um_eS8EzFEM",
+      "title": "Salahkah",
+      "channel": "Ruth Garcia - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
       "position": 46
     },
     {
