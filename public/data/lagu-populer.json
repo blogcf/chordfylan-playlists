@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CPCtgtcGir7X7AMICPCB69YGEAE=&rs=AOn4CLDjEkWAN7rcZX5Kph-JpoXCus5Nsg&v=1792721136",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CJDHhNcGir7X7AMICPCB69YGEAE=&rs=AOn4CLA73g-EyIjOWctrbNGnRulw9vfwmQ&v=1792721136",
   "sourceCount": 75,
-  "updatedAt": "2026-10-27T12:24:39.516995+00:00",
+  "updatedAt": "2026-10-27T22:24:14.450551+00:00",
   "songs": [
     {
       "videoId": "uf721kddxuM",
@@ -199,17 +199,17 @@
       "position": 26
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
-      "position": 27
-    },
-    {
       "videoId": "VH8FsN-OI0k",
       "title": "Rony Parulian - Wals Akhir Zaman (Official Music Video)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/VH8FsN-OI0k/mqdefault.jpg",
+      "position": 27
+    },
+    {
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
       "position": 28
     },
     {
@@ -318,17 +318,17 @@
       "position": 43
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 44
-    },
-    {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
+      "position": 44
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 45
     },
     {

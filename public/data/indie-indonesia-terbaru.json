@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CPCtgtcGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBvmDlacMv4AVH7oHIsXPBkNJ2ebw&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CJDHhNcGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBPsPNrXxcqoh8KUsZ7smRhNR0A-g&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-27T12:24:40.304607+00:00",
+  "updatedAt": "2026-10-27T22:24:15.491396+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -157,24 +157,24 @@
       "position": 20
     },
     {
+      "videoId": "Plx71s2QTaQ",
+      "title": "Kita Ke Sana (NFT Remix)",
+      "channel": "Release - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Plx71s2QTaQ/mqdefault.jpg",
+      "position": 21
+    },
+    {
       "videoId": "WvDrwBBdgho",
       "title": "D’MASIV - Till We’re Old (Official Lyric Video)",
       "channel": "D'MASIV",
       "thumbnail": "https://i.ytimg.com/vi/WvDrwBBdgho/mqdefault.jpg",
-      "position": 21
+      "position": 22
     },
     {
       "videoId": "tWFkQu5DTEY",
       "title": "センチミリメンタル & Arash Buana 『madoromi』 Music Video",
       "channel": "センチミリメンタル",
       "thumbnail": "https://i.ytimg.com/vi/tWFkQu5DTEY/mqdefault.jpg",
-      "position": 22
-    },
-    {
-      "videoId": "Plx71s2QTaQ",
-      "title": "Kita Ke Sana (NFT Remix)",
-      "channel": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Plx71s2QTaQ/mqdefault.jpg",
       "position": 23
     },
     {
@@ -199,24 +199,24 @@
       "position": 26
     },
     {
+      "videoId": "S0QJTDBf3SE",
+      "title": "permata hatiku",
+      "channel": "Daun Jatuh - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/S0QJTDBf3SE/mqdefault.jpg",
+      "position": 27
+    },
+    {
       "videoId": "-vJlbYXHHqM",
       "title": "Fiersa Besari ft. GME - ia (Official Lyric Video)",
       "channel": "Fiersa Besari Music",
       "thumbnail": "https://i.ytimg.com/vi/-vJlbYXHHqM/mqdefault.jpg",
-      "position": 27
+      "position": 28
     },
     {
       "videoId": "xG0WUOeewo0",
       "title": "Seperti Angka 8",
       "channel": "Lafa Pratomo - Topic",
       "thumbnail": "https://i.ytimg.com/vi/xG0WUOeewo0/mqdefault.jpg",
-      "position": 28
-    },
-    {
-      "videoId": "S0QJTDBf3SE",
-      "title": "permata hatiku",
-      "channel": "Daun Jatuh - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/S0QJTDBf3SE/mqdefault.jpg",
       "position": 29
     },
     {
@@ -255,17 +255,17 @@
       "position": 34
     },
     {
-      "videoId": "SWkQwgx2Hzs",
-      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
-      "channel": "Eleanor Whisper",
-      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "V5mSLPwyAqY",
       "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
       "channel": "Batas Senja Official",
       "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "SWkQwgx2Hzs",
+      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
+      "channel": "Eleanor Whisper",
+      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
       "position": 36
     },
     {
