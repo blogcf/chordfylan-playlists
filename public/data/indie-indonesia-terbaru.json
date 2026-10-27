@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CNTmgNcGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBnSvH9VdQ76BHgXy52tOrdZVgMew&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CPCtgtcGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBvmDlacMv4AVH7oHIsXPBkNJ2ebw&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-27T05:15:43.837239+00:00",
+  "updatedAt": "2026-10-27T12:24:40.304607+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -325,17 +325,17 @@
       "position": 44
     },
     {
-      "videoId": "9aOhAuYCQ1Y",
-      "title": "ttturbo - Jangan Ganggu Hari Ini (Official Music Video)",
-      "channel": "ttturbo",
-      "thumbnail": "https://i.ytimg.com/vi/9aOhAuYCQ1Y/mqdefault.jpg",
-      "position": 45
-    },
-    {
       "videoId": "dn_9tAkYsJE",
       "title": "RIO CLAPPY - JANJI BAHAGIA (OFFICIAL MUSIC VIDEO)",
       "channel": "Rio Clappy",
       "thumbnail": "https://i.ytimg.com/vi/dn_9tAkYsJE/mqdefault.jpg",
+      "position": 45
+    },
+    {
+      "videoId": "9aOhAuYCQ1Y",
+      "title": "ttturbo - Jangan Ganggu Hari Ini (Official Music Video)",
+      "channel": "ttturbo",
+      "thumbnail": "https://i.ytimg.com/vi/9aOhAuYCQ1Y/mqdefault.jpg",
       "position": 46
     },
     {
