@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIiahtcGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLBiTJZp6jFJvmBQDNfB2_UY2Qu5fQ&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKjoh9cGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLAHslYOTMcYOLHXNeY2IGPMTtYSQg&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-28T05:54:30.613126+00:00",
+  "updatedAt": "2026-10-28T13:11:25.926585+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -199,17 +199,17 @@
       "position": 26
     },
     {
-      "videoId": "-vJlbYXHHqM",
-      "title": "Fiersa Besari ft. GME - ia (Official Lyric Video)",
-      "channel": "Fiersa Besari Music",
-      "thumbnail": "https://i.ytimg.com/vi/-vJlbYXHHqM/mqdefault.jpg",
-      "position": 27
-    },
-    {
       "videoId": "xG0WUOeewo0",
       "title": "Seperti Angka 8",
       "channel": "Lafa Pratomo - Topic",
       "thumbnail": "https://i.ytimg.com/vi/xG0WUOeewo0/mqdefault.jpg",
+      "position": 27
+    },
+    {
+      "videoId": "-vJlbYXHHqM",
+      "title": "Fiersa Besari ft. GME - ia (Official Lyric Video)",
+      "channel": "Fiersa Besari Music",
+      "thumbnail": "https://i.ytimg.com/vi/-vJlbYXHHqM/mqdefault.jpg",
       "position": 28
     },
     {
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "9zEkqCfX7bs",
-      "title": "Navicula - Gagasan Tandingan",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/9zEkqCfX7bs/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "fs2VTd87KWQ",
       "title": "Bukan Kendalimu",
       "channel": "Lafa Pratomo - Topic",
       "thumbnail": "https://i.ytimg.com/vi/fs2VTd87KWQ/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "9zEkqCfX7bs",
+      "title": "Navicula - Gagasan Tandingan",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/9zEkqCfX7bs/mqdefault.jpg",
       "position": 33
     },
     {

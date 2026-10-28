@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CIiahtcGir7X7AMICPCB69YGEAE=&rs=AOn4CLBAMRgV2IoznmWCnhfv_gf3MtuJbA&v=1792721136",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKjoh9cGir7X7AMICPCB69YGEAE=&rs=AOn4CLBHy5UVrlWg6tH4YUcB22n_baqrMw&v=1792721136",
   "sourceCount": 75,
-  "updatedAt": "2026-10-28T05:54:29.762011+00:00",
+  "updatedAt": "2026-10-28T13:11:25.092452+00:00",
   "songs": [
     {
       "videoId": "uf721kddxuM",
@@ -150,17 +150,17 @@
       "position": 19
     },
     {
-      "videoId": "EnNAUCtR4vI",
-      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
-      "position": 20
-    },
-    {
       "videoId": "DUyvYKa7sI4",
       "title": "Afgan - Kacamata | Official Music Video",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DUyvYKa7sI4/mqdefault.jpg",
+      "position": 20
+    },
+    {
+      "videoId": "EnNAUCtR4vI",
+      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
       "position": 21
     },
     {
@@ -199,17 +199,17 @@
       "position": 26
     },
     {
-      "videoId": "VH8FsN-OI0k",
-      "title": "Rony Parulian - Wals Akhir Zaman (Official Music Video)",
-      "channel": "Rony Parulian",
-      "thumbnail": "https://i.ytimg.com/vi/VH8FsN-OI0k/mqdefault.jpg",
-      "position": 27
-    },
-    {
       "videoId": "R3N_vMzQpwA",
       "title": "Andien - Naksir (Official Music Video)",
       "channel": "Andien",
       "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
+      "position": 27
+    },
+    {
+      "videoId": "VH8FsN-OI0k",
+      "title": "Rony Parulian - Wals Akhir Zaman (Official Music Video)",
+      "channel": "Rony Parulian",
+      "thumbnail": "https://i.ytimg.com/vi/VH8FsN-OI0k/mqdefault.jpg",
       "position": 28
     },
     {
@@ -269,17 +269,17 @@
       "position": 36
     },
     {
-      "videoId": "uzV-aToTmMc",
-      "title": "Lyodra - Pintu Hati (Official Video)",
-      "channel": "Lyodra Official",
-      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
-      "position": 37
-    },
-    {
       "videoId": "cZcVa76PyOs",
       "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
       "channel": "Fajar Noor",
       "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
+      "position": 37
+    },
+    {
+      "videoId": "uzV-aToTmMc",
+      "title": "Lyodra - Pintu Hati (Official Video)",
+      "channel": "Lyodra Official",
+      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
       "position": 38
     },
     {
@@ -325,17 +325,17 @@
       "position": 44
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 45
-    },
-    {
       "videoId": "9rIvtjjbF18",
       "title": "Vanessa Zee, Rony Parulian - Takkan Terulang (Official Video)",
       "channel": "Vanessa Zee",
       "thumbnail": "https://i.ytimg.com/vi/9rIvtjjbF18/mqdefault.jpg",
+      "position": 45
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 46
     },
     {
