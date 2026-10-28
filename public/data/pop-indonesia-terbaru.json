@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKjoh9cGir7X7AMICMOO69YGEAE=&rs=AOn4CLBztGjVYMhZXGX5WppNtgG1C0tkIg&v=1792722755",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMDzidcGir7X7AMICMOO69YGEAE=&rs=AOn4CLB8nwlSM9cQlmLFWZ5hTSu_J7ffNg&v=1792722755",
   "sourceCount": 85,
-  "updatedAt": "2026-10-28T13:11:25.506081+00:00",
+  "updatedAt": "2026-10-28T22:41:44.126078+00:00",
   "songs": [
     {
       "videoId": "AhiuxzSEccs",
@@ -136,17 +136,17 @@
       "position": 17
     },
     {
-      "videoId": "pgctulw9RQc",
-      "title": "[MV] Bagai Cinta Pertama - JKT48 Trainee",
-      "channel": "JKT48",
-      "thumbnail": "https://i.ytimg.com/vi/pgctulw9RQc/mqdefault.jpg",
-      "position": 18
-    },
-    {
       "videoId": "mc741Bai-UE",
       "title": "Tanda Cinta",
       "channel": "Kaleb J - Topic",
       "thumbnail": "https://i.ytimg.com/vi/mc741Bai-UE/mqdefault.jpg",
+      "position": 18
+    },
+    {
+      "videoId": "pgctulw9RQc",
+      "title": "[MV] Bagai Cinta Pertama - JKT48 Trainee",
+      "channel": "JKT48",
+      "thumbnail": "https://i.ytimg.com/vi/pgctulw9RQc/mqdefault.jpg",
       "position": 19
     },
     {
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "Zwc_1gSKLzM",
-      "title": "Difki Khalif - Belum Selesai (Official Music Video)",
-      "channel": "Difki Khalif Musica Official",
-      "thumbnail": "https://i.ytimg.com/vi/Zwc_1gSKLzM/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "DmHeChPunIY",
       "title": "Mawar de Jongh - Oh Semoga | Visualizer",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "Zwc_1gSKLzM",
+      "title": "Difki Khalif - Belum Selesai (Official Music Video)",
+      "channel": "Difki Khalif Musica Official",
+      "thumbnail": "https://i.ytimg.com/vi/Zwc_1gSKLzM/mqdefault.jpg",
       "position": 30
     },
     {
@@ -304,10 +304,10 @@
       "position": 41
     },
     {
-      "videoId": "Q9DGSqTSHUU",
-      "title": "Jatuh Cinta Sendirian?",
-      "channel": "Romaria - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
+      "videoId": "Um_eS8EzFEM",
+      "title": "Salahkah",
+      "channel": "Ruth Garcia - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
       "position": 42
     },
     {
@@ -318,31 +318,31 @@
       "position": 43
     },
     {
+      "videoId": "Q9DGSqTSHUU",
+      "title": "Jatuh Cinta Sendirian?",
+      "channel": "Romaria - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
+      "position": 44
+    },
+    {
       "videoId": "KdP4uUcRtIc",
       "title": "Luka Terakhir",
       "channel": "Sheera - Topic",
       "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
-      "position": 44
+      "position": 45
     },
     {
       "videoId": "YRySJukonBc",
       "title": "Strategi Memilikimu",
       "channel": "Alisha Dira - Topic",
       "thumbnail": "https://i.ytimg.com/vi/YRySJukonBc/mqdefault.jpg",
-      "position": 45
+      "position": 46
     },
     {
       "videoId": "mlM8WkPlz6A",
       "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
       "channel": "Bagas Ran",
       "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
-      "position": 46
-    },
-    {
-      "videoId": "Um_eS8EzFEM",
-      "title": "Salahkah",
-      "channel": "Ruth Garcia - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
       "position": 47
     },
     {
