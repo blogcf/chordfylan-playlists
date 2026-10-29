@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CMDzidcGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLB6B67JeqwIgIDqANsz_80Z2fLbiA&v=1792719133",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLS_i9cGir7X7AMICJ3y6tYGEAE=&rs=AOn4CLDrBUUmC_2abpj6olDP10tGopDn-g&v=1792719133",
   "sourceCount": 70,
-  "updatedAt": "2026-10-28T22:41:44.537810+00:00",
+  "updatedAt": "2026-10-29T05:58:31.398758+00:00",
   "songs": [
     {
       "videoId": "SzLVyHXSlOA",
@@ -159,7 +159,7 @@
     {
       "videoId": "Plx71s2QTaQ",
       "title": "Kita Ke Sana (NFT Remix)",
-      "channel": "Release - Topic",
+      "channel": "Neo Funk Therapy - Topic",
       "thumbnail": "https://i.ytimg.com/vi/Plx71s2QTaQ/mqdefault.jpg",
       "position": 21
     },
@@ -269,17 +269,17 @@
       "position": 36
     },
     {
-      "videoId": "NzTBePa7qv0",
-      "title": "Hawa",
-      "channel": "Havva - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
-      "position": 37
-    },
-    {
       "videoId": "CwXm7WDAi8A",
       "title": "Selasa Bersepeda",
       "channel": "Nosstress - Topic",
       "thumbnail": "https://i.ytimg.com/vi/CwXm7WDAi8A/mqdefault.jpg",
+      "position": 37
+    },
+    {
+      "videoId": "NzTBePa7qv0",
+      "title": "Hawa",
+      "channel": "Havva - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
       "position": 38
     },
     {
@@ -304,59 +304,59 @@
       "position": 41
     },
     {
-      "videoId": "zaqIjFOSuh8",
-      "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
-      "channel": "The Brandals",
-      "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
-      "position": 42
-    },
-    {
       "videoId": "VphxiqsHaQg",
       "title": "Dimas M - aku mau hidup yang ada kamunya",
       "channel": "Dimas M",
       "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 43
+      "position": 42
     },
     {
       "videoId": "-lRfbPLEaEA",
       "title": "Rumah",
       "channel": "Navicula - Topic",
       "thumbnail": "https://i.ytimg.com/vi/-lRfbPLEaEA/mqdefault.jpg",
-      "position": 44
+      "position": 43
     },
     {
       "videoId": "dn_9tAkYsJE",
       "title": "RIO CLAPPY - JANJI BAHAGIA (OFFICIAL MUSIC VIDEO)",
       "channel": "Rio Clappy",
       "thumbnail": "https://i.ytimg.com/vi/dn_9tAkYsJE/mqdefault.jpg",
-      "position": 45
+      "position": 44
     },
     {
       "videoId": "9aOhAuYCQ1Y",
       "title": "ttturbo - Jangan Ganggu Hari Ini (Official Music Video)",
       "channel": "ttturbo",
       "thumbnail": "https://i.ytimg.com/vi/9aOhAuYCQ1Y/mqdefault.jpg",
-      "position": 46
+      "position": 45
     },
     {
       "videoId": "E1ShNzjFVEA",
       "title": "More on Mumbles - Setidaknya Kita Selamat (Lyric Video)",
       "channel": "More on Mumbles",
       "thumbnail": "https://i.ytimg.com/vi/E1ShNzjFVEA/mqdefault.jpg",
-      "position": 47
+      "position": 46
     },
     {
       "videoId": "-JUrkl5mowM",
       "title": "The Midnight Darlings - It’s You (Official Lyric Video)",
       "channel": "The Midnight Darlings",
       "thumbnail": "https://i.ytimg.com/vi/-JUrkl5mowM/mqdefault.jpg",
-      "position": 48
+      "position": 47
     },
     {
       "videoId": "xql5vYOTAHk",
       "title": "Navicula - Berburu Penyihir (official lyric video)",
       "channel": "Navicula Music",
       "thumbnail": "https://i.ytimg.com/vi/xql5vYOTAHk/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "KzUIi96f13c",
+      "title": "Polka Wars - Terbentur (Official Lyric Video)",
+      "channel": "Polka Wars",
+      "thumbnail": "https://i.ytimg.com/vi/KzUIi96f13c/mqdefault.jpg",
       "position": 49
     }
   ]
