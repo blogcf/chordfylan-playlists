@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CLS_i9cGir7X7AMICMOO69YGEAE=&rs=AOn4CLAHL6SKg-1HTBadlRynieXfwg-DSQ&v=1792722755",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNSNjdcGir7X7AMICMOO69YGEAE=&rs=AOn4CLB2_xahjS1EFlyc3d3Y4Tdzpgu10g&v=1792722755",
   "sourceCount": 85,
-  "updatedAt": "2026-10-29T05:58:30.952491+00:00",
+  "updatedAt": "2026-10-29T13:18:19.468203+00:00",
   "songs": [
     {
       "videoId": "AhiuxzSEccs",
@@ -178,17 +178,17 @@
       "position": 23
     },
     {
-      "videoId": "CFx2zEtKNlQ",
-      "title": "Giant Jay Ft. Dewanda Pratama  - Kalau Aku Lebih Darinya (Official Music Video)",
-      "channel": "POP ART | On Behalf Of HP MUSIC",
-      "thumbnail": "https://i.ytimg.com/vi/CFx2zEtKNlQ/mqdefault.jpg",
-      "position": 24
-    },
-    {
       "videoId": "5ewAlq8yAAE",
       "title": "Afgan - Langit Merah Muda (Original Soundtrack from 'Agensi Rumah Tangga')",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/5ewAlq8yAAE/mqdefault.jpg",
+      "position": 24
+    },
+    {
+      "videoId": "CFx2zEtKNlQ",
+      "title": "Giant Jay Ft. Dewanda Pratama  - Kalau Aku Lebih Darinya (Official Music Video)",
+      "channel": "POP ART | On Behalf Of HP MUSIC",
+      "thumbnail": "https://i.ytimg.com/vi/CFx2zEtKNlQ/mqdefault.jpg",
       "position": 25
     },
     {

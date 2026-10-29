@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLS_i9cGir7X7AMICPCB69YGEAE=&rs=AOn4CLDND6eRow8E1-5bFGftrcTmtbIHgw&v=1792721136",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CNSNjdcGir7X7AMICPCB69YGEAE=&rs=AOn4CLDqgEvu51zzRrhK1Eggp1HqGHfujg&v=1792721136",
   "sourceCount": 75,
-  "updatedAt": "2026-10-29T05:58:30.439082+00:00",
+  "updatedAt": "2026-10-29T13:18:18.994534+00:00",
   "songs": [
     {
       "videoId": "uf721kddxuM",
@@ -206,17 +206,17 @@
       "position": 27
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
-      "position": 28
-    },
-    {
       "videoId": "PWX5obVZohk",
       "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
       "channel": "Ade Nurulianto",
       "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
+      "position": 28
+    },
+    {
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
       "position": 29
     },
     {
