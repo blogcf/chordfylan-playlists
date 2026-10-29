@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CNSNjdcGir7X7AMICPCB69YGEAE=&rs=AOn4CLDqgEvu51zzRrhK1Eggp1HqGHfujg&v=1792721136",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CJibj9cGir7X7AMICPCB69YGEAE=&rs=AOn4CLBlZFVv9O_pQ3shVf63Q4URJYPrhw&v=1792721136",
   "sourceCount": 75,
-  "updatedAt": "2026-10-29T13:18:18.994534+00:00",
+  "updatedAt": "2026-10-29T22:50:51.033374+00:00",
   "songs": [
     {
       "videoId": "uf721kddxuM",
@@ -255,17 +255,17 @@
       "position": 34
     },
     {
-      "videoId": "KpkR77OdOeo",
-      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
-      "channel": "Musica Studios",
-      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "Uv5C4lV2f4k",
       "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
       "channel": "MeiskaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "KpkR77OdOeo",
+      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
+      "channel": "Musica Studios",
+      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
       "position": 36
     },
     {
@@ -290,31 +290,31 @@
       "position": 39
     },
     {
-      "videoId": "EVLUqn2LdFM",
-      "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
-      "channel": "Stevan Pasaribu Musica Official",
-      "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
-      "position": 40
-    },
-    {
       "videoId": "pgctulw9RQc",
       "title": "[MV] Bagai Cinta Pertama - JKT48 Trainee",
       "channel": "JKT48",
       "thumbnail": "https://i.ytimg.com/vi/pgctulw9RQc/mqdefault.jpg",
-      "position": 41
+      "position": 40
     },
     {
-      "videoId": "q_WK_5pR29A",
-      "title": "Yura Yunita - Pertiwi (Official Music Video)",
-      "channel": "YURA YUNITA",
-      "thumbnail": "https://i.ytimg.com/vi/q_WK_5pR29A/mqdefault.jpg",
-      "position": 42
+      "videoId": "EVLUqn2LdFM",
+      "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
+      "channel": "Stevan Pasaribu Musica Official",
+      "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
+      "position": 41
     },
     {
       "videoId": "azZTfgTifDY",
       "title": "Ariel NOAH - Ancika (OST. Dilan ITB 1997) | Official Lyric Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/azZTfgTifDY/mqdefault.jpg",
+      "position": 42
+    },
+    {
+      "videoId": "q_WK_5pR29A",
+      "title": "Yura Yunita - Pertiwi (Official Music Video)",
+      "channel": "YURA YUNITA",
+      "thumbnail": "https://i.ytimg.com/vi/q_WK_5pR29A/mqdefault.jpg",
       "position": 43
     },
     {
@@ -332,31 +332,31 @@
       "position": 45
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 46
-    },
-    {
       "videoId": "uL-svy7WZWA",
       "title": "Iwan Fals & Ebiet G. Ade - Ibu (Official Music Video)",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/uL-svy7WZWA/mqdefault.jpg",
-      "position": 47
+      "position": 46
     },
     {
       "videoId": "2x_EYv5H68o",
       "title": "Stevan Pasaribu - Beri Aku Kesempatan (Official Music Video)",
       "channel": "Stevan Pasaribu Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/2x_EYv5H68o/mqdefault.jpg",
-      "position": 48
+      "position": 47
     },
     {
       "videoId": "Q-RAHKlwTXw",
       "title": "Tohpati, Fabio Asher - Cinta Kita (Official Music Video)",
       "channel": "TohpatiVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Q-RAHKlwTXw/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 49
     }
   ]
