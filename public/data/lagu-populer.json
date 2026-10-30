@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CPyrktcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLDE_0kJPUFUGcJx4hUTD9LAaDQzwQ&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLyylNcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLDu7LJPtl6W-DZfg99AJ2khm3m5mw&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-10-30T13:09:52.633795+00:00",
+  "updatedAt": "2026-10-30T22:28:03.559647+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -164,17 +164,17 @@
       "position": 21
     },
     {
-      "videoId": "EnNAUCtR4vI",
-      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
-      "position": 22
-    },
-    {
       "videoId": "sz5cibo858o",
       "title": "Syahrini - Kau Yang Utama (Official Music Video)",
       "channel": "The Princess Syahrini",
       "thumbnail": "https://i.ytimg.com/vi/sz5cibo858o/mqdefault.jpg",
+      "position": 22
+    },
+    {
+      "videoId": "EnNAUCtR4vI",
+      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
       "position": 23
     },
     {
@@ -185,17 +185,17 @@
       "position": 24
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 25
-    },
-    {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
+      "position": 25
+    },
+    {
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
       "position": 26
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "KpkR77OdOeo",
-      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
-      "channel": "Musica Studios",
-      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "Uv5C4lV2f4k",
       "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
       "channel": "MeiskaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "KpkR77OdOeo",
+      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
+      "channel": "Musica Studios",
+      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
       "position": 37
     },
     {
