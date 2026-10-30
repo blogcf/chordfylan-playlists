@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLTikNcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLB_xIBla0F_t7tq1ndODLYPiVnQ-w&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CPyrktcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLDE_0kJPUFUGcJx4hUTD9LAaDQzwQ&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-10-30T05:59:31.838193+00:00",
+  "updatedAt": "2026-10-30T13:09:52.633795+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -164,17 +164,17 @@
       "position": 21
     },
     {
-      "videoId": "sz5cibo858o",
-      "title": "Syahrini - Kau Yang Utama (Official Music Video)",
-      "channel": "The Princess Syahrini",
-      "thumbnail": "https://i.ytimg.com/vi/sz5cibo858o/mqdefault.jpg",
-      "position": 22
-    },
-    {
       "videoId": "EnNAUCtR4vI",
       "title": "Rizky Febian - Adu Pandang (Official Music Video)",
       "channel": "Rizky Febian",
       "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
+      "position": 22
+    },
+    {
+      "videoId": "sz5cibo858o",
+      "title": "Syahrini - Kau Yang Utama (Official Music Video)",
+      "channel": "The Princess Syahrini",
+      "thumbnail": "https://i.ytimg.com/vi/sz5cibo858o/mqdefault.jpg",
       "position": 23
     },
     {
@@ -332,31 +332,31 @@
       "position": 45
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 46
-    },
-    {
       "videoId": "uL-svy7WZWA",
       "title": "Iwan Fals & Ebiet G. Ade - Ibu (Official Music Video)",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/uL-svy7WZWA/mqdefault.jpg",
-      "position": 47
+      "position": 46
     },
     {
       "videoId": "2x_EYv5H68o",
       "title": "Stevan Pasaribu - Beri Aku Kesempatan (Official Music Video)",
       "channel": "Stevan Pasaribu Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/2x_EYv5H68o/mqdefault.jpg",
+      "position": 47
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 48
     },
     {
-      "videoId": "Xg_xFy0aIlQ",
-      "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
-      "channel": "Melly Goeslaw TV",
-      "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
+      "videoId": "AhiuxzSEccs",
+      "title": "MALIQ & D'Essentials - Arah Labuh (Official Lyric Video)",
+      "channel": "MALIQ & D'Essentials",
+      "thumbnail": "https://i.ytimg.com/vi/AhiuxzSEccs/mqdefault.jpg",
       "position": 49
     }
   ]
