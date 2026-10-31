@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLSFltcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLDLacmo3Qy54Yi1eWSZwwN1i7OjAg&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMzFl9cGir7X7AMICIr2j9cGEAE=&rs=AOn4CLA6JfjDxsHfYFrzngyjSk0TIa97ag&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-10-31T05:55:27.582357+00:00",
+  "updatedAt": "2026-10-31T12:46:45.269413+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "4BQGKMrwCGU",
       "title": "Hatimu Milik Dia",
       "channel": "Arvian Dwi - Topic",
       "thumbnail": "https://i.ytimg.com/vi/4BQGKMrwCGU/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
       "position": 30
     },
     {
@@ -318,38 +318,38 @@
       "position": 43
     },
     {
+      "videoId": "Xg_xFy0aIlQ",
+      "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
+      "channel": "Melly Goeslaw TV",
+      "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
+      "position": 44
+    },
+    {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
-      "position": 44
+      "position": 45
     },
     {
       "videoId": "9rIvtjjbF18",
       "title": "Vanessa Zee, Rony Parulian - Takkan Terulang (Official Video)",
       "channel": "Vanessa Zee",
       "thumbnail": "https://i.ytimg.com/vi/9rIvtjjbF18/mqdefault.jpg",
-      "position": 45
+      "position": 46
     },
     {
       "videoId": "uL-svy7WZWA",
       "title": "Iwan Fals & Ebiet G. Ade - Ibu (Official Music Video)",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/uL-svy7WZWA/mqdefault.jpg",
-      "position": 46
+      "position": 47
     },
     {
       "videoId": "2x_EYv5H68o",
       "title": "Stevan Pasaribu - Beri Aku Kesempatan (Official Music Video)",
       "channel": "Stevan Pasaribu Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/2x_EYv5H68o/mqdefault.jpg",
-      "position": 47
-    },
-    {
-      "videoId": "UW52S65gPmM",
-      "title": "MARBLES - HOMPIMPA | Official Music Video",
-      "channel": "MARBLES",
-      "thumbnail": "https://i.ytimg.com/vi/UW52S65gPmM/mqdefault.jpg",
       "position": 48
     },
     {
