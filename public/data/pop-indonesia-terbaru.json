@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMzFl9cGir7X7AMICLiCkNcGEAE=&rs=AOn4CLCzIv69CYKdti12FI91Ix4VdhS4mg&v=1793327416",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CLDAmdcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLA5Nfc1ub-pNGFcTCAhLqL9CLQAEA&v=1793327416",
   "sourceCount": 85,
-  "updatedAt": "2026-10-31T12:46:45.754209+00:00",
+  "updatedAt": "2026-10-31T21:43:10.771840+00:00",
   "songs": [
     {
       "videoId": "UYDb8UvAVCc",
@@ -143,38 +143,38 @@
       "position": 18
     },
     {
+      "videoId": "mc741Bai-UE",
+      "title": "Tanda Cinta",
+      "channel": "Kaleb J - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/mc741Bai-UE/mqdefault.jpg",
+      "position": 19
+    },
+    {
       "videoId": "Z0v3DAh_DFw",
       "title": "PUTRI ARIANI - HOLDING ON (Official Lyric Video)",
       "channel": "Putri Ariani",
       "thumbnail": "https://i.ytimg.com/vi/Z0v3DAh_DFw/mqdefault.jpg",
-      "position": 19
+      "position": 20
     },
     {
       "videoId": "EVLUqn2LdFM",
       "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
       "channel": "Stevan Pasaribu Musica Official",
       "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
-      "position": 20
-    },
-    {
-      "videoId": "mc741Bai-UE",
-      "title": "Tanda Cinta",
-      "channel": "Kaleb J - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/mc741Bai-UE/mqdefault.jpg",
       "position": 21
-    },
-    {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 22
     },
     {
       "videoId": "FsvGsGDQD_Y",
       "title": "Ahmad Abdul - Setelah Sekian Lama (Official Music Video)",
       "channel": "Ahmad Abdul",
       "thumbnail": "https://i.ytimg.com/vi/FsvGsGDQD_Y/mqdefault.jpg",
+      "position": 22
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 23
     },
     {
@@ -283,17 +283,17 @@
       "position": 38
     },
     {
-      "videoId": "x_jYwG5UK-I",
-      "title": "Aku Bisa",
-      "channel": "Mahen - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/x_jYwG5UK-I/mqdefault.jpg",
-      "position": 39
-    },
-    {
       "videoId": "Q9DGSqTSHUU",
       "title": "Jatuh Cinta Sendirian?",
       "channel": "Romaria - Topic",
       "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
+      "position": 39
+    },
+    {
+      "videoId": "x_jYwG5UK-I",
+      "title": "Aku Bisa",
+      "channel": "Mahen - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/x_jYwG5UK-I/mqdefault.jpg",
       "position": 40
     },
     {
@@ -304,17 +304,17 @@
       "position": 41
     },
     {
-      "videoId": "Um_eS8EzFEM",
-      "title": "Salahkah",
-      "channel": "Ruth Garcia - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
-      "position": 42
-    },
-    {
       "videoId": "mlM8WkPlz6A",
       "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
       "channel": "Bagas Ran",
       "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
+      "position": 42
+    },
+    {
+      "videoId": "Um_eS8EzFEM",
+      "title": "Salahkah",
+      "channel": "Ruth Garcia - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Um_eS8EzFEM/mqdefault.jpg",
       "position": 43
     },
     {
@@ -325,38 +325,38 @@
       "position": 44
     },
     {
-      "videoId": "uLP-M0ZX5cg",
-      "title": "Dominique Adhadiaz - basi. (Official Lyric Visualizer)",
-      "channel": "Dominique Adhadiaz",
-      "thumbnail": "https://i.ytimg.com/vi/uLP-M0ZX5cg/mqdefault.jpg",
-      "position": 45
-    },
-    {
       "videoId": "d3nBL7CyWyY",
       "title": "Aruma - Semoga Nanti (Official Lyric Visualizer)",
       "channel": "ArumaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/d3nBL7CyWyY/mqdefault.jpg",
-      "position": 46
+      "position": 45
     },
     {
-      "videoId": "ISZvs9pINsE",
-      "title": "Salahkah Ku Bahagia",
-      "channel": "Insomniacks - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
-      "position": 47
+      "videoId": "uLP-M0ZX5cg",
+      "title": "Dominique Adhadiaz - basi. (Official Lyric Visualizer)",
+      "channel": "Dominique Adhadiaz",
+      "thumbnail": "https://i.ytimg.com/vi/uLP-M0ZX5cg/mqdefault.jpg",
+      "position": 46
     },
     {
       "videoId": "p-qLR581hAA",
       "title": "Aura",
       "channel": "Release - Topic",
       "thumbnail": "https://i.ytimg.com/vi/p-qLR581hAA/mqdefault.jpg",
-      "position": 48
+      "position": 47
     },
     {
       "videoId": "VcQ6UI5k3UI",
       "title": "ANGEL PIETERS - RUMAH SENDIRI (OFFICIAL LYRIC VIDEO)",
       "channel": "Angel Pieters",
       "thumbnail": "https://i.ytimg.com/vi/VcQ6UI5k3UI/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "ISZvs9pINsE",
+      "title": "Salahkah Ku Bahagia",
+      "channel": "Insomniacks - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 49
     }
   ]

@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMzFl9cGir7X7AMICIr2j9cGEAE=&rs=AOn4CLA6JfjDxsHfYFrzngyjSk0TIa97ag&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLDAmdcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLCZD0pciYoMrxtO80lGCsaDEsIvsA&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-10-31T12:46:45.269413+00:00",
+  "updatedAt": "2026-10-31T21:43:10.375301+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "Mk2sSKMdDjA",
-      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL LYRIC VIDEO)",
-      "channel": "Fabio Asher",
-      "thumbnail": "https://i.ytimg.com/vi/Mk2sSKMdDjA/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "pP5gYltKGJE",
       "title": "Rony Parulian - Februari (Official Album Visualizer)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/pP5gYltKGJE/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "Mk2sSKMdDjA",
+      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL LYRIC VIDEO)",
+      "channel": "Fabio Asher",
+      "thumbnail": "https://i.ytimg.com/vi/Mk2sSKMdDjA/mqdefault.jpg",
       "position": 32
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "KpkR77OdOeo",
-      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
-      "channel": "Musica Studios",
-      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "Uv5C4lV2f4k",
       "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
       "channel": "MeiskaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "KpkR77OdOeo",
+      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
+      "channel": "Musica Studios",
+      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
       "position": 37
     },
     {
@@ -318,17 +318,17 @@
       "position": 43
     },
     {
-      "videoId": "Xg_xFy0aIlQ",
-      "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
-      "channel": "Melly Goeslaw TV",
-      "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
-      "position": 44
-    },
-    {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
+      "position": 44
+    },
+    {
+      "videoId": "Xg_xFy0aIlQ",
+      "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
+      "channel": "Melly Goeslaw TV",
+      "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
       "position": 45
     },
     {
