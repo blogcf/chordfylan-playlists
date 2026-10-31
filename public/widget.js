@@ -3,7 +3,7 @@
 var script=document.currentScript,base=new URL('.',script.src).href;
 var configs=[{"slug": "lagu-populer", "title": "Lagu POPuler", "playlistId": "RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI", "limit": 50, "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html"}, {"slug": "pop-indonesia-terbaru", "title": "Pop Indonesia Terbaru", "playlistId": "RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os", "limit": 50, "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html"}, {"slug": "indie-indonesia-terbaru", "title": "Indie Indonesia Terbaru", "playlistId": "RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8", "limit": 50, "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html"}, {"slug": "100-lagu-teratas-indonesia", "title": "100 Lagu Teratas Indonesia", "playlistId": "PL4fGSI1pDJn5ObxTlEPlkkornHXUiKX1z", "limit": null, "pageUrl": "https://www.chordfylan.com/p/100-lagu-teratas-indonesia.html"}];
 if(!document.querySelector('link[data-cf-yt-css]')){var css=document.createElement('link');css.rel='stylesheet';css.href=base+'widget.css?v=20261025-2';css.dataset.cfYtCss='1';document.head.appendChild(css);}
-function el(tag,text){var n=document.createElement(tag);if(text)n.textContent=text;return n;}
+function el(tag,text){var n=document.createElement(tag);if(text)n.textContent=text;if(tag==='a'){n.target='_blank';n.rel='noopener';}return n;}
 function safeImage(url){try{var u=new URL(url);return u.protocol==='https:'&&/(^|\.)(ytimg\.com|ggpht\.com|googleusercontent\.com)$/.test(u.hostname)?u.href:'';}catch(e){return '';}}
 function picture(url,title,fallbacks){
  var img=el('img');img.alt=title;img.loading='lazy';
