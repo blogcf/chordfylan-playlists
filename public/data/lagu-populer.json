@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CISAndcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLBDVQ3Xqo45E6i0-mBdn5GHVBtFUw&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLjxntcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLDimVwNZA0yFZf9HjZ650nM4IwQIQ&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-11-01T13:39:05.364978+00:00",
+  "updatedAt": "2026-11-01T22:10:09.907423+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -129,17 +129,17 @@
       "position": 16
     },
     {
-      "videoId": "7bEXD2NUO0k",
-      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
-      "channel": "Judika Entertainment ",
-      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
-      "position": 17
-    },
-    {
       "videoId": "IMtdWKwFlv0",
       "title": "Tiara Andini - Tulang dan Nadi (Official Visualizer)",
       "channel": "Tiara Andini",
       "thumbnail": "https://i.ytimg.com/vi/IMtdWKwFlv0/mqdefault.jpg",
+      "position": 17
+    },
+    {
+      "videoId": "7bEXD2NUO0k",
+      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
+      "channel": "Judika Entertainment ",
+      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
       "position": 18
     },
     {
@@ -185,17 +185,17 @@
       "position": 24
     },
     {
-      "videoId": "GgpMwVJYkcM",
-      "title": "Salma Salsabil - maha benar (Official Music Video)",
-      "channel": "Salma Salsabil",
-      "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
-      "position": 25
-    },
-    {
       "videoId": "g3ZWhi29QFI",
       "title": "Juicy Luicy - Gurun Hujan (Official Lyric Video)",
       "channel": "Emotion Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/g3ZWhi29QFI/mqdefault.jpg",
+      "position": 25
+    },
+    {
+      "videoId": "GgpMwVJYkcM",
+      "title": "Salma Salsabil - maha benar (Official Music Video)",
+      "channel": "Salma Salsabil",
+      "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
       "position": 26
     },
     {
