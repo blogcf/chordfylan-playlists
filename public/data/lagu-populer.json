@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CJC0m9cGir7X7AMICIr2j9cGEAE=&rs=AOn4CLCfzAQCj54o9M8s24_ojWVswBFL9w&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CISAndcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLBDVQ3Xqo45E6i0-mBdn5GHVBtFUw&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-11-01T06:23:06.648230+00:00",
+  "updatedAt": "2026-11-01T13:39:05.364978+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -241,17 +241,17 @@
       "position": 32
     },
     {
-      "videoId": "i_lUqe8ds1I",
-      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
-      "channel": "Aku eńau",
-      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "i_lUqe8ds1I",
+      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
+      "channel": "Aku eńau",
+      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
       "position": 34
     },
     {
