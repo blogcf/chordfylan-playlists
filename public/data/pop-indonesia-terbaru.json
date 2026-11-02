@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CLjxntcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLBnBW_naRDOyDIKrZIsxby-yvB0qQ&v=1793327416",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CJDXoNcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLBu0kMkrXp6pvfAC7PzAjBLmzYWfw&v=1793327416",
   "sourceCount": 85,
-  "updatedAt": "2026-11-01T22:10:10.501733+00:00",
+  "updatedAt": "2026-11-02T06:24:15.976388+00:00",
   "songs": [
     {
       "videoId": "UYDb8UvAVCc",
@@ -213,31 +213,31 @@
       "position": 28
     },
     {
-      "videoId": "7R-Ft2y_bIM",
-      "title": "Baik Hati",
-      "channel": "Juicy Luicy - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "Z4YYizJ-ojI",
       "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
       "channel": "Fabio Asher",
       "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
-      "position": 30
+      "position": 29
     },
     {
-      "videoId": "DCIlEn1dEpY",
-      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 31
+      "videoId": "7R-Ft2y_bIM",
+      "title": "Baik Hati",
+      "channel": "Juicy Luicy - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
+      "position": 30
     },
     {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "DCIlEn1dEpY",
+      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
       "position": 32
     },
     {
@@ -248,17 +248,17 @@
       "position": 33
     },
     {
-      "videoId": "yhxIMnHf-PE",
-      "title": "Dadali - Aku Bisa Gila (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/yhxIMnHf-PE/mqdefault.jpg",
-      "position": 34
-    },
-    {
       "videoId": "rWKc2LdDx3I",
       "title": "ANGGIS DEVAKI - TENTANGMU, TENANGKU (OST. IBU, BAGAIMANA AKU TANPAMU?) 24 SEPTEMBER DI BIOSKOP!",
       "channel": "HITS Records",
       "thumbnail": "https://i.ytimg.com/vi/rWKc2LdDx3I/mqdefault.jpg",
+      "position": 34
+    },
+    {
+      "videoId": "yhxIMnHf-PE",
+      "title": "Dadali - Aku Bisa Gila (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/yhxIMnHf-PE/mqdefault.jpg",
       "position": 35
     },
     {
