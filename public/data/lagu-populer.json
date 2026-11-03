@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMSKptcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLBHidGrWEdIXOGoSx8DqNqTz2LpDg&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COTuqNcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLBlOJqdpjqDDbvipBl25wUcLSBvZw&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-11-03T06:58:15.362748+00:00",
+  "updatedAt": "2026-11-03T19:36:15.326818+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -101,17 +101,17 @@
       "position": 12
     },
     {
-      "videoId": "XAl6rZepmDg",
-      "title": "no na - star (Official Music Video)",
-      "channel": "no na",
-      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
-      "position": 13
-    },
-    {
       "videoId": "dsOGH_ZBdCM",
       "title": "Masa ini, Nanti, dan Masa Indah Lainnya",
       "channel": "Nuca - Topic",
       "thumbnail": "https://i.ytimg.com/vi/dsOGH_ZBdCM/mqdefault.jpg",
+      "position": 13
+    },
+    {
+      "videoId": "XAl6rZepmDg",
+      "title": "no na - star (Official Music Video)",
+      "channel": "no na",
+      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
       "position": 14
     },
     {
@@ -241,17 +241,17 @@
       "position": 32
     },
     {
-      "videoId": "i_lUqe8ds1I",
-      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
-      "channel": "Aku eńau",
-      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "i_lUqe8ds1I",
+      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
+      "channel": "Aku eńau",
+      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
       "position": 34
     },
     {

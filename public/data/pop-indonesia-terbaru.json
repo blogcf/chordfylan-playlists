@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMSKptcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLBRC0kxSFmH3tkcUUnXIj9msmF5QA&v=1793327416",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=COTuqNcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLBBXrnqpx42WHrKywhuFaDbTpZawQ&v=1793327416",
   "sourceCount": 85,
-  "updatedAt": "2026-11-03T06:58:15.865575+00:00",
+  "updatedAt": "2026-11-03T19:36:15.904168+00:00",
   "songs": [
     {
       "videoId": "UYDb8UvAVCc",
@@ -38,10 +38,10 @@
       "position": 3
     },
     {
-      "videoId": "bH2uS-Urh9c",
-      "title": "Birds Call Your Name",
-      "channel": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/bH2uS-Urh9c/mqdefault.jpg",
+      "videoId": "9ih-bRUsqeM",
+      "title": "Nicole Rossi - Birds Call Your Name - Stars Lyric",
+      "channel": "Stars Lyric",
+      "thumbnail": "https://i.ytimg.com/vi/9ih-bRUsqeM/mqdefault.jpg",
       "position": 4
     },
     {
@@ -213,31 +213,31 @@
       "position": 28
     },
     {
-      "videoId": "7R-Ft2y_bIM",
-      "title": "Baik Hati",
-      "channel": "Juicy Luicy - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "Z4YYizJ-ojI",
       "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
       "channel": "Fabio Asher",
       "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
-      "position": 30
+      "position": 29
     },
     {
-      "videoId": "DCIlEn1dEpY",
-      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 31
+      "videoId": "7R-Ft2y_bIM",
+      "title": "Baik Hati",
+      "channel": "Juicy Luicy - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
+      "position": 30
     },
     {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "DCIlEn1dEpY",
+      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
       "position": 32
     },
     {
@@ -269,31 +269,31 @@
       "position": 36
     },
     {
-      "videoId": "BcDL8b_mpJs",
-      "title": "Francis Karel - Purple Skies (Official Music Video)",
-      "channel": "Francis Karel",
-      "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
-      "position": 37
-    },
-    {
       "videoId": "f18zZojAC08",
       "title": "Apa Saja, Bisa! | Dance Version Video",
       "channel": "Glitter Official",
       "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
-      "position": 38
+      "position": 37
     },
     {
-      "videoId": "ISZvs9pINsE",
-      "title": "Salahkah Ku Bahagia",
-      "channel": "Insomniacks - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
-      "position": 39
+      "videoId": "BcDL8b_mpJs",
+      "title": "Francis Karel - Purple Skies (Official Music Video)",
+      "channel": "Francis Karel",
+      "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
+      "position": 38
     },
     {
       "videoId": "x_jYwG5UK-I",
       "title": "Aku Bisa",
       "channel": "Mahen - Topic",
       "thumbnail": "https://i.ytimg.com/vi/x_jYwG5UK-I/mqdefault.jpg",
+      "position": 39
+    },
+    {
+      "videoId": "ISZvs9pINsE",
+      "title": "Salahkah Ku Bahagia",
+      "channel": "Insomniacks - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 40
     },
     {
@@ -340,7 +340,7 @@
     },
     {
       "videoId": "uLP-M0ZX5cg",
-      "title": "Dominique Adhadiaz - basi. (Official Lyric Visualizer)",
+      "title": "Dominique Adhadiaz - basi. (Official Lyric Video)",
       "channel": "Dominique Adhadiaz",
       "thumbnail": "https://i.ytimg.com/vi/uLP-M0ZX5cg/mqdefault.jpg",
       "position": 47
