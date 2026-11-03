@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNyIpNcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLAIK6aYA4ybq0A2AppZMLZ4Lm7HMA&v=1793327416",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMSKptcGir7X7AMICLiCkNcGEAE=&rs=AOn4CLBRC0kxSFmH3tkcUUnXIj9msmF5QA&v=1793327416",
   "sourceCount": 85,
-  "updatedAt": "2026-11-02T21:46:39.216153+00:00",
+  "updatedAt": "2026-11-03T06:58:15.865575+00:00",
   "songs": [
     {
       "videoId": "UYDb8UvAVCc",
@@ -45,17 +45,17 @@
       "position": 4
     },
     {
-      "videoId": "U1BDaJkCRKQ",
-      "title": "[MV] Ayo Senyumlah - JKT48",
-      "channel": "JKT48",
-      "thumbnail": "https://i.ytimg.com/vi/U1BDaJkCRKQ/mqdefault.jpg",
-      "position": 5
-    },
-    {
       "videoId": "tSA-rz_bsSg",
       "title": "Piche Kota - Sedikit Lebih Lama (Official Music Video)",
       "channel": "Piche Kota",
       "thumbnail": "https://i.ytimg.com/vi/tSA-rz_bsSg/mqdefault.jpg",
+      "position": 5
+    },
+    {
+      "videoId": "U1BDaJkCRKQ",
+      "title": "[MV] Ayo Senyumlah - JKT48",
+      "channel": "JKT48",
+      "thumbnail": "https://i.ytimg.com/vi/U1BDaJkCRKQ/mqdefault.jpg",
       "position": 6
     },
     {
@@ -199,31 +199,31 @@
       "position": 26
     },
     {
-      "videoId": "DmHeChPunIY",
-      "title": "Mawar de Jongh - Oh Semoga | Visualizer",
-      "channel": "Trinity Optima Production",
-      "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
-      "position": 27
-    },
-    {
       "videoId": "G5Wa1Kg-yWE",
       "title": "Maju Satu Satu",
       "channel": "Tsaqib - Topic",
       "thumbnail": "https://i.ytimg.com/vi/G5Wa1Kg-yWE/mqdefault.jpg",
-      "position": 28
+      "position": 27
     },
     {
-      "videoId": "Z4YYizJ-ojI",
-      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
-      "channel": "Fabio Asher",
-      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
-      "position": 29
+      "videoId": "DmHeChPunIY",
+      "title": "Mawar de Jongh - Oh Semoga | Visualizer",
+      "channel": "Trinity Optima Production",
+      "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
+      "position": 28
     },
     {
       "videoId": "7R-Ft2y_bIM",
       "title": "Baik Hati",
       "channel": "Juicy Luicy - Topic",
       "thumbnail": "https://i.ytimg.com/vi/7R-Ft2y_bIM/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "Z4YYizJ-ojI",
+      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
+      "channel": "Fabio Asher",
+      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
       "position": 30
     },
     {
@@ -283,24 +283,24 @@
       "position": 38
     },
     {
+      "videoId": "ISZvs9pINsE",
+      "title": "Salahkah Ku Bahagia",
+      "channel": "Insomniacks - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
+      "position": 39
+    },
+    {
       "videoId": "x_jYwG5UK-I",
       "title": "Aku Bisa",
       "channel": "Mahen - Topic",
       "thumbnail": "https://i.ytimg.com/vi/x_jYwG5UK-I/mqdefault.jpg",
-      "position": 39
+      "position": 40
     },
     {
       "videoId": "Q9DGSqTSHUU",
       "title": "Jatuh Cinta Sendirian?",
       "channel": "Romaria - Topic",
       "thumbnail": "https://i.ytimg.com/vi/Q9DGSqTSHUU/mqdefault.jpg",
-      "position": 40
-    },
-    {
-      "videoId": "ISZvs9pINsE",
-      "title": "Salahkah Ku Bahagia",
-      "channel": "Insomniacks - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 41
     },
     {
