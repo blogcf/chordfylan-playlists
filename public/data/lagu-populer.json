@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMTQsNcGir7X7AMICIr2j9cGEAE=&rs=AOn4CLCm14S8XjHIr_xUKpsEbcm0pf2q-w&v=1793325834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMDAs9cGir7X7AMICIr2j9cGEAE=&rs=AOn4CLBUwXavOIGvbg4xnes7x0Wn1Xz1BQ&v=1793325834",
   "sourceCount": 75,
-  "updatedAt": "2026-11-05T06:59:14.978399+00:00",
+  "updatedAt": "2026-11-05T20:04:58.277471+00:00",
   "songs": [
     {
       "videoId": "V6cQ4LyvOgg",
@@ -213,45 +213,45 @@
       "position": 28
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "VX6BnfI_E2c",
       "title": "Paul Aro - Biar Kita Jadi Kenangan (Official Video)",
       "channel": "Paul Aro",
       "thumbnail": "https://i.ytimg.com/vi/VX6BnfI_E2c/mqdefault.jpg",
-      "position": 30
+      "position": 29
     },
     {
       "videoId": "pP5gYltKGJE",
       "title": "Rony Parulian - Februari (Official Album Visualizer)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/pP5gYltKGJE/mqdefault.jpg",
-      "position": 31
+      "position": 30
     },
     {
-      "videoId": "i_lUqe8ds1I",
-      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
-      "channel": "Aku eńau",
-      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 32
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
+      "position": 31
     },
     {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "i_lUqe8ds1I",
+      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
+      "channel": "Aku eńau",
+      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
       "position": 33
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
+      "videoId": "Uv5C4lV2f4k",
+      "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
+      "channel": "MeiskaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
       "position": 34
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "Uv5C4lV2f4k",
-      "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
-      "channel": "MeiskaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "cZcVa76PyOs",
       "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
       "channel": "Fajar Noor",
       "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
       "position": 37
     },
     {
