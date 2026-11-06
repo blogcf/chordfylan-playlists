@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMTztdcGir7X7AMICJHZtNcGEAE=&rs=AOn4CLDBdBvQMBfDfUj4F737sd3AhQyGkA&v=1793928337",
-  "sourceCount": 75,
-  "updatedAt": "2026-11-06T06:58:40.446143+00:00",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLjVuNcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLBLUXmj5lhge03r1nlbMo0o2PLAJg&v=1793947550",
+  "sourceCount": 71,
+  "updatedAt": "2026-11-06T19:30:29.198447+00:00",
   "songs": [
     {
       "videoId": "ks27-0q-Hrc",
@@ -143,17 +143,17 @@
       "position": 18
     },
     {
-      "videoId": "7bEXD2NUO0k",
-      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
-      "channel": "Judika Entertainment ",
-      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
-      "position": 19
-    },
-    {
       "videoId": "n0sxFjzZLIw",
       "title": "SPONTAN ( tanpa ) UHUY! – DEABDIL ( Official Performance ) | Alah Alah ... Kok Bisa Ya",
       "channel": "DÉABDIL",
       "thumbnail": "https://i.ytimg.com/vi/n0sxFjzZLIw/mqdefault.jpg",
+      "position": 19
+    },
+    {
+      "videoId": "7bEXD2NUO0k",
+      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
+      "channel": "Judika Entertainment ",
+      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
       "position": 20
     },
     {
@@ -220,17 +220,17 @@
       "position": 29
     },
     {
-      "videoId": "pP5gYltKGJE",
-      "title": "Rony Parulian - Februari (Official Album Visualizer)",
-      "channel": "Rony Parulian",
-      "thumbnail": "https://i.ytimg.com/vi/pP5gYltKGJE/mqdefault.jpg",
-      "position": 30
-    },
-    {
       "videoId": "VX6BnfI_E2c",
       "title": "Paul Aro - Biar Kita Jadi Kenangan (Official Video)",
       "channel": "Paul Aro",
       "thumbnail": "https://i.ytimg.com/vi/VX6BnfI_E2c/mqdefault.jpg",
+      "position": 30
+    },
+    {
+      "videoId": "pP5gYltKGJE",
+      "title": "Rony Parulian - Februari (Official Album Visualizer)",
+      "channel": "Rony Parulian",
+      "thumbnail": "https://i.ytimg.com/vi/pP5gYltKGJE/mqdefault.jpg",
       "position": 31
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "Uv5C4lV2f4k",
-      "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
-      "channel": "MeiskaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "cZcVa76PyOs",
       "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
       "channel": "Fajar Noor",
       "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "Uv5C4lV2f4k",
+      "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
+      "channel": "MeiskaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
       "position": 37
     },
     {

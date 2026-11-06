@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CMTztdcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLDedTCptW93WNddEcPE6h8C3WpqJQ&v=1793932675",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLjVuNcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLAuvohpncTivXdMcdyQl2BsKMrHGQ&v=1793932675",
   "sourceCount": 70,
-  "updatedAt": "2026-11-06T06:58:40.931992+00:00",
+  "updatedAt": "2026-11-06T19:30:29.673451+00:00",
   "songs": [
     {
       "videoId": "mnzkjViCWqU",
@@ -178,17 +178,17 @@
       "position": 23
     },
     {
-      "videoId": "_Vid_V1vNtc",
-      "title": "sadge - heiakim & aiella [Official Music Video]",
-      "channel": "heiakim",
-      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
-      "position": 24
-    },
-    {
       "videoId": "O_Z50GxMXwk",
       "title": "JANGAR - AIR KERAS (Official Lyric Video)",
       "channel": "Jangar Official",
       "thumbnail": "https://i.ytimg.com/vi/O_Z50GxMXwk/mqdefault.jpg",
+      "position": 24
+    },
+    {
+      "videoId": "_Vid_V1vNtc",
+      "title": "sadge - heiakim & aiella [Official Music Video]",
+      "channel": "heiakim",
+      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
       "position": 25
     },
     {
@@ -206,24 +206,24 @@
       "position": 27
     },
     {
-      "videoId": "5uwQ0tSexrM",
-      "title": "Semasa",
-      "channel": "Rio Clappy - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/5uwQ0tSexrM/mqdefault.jpg",
-      "position": 28
-    },
-    {
       "videoId": "WrapK14sGk0",
       "title": "Pulang",
       "channel": "Themilo - Topic",
       "thumbnail": "https://i.ytimg.com/vi/WrapK14sGk0/mqdefault.jpg",
-      "position": 29
+      "position": 28
     },
     {
       "videoId": "jvrF1F-peyw",
       "title": "...dan berpesta",
       "channel": "Diskoria - Topic",
       "thumbnail": "https://i.ytimg.com/vi/jvrF1F-peyw/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "5uwQ0tSexrM",
+      "title": "Semasa",
+      "channel": "Rio Clappy - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/5uwQ0tSexrM/mqdefault.jpg",
       "position": 30
     },
     {
@@ -241,17 +241,17 @@
       "position": 32
     },
     {
-      "videoId": "n_Fk82dFs_o",
-      "title": "Navicula - Rumah",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "Z9NGrCfZmR8",
       "title": "The Midnight Darlings - What If We Met Sooner? (Official Lyric Video)",
       "channel": "The Midnight Darlings",
       "thumbnail": "https://i.ytimg.com/vi/Z9NGrCfZmR8/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "n_Fk82dFs_o",
+      "title": "Navicula - Rumah",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
       "position": 34
     },
     {
