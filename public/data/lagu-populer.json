@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLjVuNcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLBLUXmj5lhge03r1nlbMo0o2PLAJg&v=1793947550",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLiBu9cGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLCDNNHXqJg4Gh9smg_tM8TSSF2R1Q&v=1793947550",
   "sourceCount": 71,
-  "updatedAt": "2026-11-06T19:30:29.198447+00:00",
+  "updatedAt": "2026-11-07T06:12:10.274599+00:00",
   "songs": [
     {
       "videoId": "ks27-0q-Hrc",
@@ -73,94 +73,94 @@
       "position": 8
     },
     {
-      "videoId": "o9Y3iA8jKDs",
-      "title": "Lyodra - Teganya Kau (Official Music Video)",
-      "channel": "Lyodra Official",
-      "thumbnail": "https://i.ytimg.com/vi/o9Y3iA8jKDs/mqdefault.jpg",
-      "position": 9
-    },
-    {
       "videoId": "UCDI0rblZQs",
       "title": "no na - rollerblade (Official Music Video)",
       "channel": "no na",
       "thumbnail": "https://i.ytimg.com/vi/UCDI0rblZQs/mqdefault.jpg",
-      "position": 10
+      "position": 9
     },
     {
       "videoId": "liVmYVkSV1M",
       "title": "Piche Kota - Bahagia Lagi (Official Music Video)",
       "channel": "Piche Kota",
       "thumbnail": "https://i.ytimg.com/vi/liVmYVkSV1M/mqdefault.jpg",
-      "position": 11
+      "position": 10
     },
     {
       "videoId": "dsOGH_ZBdCM",
       "title": "Masa ini, Nanti, dan Masa Indah Lainnya",
       "channel": "Nuca - Topic",
       "thumbnail": "https://i.ytimg.com/vi/dsOGH_ZBdCM/mqdefault.jpg",
-      "position": 12
+      "position": 11
     },
     {
       "videoId": "XAl6rZepmDg",
       "title": "no na - star (Official Music Video)",
       "channel": "no na",
       "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
-      "position": 13
+      "position": 12
     },
     {
       "videoId": "_GpYWnWlgkg",
       "title": "Rizky Febian & Adrian Khalif  - Alamak [Official Music Video]",
       "channel": "Rizky Febian",
       "thumbnail": "https://i.ytimg.com/vi/_GpYWnWlgkg/mqdefault.jpg",
-      "position": 14
+      "position": 13
     },
     {
       "videoId": "tSA-rz_bsSg",
       "title": "Piche Kota - Sedikit Lebih Lama (Official Music Video)",
       "channel": "Piche Kota",
       "thumbnail": "https://i.ytimg.com/vi/tSA-rz_bsSg/mqdefault.jpg",
-      "position": 15
+      "position": 14
     },
     {
       "videoId": "HDE-i9nHFQ8",
       "title": "Cinta Sudah Lewat",
       "channel": "Wijaya 80 - Topic",
       "thumbnail": "https://i.ytimg.com/vi/HDE-i9nHFQ8/mqdefault.jpg",
-      "position": 16
+      "position": 15
     },
     {
       "videoId": "Jn-uRyPZaJM",
       "title": "Nabila Taqiyyah - Tak Semudah Hompimpa (Official Music Video)",
       "channel": "Nabila Taqiyyah",
       "thumbnail": "https://i.ytimg.com/vi/Jn-uRyPZaJM/mqdefault.jpg",
-      "position": 17
+      "position": 16
     },
     {
       "videoId": "IMtdWKwFlv0",
       "title": "Tiara Andini - Tulang dan Nadi (Official Visualizer)",
       "channel": "Tiara Andini",
       "thumbnail": "https://i.ytimg.com/vi/IMtdWKwFlv0/mqdefault.jpg",
-      "position": 18
+      "position": 17
     },
     {
       "videoId": "n0sxFjzZLIw",
       "title": "SPONTAN ( tanpa ) UHUY! – DEABDIL ( Official Performance ) | Alah Alah ... Kok Bisa Ya",
       "channel": "DÉABDIL",
       "thumbnail": "https://i.ytimg.com/vi/n0sxFjzZLIw/mqdefault.jpg",
-      "position": 19
+      "position": 18
     },
     {
       "videoId": "7bEXD2NUO0k",
       "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
       "channel": "Judika Entertainment ",
       "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
-      "position": 20
+      "position": 19
     },
     {
       "videoId": "DUyvYKa7sI4",
       "title": "Afgan - Kacamata | Official Music Video",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DUyvYKa7sI4/mqdefault.jpg",
+      "position": 20
+    },
+    {
+      "videoId": "GtAEbY1wY1Q",
+      "title": "Teganya Kau",
+      "channel": "Lyodra - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/GtAEbY1wY1Q/mqdefault.jpg",
       "position": 21
     },
     {
@@ -234,45 +234,45 @@
       "position": 31
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "i_lUqe8ds1I",
       "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
       "channel": "Aku eńau",
       "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 33
+      "position": 32
     },
     {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
       "position": 34
-    },
-    {
-      "videoId": "KpkR77OdOeo",
-      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
-      "channel": "Musica Studios",
-      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
-      "position": 35
-    },
-    {
-      "videoId": "cZcVa76PyOs",
-      "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
-      "channel": "Fajar Noor",
-      "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
-      "position": 36
     },
     {
       "videoId": "Uv5C4lV2f4k",
       "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
       "channel": "MeiskaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "KpkR77OdOeo",
+      "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
+      "channel": "Musica Studios",
+      "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "cZcVa76PyOs",
+      "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
+      "channel": "Fajar Noor",
+      "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
       "position": 37
     },
     {
