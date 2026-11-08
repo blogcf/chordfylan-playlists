@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COSmwNcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLBrmPeRO_b-r5HRjoXsC1-oz1NjDQ&v=1793932675",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIT1wdcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLBlD4ffRld6yXtUF1ppWZLzyAUJ3g&v=1793932675",
   "sourceCount": 70,
-  "updatedAt": "2026-11-08T06:16:54.896458+00:00",
+  "updatedAt": "2026-11-08T13:37:18.791461+00:00",
   "songs": [
     {
       "videoId": "mnzkjViCWqU",
@@ -192,17 +192,17 @@
       "position": 25
     },
     {
-      "videoId": "WvDrwBBdgho",
-      "title": "D’MASIV - Till We’re Old (Official Lyric Video)",
-      "channel": "D'MASIV",
-      "thumbnail": "https://i.ytimg.com/vi/WvDrwBBdgho/mqdefault.jpg",
-      "position": 26
-    },
-    {
       "videoId": "_Vid_V1vNtc",
       "title": "sadge - heiakim & aiella [Official Music Video]",
       "channel": "heiakim",
       "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
+      "position": 26
+    },
+    {
+      "videoId": "WvDrwBBdgho",
+      "title": "D’MASIV - Till We’re Old (Official Lyric Video)",
+      "channel": "D'MASIV",
+      "thumbnail": "https://i.ytimg.com/vi/WvDrwBBdgho/mqdefault.jpg",
       "position": 27
     },
     {
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "5uwQ0tSexrM",
-      "title": "Semasa",
-      "channel": "Rio Clappy - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/5uwQ0tSexrM/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "9zEkqCfX7bs",
       "title": "Navicula - Gagasan Tandingan",
       "channel": "Navicula Music",
       "thumbnail": "https://i.ytimg.com/vi/9zEkqCfX7bs/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "5uwQ0tSexrM",
+      "title": "Semasa",
+      "channel": "Rio Clappy - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/5uwQ0tSexrM/mqdefault.jpg",
       "position": 32
     },
     {
