@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIT1wdcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLBlD4ffRld6yXtUF1ppWZLzyAUJ3g&v=1793932675",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COTow9cGir7X7AMICIP7tNcGEAE=&rs=AOn4CLDQVnfnc0QdNgyPGs_zgT9PKtlY8g&v=1793932675",
   "sourceCount": 70,
-  "updatedAt": "2026-11-08T13:37:18.791461+00:00",
+  "updatedAt": "2026-11-08T22:15:15.751502+00:00",
   "songs": [
     {
       "videoId": "mnzkjViCWqU",
@@ -192,17 +192,17 @@
       "position": 25
     },
     {
-      "videoId": "_Vid_V1vNtc",
-      "title": "sadge - heiakim & aiella [Official Music Video]",
-      "channel": "heiakim",
-      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
-      "position": 26
-    },
-    {
       "videoId": "WvDrwBBdgho",
       "title": "D’MASIV - Till We’re Old (Official Lyric Video)",
       "channel": "D'MASIV",
       "thumbnail": "https://i.ytimg.com/vi/WvDrwBBdgho/mqdefault.jpg",
+      "position": 26
+    },
+    {
+      "videoId": "_Vid_V1vNtc",
+      "title": "sadge - heiakim & aiella [Official Music Video]",
+      "channel": "heiakim",
+      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
       "position": 27
     },
     {
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "9zEkqCfX7bs",
-      "title": "Navicula - Gagasan Tandingan",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/9zEkqCfX7bs/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "5uwQ0tSexrM",
       "title": "Semasa",
       "channel": "Rio Clappy - Topic",
       "thumbnail": "https://i.ytimg.com/vi/5uwQ0tSexrM/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "9zEkqCfX7bs",
+      "title": "Navicula - Gagasan Tandingan",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/9zEkqCfX7bs/mqdefault.jpg",
       "position": 32
     },
     {
@@ -255,24 +255,24 @@
       "position": 34
     },
     {
+      "videoId": "CwXm7WDAi8A",
+      "title": "Selasa Bersepeda",
+      "channel": "Nosstress - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/CwXm7WDAi8A/mqdefault.jpg",
+      "position": 35
+    },
+    {
       "videoId": "V5mSLPwyAqY",
       "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
       "channel": "Batas Senja Official",
       "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
-      "position": 35
+      "position": 36
     },
     {
       "videoId": "SWkQwgx2Hzs",
       "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
       "channel": "Eleanor Whisper",
       "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
-      "position": 36
-    },
-    {
-      "videoId": "CwXm7WDAi8A",
-      "title": "Selasa Bersepeda",
-      "channel": "Nosstress - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/CwXm7WDAi8A/mqdefault.jpg",
       "position": 37
     },
     {
