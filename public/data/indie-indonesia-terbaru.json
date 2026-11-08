@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLS8vtcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLClSq6A9Nj0t_284gt7fZTUAA16vg&v=1793932675",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COSmwNcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLBrmPeRO_b-r5HRjoXsC1-oz1NjDQ&v=1793932675",
   "sourceCount": 70,
-  "updatedAt": "2026-11-07T21:58:51.235694+00:00",
+  "updatedAt": "2026-11-08T06:16:54.896458+00:00",
   "songs": [
     {
       "videoId": "mnzkjViCWqU",
@@ -241,17 +241,17 @@
       "position": 32
     },
     {
-      "videoId": "Z9NGrCfZmR8",
-      "title": "The Midnight Darlings - What If We Met Sooner? (Official Lyric Video)",
-      "channel": "The Midnight Darlings",
-      "thumbnail": "https://i.ytimg.com/vi/Z9NGrCfZmR8/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "n_Fk82dFs_o",
       "title": "Navicula - Rumah",
       "channel": "Navicula Music",
       "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "Z9NGrCfZmR8",
+      "title": "The Midnight Darlings - What If We Met Sooner? (Official Lyric Video)",
+      "channel": "The Midnight Darlings",
+      "thumbnail": "https://i.ytimg.com/vi/Z9NGrCfZmR8/mqdefault.jpg",
       "position": 34
     },
     {
@@ -290,17 +290,17 @@
       "position": 39
     },
     {
-      "videoId": "CJdE3TosBC8",
-      "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
-      "channel": "Ravi Andika",
-      "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
-      "position": 40
-    },
-    {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
+      "position": 40
+    },
+    {
+      "videoId": "CJdE3TosBC8",
+      "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
+      "channel": "Ravi Andika",
+      "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
       "position": 41
     },
     {

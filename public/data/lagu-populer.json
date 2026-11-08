@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLS8vtcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLD9wQh5pkrEGqznd0a7JzIak8SIZQ&v=1793947550",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COSmwNcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLBArihYfNgqRk_8bOaaNauHy7X17w&v=1793947550",
   "sourceCount": 71,
-  "updatedAt": "2026-11-07T21:58:50.829187+00:00",
+  "updatedAt": "2026-11-08T06:16:54.319955+00:00",
   "songs": [
     {
       "videoId": "ks27-0q-Hrc",
@@ -248,17 +248,17 @@
       "position": 33
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 34
-    },
-    {
       "videoId": "cZcVa76PyOs",
       "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
       "channel": "Fajar Noor",
       "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
+      "position": 34
+    },
+    {
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
       "position": 35
     },
     {
