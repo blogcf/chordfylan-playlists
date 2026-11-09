@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COTow9cGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLBg4ECOYfzu3in-pmKlhdne-fCjew&v=1793947550",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CJjaxdcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLDYjxrcnCjExkpD6pplNU-USXlX7w&v=1793947550",
   "sourceCount": 71,
-  "updatedAt": "2026-11-08T22:15:15.266329+00:00",
+  "updatedAt": "2026-11-09T06:50:17.343600+00:00",
   "songs": [
     {
       "videoId": "ks27-0q-Hrc",
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "i_lUqe8ds1I",
-      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
-      "channel": "Aku eńau",
-      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "i_lUqe8ds1I",
+      "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
+      "channel": "Aku eńau",
+      "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
       "position": 33
     },
     {
@@ -325,17 +325,17 @@
       "position": 44
     },
     {
-      "videoId": "eRLj0jco9TM",
-      "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
-      "channel": "Ziva Magnolya",
-      "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
-      "position": 45
-    },
-    {
       "videoId": "9rIvtjjbF18",
       "title": "Vanessa Zee, Rony Parulian - Takkan Terulang (Official Video)",
       "channel": "Vanessa Zee",
       "thumbnail": "https://i.ytimg.com/vi/9rIvtjjbF18/mqdefault.jpg",
+      "position": 45
+    },
+    {
+      "videoId": "eRLj0jco9TM",
+      "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
+      "channel": "Ziva Magnolya",
+      "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
       "position": 46
     },
     {

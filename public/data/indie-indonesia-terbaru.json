@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COTow9cGir7X7AMICIP7tNcGEAE=&rs=AOn4CLDQVnfnc0QdNgyPGs_zgT9PKtlY8g&v=1793932675",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CJjaxdcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLAfFNgNOPrpRB6tBlHjKJvGNESirQ&v=1793932675",
   "sourceCount": 70,
-  "updatedAt": "2026-11-08T22:15:15.751502+00:00",
+  "updatedAt": "2026-11-09T06:50:18.037340+00:00",
   "songs": [
     {
       "videoId": "mnzkjViCWqU",
@@ -255,17 +255,17 @@
       "position": 34
     },
     {
-      "videoId": "CwXm7WDAi8A",
-      "title": "Selasa Bersepeda",
-      "channel": "Nosstress - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/CwXm7WDAi8A/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "V5mSLPwyAqY",
       "title": "BATAS SENJA - Bukan Sulap Tapi nyata (Official Lyric Video) | Album Hati dan Perasaan",
       "channel": "Batas Senja Official",
       "thumbnail": "https://i.ytimg.com/vi/V5mSLPwyAqY/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "CwXm7WDAi8A",
+      "title": "Selasa Bersepeda",
+      "channel": "Nosstress - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/CwXm7WDAi8A/mqdefault.jpg",
       "position": 36
     },
     {
@@ -283,45 +283,45 @@
       "position": 38
     },
     {
+      "videoId": "VphxiqsHaQg",
+      "title": "Dimas M - aku mau hidup yang ada kamunya",
+      "channel": "Dimas M",
+      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
+      "position": 39
+    },
+    {
       "videoId": "Moi0kcIwUB8",
       "title": "White Chorus - Aku dan Kamu [Official Lyric Video]",
       "channel": "White Chorus",
       "thumbnail": "https://i.ytimg.com/vi/Moi0kcIwUB8/mqdefault.jpg",
-      "position": 39
+      "position": 40
     },
     {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
-      "position": 40
+      "position": 41
     },
     {
       "videoId": "CJdE3TosBC8",
       "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
       "channel": "Ravi Andika",
       "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
-      "position": 41
-    },
-    {
-      "videoId": "dn_9tAkYsJE",
-      "title": "RIO CLAPPY - JANJI BAHAGIA (OFFICIAL MUSIC VIDEO)",
-      "channel": "Rio Clappy",
-      "thumbnail": "https://i.ytimg.com/vi/dn_9tAkYsJE/mqdefault.jpg",
       "position": 42
-    },
-    {
-      "videoId": "VphxiqsHaQg",
-      "title": "Dimas M - aku mau hidup yang ada kamunya",
-      "channel": "Dimas M",
-      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 43
     },
     {
       "videoId": "Ump2qhnq0nA",
       "title": "1948",
       "channel": "The Brandals - Topic",
       "thumbnail": "https://i.ytimg.com/vi/Ump2qhnq0nA/mqdefault.jpg",
+      "position": 43
+    },
+    {
+      "videoId": "dn_9tAkYsJE",
+      "title": "RIO CLAPPY - JANJI BAHAGIA (OFFICIAL MUSIC VIDEO)",
+      "channel": "Rio Clappy",
+      "thumbnail": "https://i.ytimg.com/vi/dn_9tAkYsJE/mqdefault.jpg",
       "position": 44
     },
     {
