@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLyQydcGir7X7AMICIP7tNcGEAE=&rs=AOn4CLBQ3Qqm89SUkjPvBXeqRYriuBBzxA&v=1793932675",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CMyNy9cGir7X7AMICIP7tNcGEAE=&rs=AOn4CLD_SVmfQs-GdV-gI8Wohiz4QoSUpw&v=1793932675",
   "sourceCount": 70,
-  "updatedAt": "2026-11-09T22:29:30.579987+00:00",
+  "updatedAt": "2026-11-10T07:28:38.716254+00:00",
   "songs": [
     {
       "videoId": "mnzkjViCWqU",
@@ -241,17 +241,17 @@
       "position": 32
     },
     {
-      "videoId": "n_Fk82dFs_o",
-      "title": "Navicula - Rumah",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "Z9NGrCfZmR8",
       "title": "The Midnight Darlings - What If We Met Sooner? (Official Lyric Video)",
       "channel": "The Midnight Darlings",
       "thumbnail": "https://i.ytimg.com/vi/Z9NGrCfZmR8/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "n_Fk82dFs_o",
+      "title": "Navicula - Rumah",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
       "position": 34
     },
     {
