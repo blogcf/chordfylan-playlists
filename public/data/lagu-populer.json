@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMyNy9cGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLBjD-F58NhtaIXsfncYlHPlJ3tUaQ&v=1793947550",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COjqzdcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLAwUldXwfg5JbbkajtaFgiAIRC2Gg&v=1793947550",
   "sourceCount": 71,
-  "updatedAt": "2026-11-10T07:28:38.239252+00:00",
+  "updatedAt": "2026-11-10T19:50:46.679635+00:00",
   "songs": [
     {
       "videoId": "ks27-0q-Hrc",
@@ -143,17 +143,17 @@
       "position": 18
     },
     {
-      "videoId": "7bEXD2NUO0k",
-      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
-      "channel": "Judika Entertainment ",
-      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
-      "position": 19
-    },
-    {
       "videoId": "l_LF62caYYo",
       "title": "WIJAYA 80, Yovie Widianto - Cinta Sudah Lewat (Official Music Video)",
       "channel": "WIJAYA 80",
       "thumbnail": "https://i.ytimg.com/vi/l_LF62caYYo/mqdefault.jpg",
+      "position": 19
+    },
+    {
+      "videoId": "7bEXD2NUO0k",
+      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
+      "channel": "Judika Entertainment ",
+      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
       "position": 20
     },
     {
