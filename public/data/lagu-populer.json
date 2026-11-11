@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMCb0NcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLCul0TelVldB29p1XOWKpDFukzjmQ&v=1793947550",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CJCJ09cGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLC27YzZSFQ5-KJ2YzsJeSoFG4XS9g&v=1793947550",
   "sourceCount": 71,
-  "updatedAt": "2026-11-11T06:43:28.938302+00:00",
+  "updatedAt": "2026-11-11T19:42:39.303346+00:00",
   "songs": [
     {
       "videoId": "ks27-0q-Hrc",
@@ -45,10 +45,10 @@
       "position": 4
     },
     {
-      "videoId": "w6lNa5ZUHWQ",
-      "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
-      "channel": "Glenn Samuel",
-      "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
+      "videoId": "jBb72989nUA",
+      "title": "Nona Centil",
+      "channel": "Glenn Samuel - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/jBb72989nUA/mqdefault.jpg",
       "position": 5
     },
     {
@@ -101,17 +101,17 @@
       "position": 12
     },
     {
-      "videoId": "XAl6rZepmDg",
-      "title": "no na - star (Official Music Video)",
-      "channel": "no na",
-      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
-      "position": 13
-    },
-    {
       "videoId": "_GpYWnWlgkg",
       "title": "Rizky Febian & Adrian Khalif  - Alamak [Official Music Video]",
       "channel": "Rizky Febian",
       "thumbnail": "https://i.ytimg.com/vi/_GpYWnWlgkg/mqdefault.jpg",
+      "position": 13
+    },
+    {
+      "videoId": "XAl6rZepmDg",
+      "title": "no na - star (Official Music Video)",
+      "channel": "no na",
+      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
       "position": 14
     },
     {
@@ -143,17 +143,17 @@
       "position": 18
     },
     {
-      "videoId": "7bEXD2NUO0k",
-      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
-      "channel": "Judika Entertainment ",
-      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
-      "position": 19
-    },
-    {
       "videoId": "l_LF62caYYo",
       "title": "WIJAYA 80, Yovie Widianto - Cinta Sudah Lewat (Official Music Video)",
       "channel": "WIJAYA 80",
       "thumbnail": "https://i.ytimg.com/vi/l_LF62caYYo/mqdefault.jpg",
+      "position": 19
+    },
+    {
+      "videoId": "7bEXD2NUO0k",
+      "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
+      "channel": "Judika Entertainment ",
+      "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
       "position": 20
     },
     {
@@ -269,38 +269,38 @@
       "position": 36
     },
     {
+      "videoId": "Xg_xFy0aIlQ",
+      "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
+      "channel": "Melly Goeslaw TV",
+      "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
+      "position": 37
+    },
+    {
       "videoId": "vt7XYFl-xds",
       "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
       "channel": "EltasyaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 37
+      "position": 38
     },
     {
       "videoId": "JxHGVivrWNc",
       "title": "no na - the one (Official Music Video)",
       "channel": "no na",
       "thumbnail": "https://i.ytimg.com/vi/JxHGVivrWNc/mqdefault.jpg",
-      "position": 38
+      "position": 39
     },
     {
       "videoId": "uzV-aToTmMc",
       "title": "Lyodra - Pintu Hati (Official Video)",
       "channel": "Lyodra Official",
       "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
-      "position": 39
+      "position": 40
     },
     {
       "videoId": "azZTfgTifDY",
       "title": "Ariel NOAH - Ancika (OST. Dilan ITB 1997) | Official Lyric Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/azZTfgTifDY/mqdefault.jpg",
-      "position": 40
-    },
-    {
-      "videoId": "Xg_xFy0aIlQ",
-      "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
-      "channel": "Melly Goeslaw TV",
-      "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
       "position": 41
     },
     {
@@ -318,17 +318,17 @@
       "position": 43
     },
     {
-      "videoId": "EVLUqn2LdFM",
-      "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
-      "channel": "Stevan Pasaribu Musica Official",
-      "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
-      "position": 44
-    },
-    {
       "videoId": "9rIvtjjbF18",
       "title": "Vanessa Zee, Rony Parulian - Takkan Terulang (Official Video)",
       "channel": "Vanessa Zee",
       "thumbnail": "https://i.ytimg.com/vi/9rIvtjjbF18/mqdefault.jpg",
+      "position": 44
+    },
+    {
+      "videoId": "EVLUqn2LdFM",
+      "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
+      "channel": "Stevan Pasaribu Musica Official",
+      "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
       "position": 45
     },
     {
