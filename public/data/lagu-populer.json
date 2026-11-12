@@ -5,50 +5,50 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKDR1dcGir7X7AMICJ7vtdcGEAE=&rs=AOn4CLBIj_jCcgiFKHybiJa3xpabq2SNbQ&v=1793947550",
-  "sourceCount": 71,
-  "updatedAt": "2026-11-12T07:23:52.552473+00:00",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COy32NcGir7X7AMICLPh19cGEAE=&rs=AOn4CLB6WPI3MzGd_8QVfu_qBdUN3mW1vg&v=1794502835",
+  "sourceCount": 75,
+  "updatedAt": "2026-11-12T20:05:53.738016+00:00",
   "songs": [
     {
-      "videoId": "ks27-0q-Hrc",
-      "title": "Gloria Jessica, Ade Govinda - Terbelah Jadi Dua (Official Music Video)",
-      "channel": "Ade Nurulianto",
-      "thumbnail": "https://i.ytimg.com/vi/ks27-0q-Hrc/mqdefault.jpg",
+      "videoId": "MNWQrwSKt2U",
+      "title": "Mantra Pulih - Aviwkila (Official Lyric Video)",
+      "channel": "Aviwkila",
+      "thumbnail": "https://i.ytimg.com/vi/MNWQrwSKt2U/mqdefault.jpg",
       "position": 0
     },
     {
-      "videoId": "GhfBo_yFTpQ",
-      "title": "Percuma",
-      "channel": "Mahalini - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/GhfBo_yFTpQ/mqdefault.jpg",
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
       "position": 1
     },
     {
-      "videoId": "U1BDaJkCRKQ",
-      "title": "[MV] Ayo Senyumlah - JKT48",
-      "channel": "JKT48",
-      "thumbnail": "https://i.ytimg.com/vi/U1BDaJkCRKQ/mqdefault.jpg",
+      "videoId": "fNJeBHDn-7g",
+      "title": "Jarimu",
+      "channel": "Anggi Marito - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/fNJeBHDn-7g/mqdefault.jpg",
       "position": 2
     },
     {
-      "videoId": "aCPfrVDJH-A",
-      "title": "Forevermore",
-      "channel": "Kaleb J - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
+      "videoId": "wT3TUNjdlRw",
+      "title": "Putusin Aja",
+      "channel": "Bunga Citra Lestari - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/wT3TUNjdlRw/mqdefault.jpg",
       "position": 3
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
+      "videoId": "tAB6bqMPvNI",
+      "title": "Aku, Dirimu, Dirinya",
+      "channel": "Yovie Widianto - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/tAB6bqMPvNI/mqdefault.jpg",
       "position": 4
     },
     {
-      "videoId": "w6lNa5ZUHWQ",
-      "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
-      "channel": "Glenn Samuel",
-      "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
+      "videoId": "nQaqaEWocMM",
+      "title": "Life Is Madness",
+      "channel": "MALIQ & D'Essentials - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/nQaqaEWocMM/mqdefault.jpg",
       "position": 5
     },
     {
@@ -122,241 +122,241 @@
       "position": 15
     },
     {
+      "videoId": "GhfBo_yFTpQ",
+      "title": "Percuma",
+      "channel": "Mahalini - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/GhfBo_yFTpQ/mqdefault.jpg",
+      "position": 16
+    },
+    {
       "videoId": "Jn-uRyPZaJM",
       "title": "Nabila Taqiyyah - Tak Semudah Hompimpa (Official Music Video)",
       "channel": "Nabila Taqiyyah",
       "thumbnail": "https://i.ytimg.com/vi/Jn-uRyPZaJM/mqdefault.jpg",
-      "position": 16
+      "position": 17
     },
     {
       "videoId": "IMtdWKwFlv0",
       "title": "Tiara Andini - Tulang dan Nadi (Official Visualizer)",
       "channel": "Tiara Andini",
       "thumbnail": "https://i.ytimg.com/vi/IMtdWKwFlv0/mqdefault.jpg",
-      "position": 17
+      "position": 18
     },
     {
       "videoId": "n0sxFjzZLIw",
       "title": "SPONTAN ( tanpa ) UHUY! – DEABDIL ( Official Performance ) | Alah Alah ... Kok Bisa Ya",
       "channel": "DÉABDIL",
       "thumbnail": "https://i.ytimg.com/vi/n0sxFjzZLIw/mqdefault.jpg",
-      "position": 18
+      "position": 19
     },
     {
       "videoId": "l_LF62caYYo",
       "title": "WIJAYA 80, Yovie Widianto - Cinta Sudah Lewat (Official Music Video)",
       "channel": "WIJAYA 80",
       "thumbnail": "https://i.ytimg.com/vi/l_LF62caYYo/mqdefault.jpg",
-      "position": 19
+      "position": 20
     },
     {
       "videoId": "7bEXD2NUO0k",
       "title": "Judika & Tiroy Sihotang - Maukah Kau Menikah Denganku? (Official Music Video)",
       "channel": "Judika Entertainment ",
       "thumbnail": "https://i.ytimg.com/vi/7bEXD2NUO0k/mqdefault.jpg",
-      "position": 20
+      "position": 21
+    },
+    {
+      "videoId": "U1BDaJkCRKQ",
+      "title": "[MV] Ayo Senyumlah - JKT48",
+      "channel": "JKT48",
+      "thumbnail": "https://i.ytimg.com/vi/U1BDaJkCRKQ/mqdefault.jpg",
+      "position": 22
+    },
+    {
+      "videoId": "ks27-0q-Hrc",
+      "title": "Gloria Jessica, Ade Govinda - Terbelah Jadi Dua (Official Music Video)",
+      "channel": "Ade Nurulianto",
+      "thumbnail": "https://i.ytimg.com/vi/ks27-0q-Hrc/mqdefault.jpg",
+      "position": 23
     },
     {
       "videoId": "DUyvYKa7sI4",
       "title": "Afgan - Kacamata | Official Music Video",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DUyvYKa7sI4/mqdefault.jpg",
-      "position": 21
+      "position": 24
     },
     {
       "videoId": "sz5cibo858o",
       "title": "Syahrini - Kau Yang Utama (Official Music Video)",
       "channel": "The Princess Syahrini",
       "thumbnail": "https://i.ytimg.com/vi/sz5cibo858o/mqdefault.jpg",
-      "position": 22
+      "position": 25
     },
     {
       "videoId": "emtRD5CGOts",
       "title": "Ungu - Utara - Selatan | Official Music Video",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/emtRD5CGOts/mqdefault.jpg",
-      "position": 23
+      "position": 26
     },
     {
       "videoId": "EnNAUCtR4vI",
       "title": "Rizky Febian - Adu Pandang (Official Music Video)",
       "channel": "Rizky Febian",
       "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
-      "position": 24
+      "position": 27
     },
     {
       "videoId": "g3ZWhi29QFI",
       "title": "Juicy Luicy - Gurun Hujan (Official Lyric Video)",
       "channel": "Emotion Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/g3ZWhi29QFI/mqdefault.jpg",
-      "position": 25
+      "position": 28
     },
     {
       "videoId": "VH8FsN-OI0k",
       "title": "Rony Parulian - Wals Akhir Zaman (Official Music Video)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/VH8FsN-OI0k/mqdefault.jpg",
-      "position": 26
+      "position": 29
     },
     {
       "videoId": "PWX5obVZohk",
       "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
       "channel": "Ade Nurulianto",
       "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
-      "position": 27
+      "position": 30
     },
     {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
-      "position": 28
+      "position": 31
     },
     {
       "videoId": "4BQGKMrwCGU",
       "title": "Hatimu Milik Dia",
       "channel": "Arvian Dwi - Topic",
       "thumbnail": "https://i.ytimg.com/vi/4BQGKMrwCGU/mqdefault.jpg",
-      "position": 29
+      "position": 32
     },
     {
       "videoId": "VX6BnfI_E2c",
       "title": "Paul Aro - Biar Kita Jadi Kenangan (Official Video)",
       "channel": "Paul Aro",
       "thumbnail": "https://i.ytimg.com/vi/VX6BnfI_E2c/mqdefault.jpg",
-      "position": 30
+      "position": 33
     },
     {
       "videoId": "pP5gYltKGJE",
       "title": "Rony Parulian - Februari (Official Album Visualizer)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/pP5gYltKGJE/mqdefault.jpg",
-      "position": 31
-    },
-    {
-      "videoId": "W1lvPw3ejuA",
-      "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
-      "channel": "Salma Salsabil",
-      "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
-      "position": 32
+      "position": 34
     },
     {
       "videoId": "cZcVa76PyOs",
       "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
       "channel": "Fajar Noor",
       "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
-      "position": 33
+      "position": 35
+    },
+    {
+      "videoId": "W1lvPw3ejuA",
+      "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
+      "channel": "Salma Salsabil",
+      "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 36
     },
     {
       "videoId": "i_lUqe8ds1I",
       "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
       "channel": "Aku eńau",
       "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 34
+      "position": 37
     },
     {
       "videoId": "Uv5C4lV2f4k",
       "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
       "channel": "MeiskaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
-      "position": 35
+      "position": 38
     },
     {
       "videoId": "KpkR77OdOeo",
       "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
-      "position": 36
+      "position": 39
     },
     {
       "videoId": "Xg_xFy0aIlQ",
       "title": "BERDUA LEBIH BAIK - MELLY GOESLAW FEAT. DIMAS BECK",
       "channel": "Melly Goeslaw TV",
       "thumbnail": "https://i.ytimg.com/vi/Xg_xFy0aIlQ/mqdefault.jpg",
-      "position": 37
+      "position": 40
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 38
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
+      "position": 41
     },
     {
       "videoId": "JxHGVivrWNc",
       "title": "no na - the one (Official Music Video)",
       "channel": "no na",
       "thumbnail": "https://i.ytimg.com/vi/JxHGVivrWNc/mqdefault.jpg",
-      "position": 39
+      "position": 42
     },
     {
       "videoId": "uzV-aToTmMc",
       "title": "Lyodra - Pintu Hati (Official Video)",
       "channel": "Lyodra Official",
       "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
-      "position": 40
+      "position": 43
     },
     {
       "videoId": "azZTfgTifDY",
       "title": "Ariel NOAH - Ancika (OST. Dilan ITB 1997) | Official Lyric Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/azZTfgTifDY/mqdefault.jpg",
-      "position": 41
+      "position": 44
     },
     {
       "videoId": "pgctulw9RQc",
       "title": "[MV] Bagai Cinta Pertama - JKT48 Trainee",
       "channel": "JKT48",
       "thumbnail": "https://i.ytimg.com/vi/pgctulw9RQc/mqdefault.jpg",
-      "position": 42
+      "position": 45
     },
     {
       "videoId": "q_WK_5pR29A",
       "title": "Yura Yunita - Pertiwi (Official Music Video)",
       "channel": "YURA YUNITA",
       "thumbnail": "https://i.ytimg.com/vi/q_WK_5pR29A/mqdefault.jpg",
-      "position": 43
+      "position": 46
     },
     {
       "videoId": "9rIvtjjbF18",
       "title": "Vanessa Zee, Rony Parulian - Takkan Terulang (Official Video)",
       "channel": "Vanessa Zee",
       "thumbnail": "https://i.ytimg.com/vi/9rIvtjjbF18/mqdefault.jpg",
-      "position": 44
-    },
-    {
-      "videoId": "EVLUqn2LdFM",
-      "title": "Stevan Pasaribu & Andi Rianto - siapa yang tahan (Official Music Video)",
-      "channel": "Stevan Pasaribu Musica Official",
-      "thumbnail": "https://i.ytimg.com/vi/EVLUqn2LdFM/mqdefault.jpg",
-      "position": 45
+      "position": 47
     },
     {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
-      "position": 46
-    },
-    {
-      "videoId": "2x_EYv5H68o",
-      "title": "Stevan Pasaribu - Beri Aku Kesempatan (Official Music Video)",
-      "channel": "Stevan Pasaribu Musica Official",
-      "thumbnail": "https://i.ytimg.com/vi/2x_EYv5H68o/mqdefault.jpg",
-      "position": 47
-    },
-    {
-      "videoId": "Q-RAHKlwTXw",
-      "title": "Tohpati, Fabio Asher - Cinta Kita (Official Music Video)",
-      "channel": "TohpatiVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/Q-RAHKlwTXw/mqdefault.jpg",
       "position": 48
     },
     {
-      "videoId": "UW52S65gPmM",
-      "title": "MARBLES - HOMPIMPA | Official Music Video",
-      "channel": "MARBLES",
-      "thumbnail": "https://i.ytimg.com/vi/UW52S65gPmM/mqdefault.jpg",
+      "videoId": "bxe6Hyszlm0",
+      "title": "Yura Yunita & Idgitaf - Mendung (Official Lyric Video)",
+      "channel": "YURA YUNITA",
+      "thumbnail": "https://i.ytimg.com/vi/bxe6Hyszlm0/mqdefault.jpg",
       "position": 49
     }
   ]
