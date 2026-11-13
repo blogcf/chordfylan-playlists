@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COy32NcGir7X7AMICLPh19cGEAE=&rs=AOn4CLB6WPI3MzGd_8QVfu_qBdUN3mW1vg&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMTo2tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLDCCOBxhT1zDzE_S7oKeuTe3FHbow&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-12T20:05:53.738016+00:00",
+  "updatedAt": "2026-11-13T06:55:43.408788+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -115,17 +115,17 @@
       "position": 14
     },
     {
-      "videoId": "tSA-rz_bsSg",
-      "title": "Piche Kota - Sedikit Lebih Lama (Official Music Video)",
-      "channel": "Piche Kota",
-      "thumbnail": "https://i.ytimg.com/vi/tSA-rz_bsSg/mqdefault.jpg",
-      "position": 15
-    },
-    {
       "videoId": "GhfBo_yFTpQ",
       "title": "Percuma",
       "channel": "Mahalini - Topic",
       "thumbnail": "https://i.ytimg.com/vi/GhfBo_yFTpQ/mqdefault.jpg",
+      "position": 15
+    },
+    {
+      "videoId": "tSA-rz_bsSg",
+      "title": "Piche Kota - Sedikit Lebih Lama (Official Music Video)",
+      "channel": "Piche Kota",
+      "thumbnail": "https://i.ytimg.com/vi/tSA-rz_bsSg/mqdefault.jpg",
       "position": 16
     },
     {
@@ -339,24 +339,24 @@
       "position": 46
     },
     {
+      "videoId": "bxe6Hyszlm0",
+      "title": "Yura Yunita & Idgitaf - Mendung (Official Lyric Video)",
+      "channel": "YURA YUNITA",
+      "thumbnail": "https://i.ytimg.com/vi/bxe6Hyszlm0/mqdefault.jpg",
+      "position": 47
+    },
+    {
       "videoId": "9rIvtjjbF18",
       "title": "Vanessa Zee, Rony Parulian - Takkan Terulang (Official Video)",
       "channel": "Vanessa Zee",
       "thumbnail": "https://i.ytimg.com/vi/9rIvtjjbF18/mqdefault.jpg",
-      "position": 47
+      "position": 48
     },
     {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
-      "position": 48
-    },
-    {
-      "videoId": "bxe6Hyszlm0",
-      "title": "Yura Yunita & Idgitaf - Mendung (Official Lyric Video)",
-      "channel": "YURA YUNITA",
-      "thumbnail": "https://i.ytimg.com/vi/bxe6Hyszlm0/mqdefault.jpg",
       "position": 49
     }
   ]
