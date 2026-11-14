@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COy32NcGir7X7AMICLLh19cGEAE=&rs=AOn4CLANuoCc_0i4FYgFlLW91uds9N10PQ&v=1794502834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CMCE4NcGir7X7AMICLLh19cGEAE=&rs=AOn4CLAnI4VyvEL_-20IJkTXfb0k5MD1sg&v=1794502834",
   "sourceCount": 65,
-  "updatedAt": "2026-11-12T20:05:54.160956+00:00",
+  "updatedAt": "2026-11-14T06:41:23.762535+00:00",
   "songs": [
     {
       "videoId": "JDJFH459ico",
@@ -17,10 +17,10 @@
       "position": 0
     },
     {
-      "videoId": "qmDYR8yFwhs",
-      "title": "Sea",
-      "channel": "Arash Buana - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/qmDYR8yFwhs/mqdefault.jpg",
+      "videoId": "UGoXO70bvIo",
+      "title": "Arash Buana - Sea (Official Lyric Video)",
+      "channel": "Arash Buana",
+      "thumbnail": "https://i.ytimg.com/vi/UGoXO70bvIo/mqdefault.jpg",
       "position": 1
     },
     {
@@ -94,17 +94,17 @@
       "position": 11
     },
     {
-      "videoId": "ZK8dboHDw5Y",
-      "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
-      "channel": "Mitty Zasia",
-      "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
-      "position": 12
-    },
-    {
       "videoId": "sOKOpo1t2Kk",
       "title": "Galdive - In Love (Official Lyric Video)",
       "channel": "galdive",
       "thumbnail": "https://i.ytimg.com/vi/sOKOpo1t2Kk/mqdefault.jpg",
+      "position": 12
+    },
+    {
+      "videoId": "ZK8dboHDw5Y",
+      "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
+      "channel": "Mitty Zasia",
+      "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
       "position": 13
     },
     {
@@ -157,17 +157,17 @@
       "position": 20
     },
     {
-      "videoId": "S0QJTDBf3SE",
-      "title": "permata hatiku",
-      "channel": "Daun Jatuh - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/S0QJTDBf3SE/mqdefault.jpg",
-      "position": 21
-    },
-    {
       "videoId": "O_Z50GxMXwk",
       "title": "JANGAR - AIR KERAS (Official Lyric Video)",
       "channel": "Jangar Official",
       "thumbnail": "https://i.ytimg.com/vi/O_Z50GxMXwk/mqdefault.jpg",
+      "position": 21
+    },
+    {
+      "videoId": "S0QJTDBf3SE",
+      "title": "permata hatiku",
+      "channel": "Daun Jatuh - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/S0QJTDBf3SE/mqdefault.jpg",
       "position": 22
     },
     {
@@ -178,17 +178,17 @@
       "position": 23
     },
     {
-      "videoId": "_Vid_V1vNtc",
-      "title": "sadge - heiakim & aiella [Official Music Video]",
-      "channel": "heiakim",
-      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
-      "position": 24
-    },
-    {
       "videoId": "WrapK14sGk0",
       "title": "Pulang",
       "channel": "Themilo - Topic",
       "thumbnail": "https://i.ytimg.com/vi/WrapK14sGk0/mqdefault.jpg",
+      "position": 24
+    },
+    {
+      "videoId": "_Vid_V1vNtc",
+      "title": "sadge - heiakim & aiella [Official Music Video]",
+      "channel": "heiakim",
+      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
       "position": 25
     },
     {
@@ -234,10 +234,10 @@
       "position": 31
     },
     {
-      "videoId": "n_Fk82dFs_o",
-      "title": "Navicula - Rumah",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
+      "videoId": "VphxiqsHaQg",
+      "title": "Dimas M - aku mau hidup yang ada kamunya",
+      "channel": "Dimas M",
+      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
       "position": 32
     },
     {
@@ -248,24 +248,24 @@
       "position": 33
     },
     {
+      "videoId": "n_Fk82dFs_o",
+      "title": "Navicula - Rumah",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
+      "position": 34
+    },
+    {
       "videoId": "Moi0kcIwUB8",
       "title": "White Chorus - Aku dan Kamu [Official Lyric Video]",
       "channel": "White Chorus",
       "thumbnail": "https://i.ytimg.com/vi/Moi0kcIwUB8/mqdefault.jpg",
-      "position": 34
+      "position": 35
     },
     {
       "videoId": "NzTBePa7qv0",
       "title": "Hawa",
       "channel": "Havva - Topic",
       "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
-      "position": 35
-    },
-    {
-      "videoId": "VphxiqsHaQg",
-      "title": "Dimas M - aku mau hidup yang ada kamunya",
-      "channel": "Dimas M",
-      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
       "position": 36
     },
     {
@@ -325,10 +325,10 @@
       "position": 44
     },
     {
-      "videoId": "r0j_G3Rtwbs",
-      "title": "Rengkah",
-      "channel": "Deep Ocean - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
+      "videoId": "G4KkkWSC3iQ",
+      "title": "East & West",
+      "channel": "mpq - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/G4KkkWSC3iQ/mqdefault.jpg",
       "position": 45
     },
     {
@@ -339,24 +339,24 @@
       "position": 46
     },
     {
-      "videoId": "G4KkkWSC3iQ",
-      "title": "East & West",
-      "channel": "mpq - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/G4KkkWSC3iQ/mqdefault.jpg",
+      "videoId": "r0j_G3Rtwbs",
+      "title": "Rengkah",
+      "channel": "Deep Ocean - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
       "position": 47
-    },
-    {
-      "videoId": "H4NQkmY0tnE",
-      "title": "dahmamlum?",
-      "channel": "remi - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/H4NQkmY0tnE/mqdefault.jpg",
-      "position": 48
     },
     {
       "videoId": "Fxbvui3W7yo",
       "title": "15. Tenang (with Matter Mos) - RIMALDI | 888 DREAMALDI FM",
       "channel": "RIMALDI",
       "thumbnail": "https://i.ytimg.com/vi/Fxbvui3W7yo/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "T-Xnw6tGVgI",
+      "title": "lightcraft – Like a Child (Official Music Video)",
+      "channel": "lightcraft",
+      "thumbnail": "https://i.ytimg.com/vi/T-Xnw6tGVgI/mqdefault.jpg",
       "position": 49
     }
   ]
