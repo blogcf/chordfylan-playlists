@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMCE4NcGir7X7AMICLPh19cGEAE=&rs=AOn4CLCAwmteYd7NtLlgnq7IOsHTWI_zDg&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKTK4tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLB2PJ50bfGgSJrPNS_EjKOesb3qlw&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-14T06:41:23.019923+00:00",
+  "updatedAt": "2026-11-14T18:16:09.228940+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -24,10 +24,10 @@
       "position": 1
     },
     {
-      "videoId": "fNJeBHDn-7g",
-      "title": "Jarimu",
-      "channel": "Anggi Marito - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/fNJeBHDn-7g/mqdefault.jpg",
+      "videoId": "m6F9I5Yf6Z0",
+      "title": "Anggi Marito - Jarimu (Offical Video)",
+      "channel": "Anggi Marito",
+      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
       "position": 2
     },
     {
@@ -45,10 +45,10 @@
       "position": 4
     },
     {
-      "videoId": "nQaqaEWocMM",
-      "title": "Life Is Madness",
-      "channel": "MALIQ & D'Essentials - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/nQaqaEWocMM/mqdefault.jpg",
+      "videoId": "exJc3UYW8Cg",
+      "title": "MALIQ & D'Essentials - Life is Madness (Official Visualizer)",
+      "channel": "MALIQ & D'Essentials",
+      "thumbnail": "https://i.ytimg.com/vi/exJc3UYW8Cg/mqdefault.jpg",
       "position": 5
     },
     {
@@ -115,17 +115,17 @@
       "position": 14
     },
     {
-      "videoId": "XAl6rZepmDg",
-      "title": "no na - star (Official Music Video)",
-      "channel": "no na",
-      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
-      "position": 15
-    },
-    {
       "videoId": "tSA-rz_bsSg",
       "title": "Piche Kota - Sedikit Lebih Lama (Official Music Video)",
       "channel": "Piche Kota",
       "thumbnail": "https://i.ytimg.com/vi/tSA-rz_bsSg/mqdefault.jpg",
+      "position": 15
+    },
+    {
+      "videoId": "XAl6rZepmDg",
+      "title": "no na - star (Official Music Video)",
+      "channel": "no na",
+      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
       "position": 16
     },
     {
@@ -220,17 +220,17 @@
       "position": 29
     },
     {
-      "videoId": "PWX5obVZohk",
-      "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
-      "channel": "Ade Nurulianto",
-      "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
-      "position": 30
-    },
-    {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
+      "position": 30
+    },
+    {
+      "videoId": "PWX5obVZohk",
+      "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
+      "channel": "Ade Nurulianto",
+      "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
       "position": 31
     },
     {
@@ -346,17 +346,17 @@
       "position": 47
     },
     {
-      "videoId": "bxe6Hyszlm0",
-      "title": "Yura Yunita & Idgitaf - Mendung (Official Lyric Video)",
-      "channel": "YURA YUNITA",
-      "thumbnail": "https://i.ytimg.com/vi/bxe6Hyszlm0/mqdefault.jpg",
-      "position": 48
-    },
-    {
       "videoId": "eRLj0jco9TM",
       "title": "Ziva Magnolya - Pelindungmu (Ayah, Aku Mau Cerita Original Soundtrack) (Official Music Video)",
       "channel": "Ziva Magnolya",
       "thumbnail": "https://i.ytimg.com/vi/eRLj0jco9TM/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "bxe6Hyszlm0",
+      "title": "Yura Yunita & Idgitaf - Mendung (Official Lyric Video)",
+      "channel": "YURA YUNITA",
+      "thumbnail": "https://i.ytimg.com/vi/bxe6Hyszlm0/mqdefault.jpg",
       "position": 49
     }
   ]

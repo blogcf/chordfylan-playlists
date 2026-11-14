@@ -5,22 +5,22 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMCE4NcGir7X7AMICKri2dcGEAE=&rs=AOn4CLA4walDfkbHpUu6eJxjfewfCK2wbw&v=1794535722",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKTK4tcGir7X7AMICKri2dcGEAE=&rs=AOn4CLBpUgb9AptNqDv2mM09tLY7hMXKDA&v=1794535722",
   "sourceCount": 88,
-  "updatedAt": "2026-11-14T06:41:23.393563+00:00",
+  "updatedAt": "2026-11-14T18:16:09.807254+00:00",
   "songs": [
     {
-      "videoId": "nQaqaEWocMM",
-      "title": "Life Is Madness",
-      "channel": "MALIQ & D'Essentials - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/nQaqaEWocMM/mqdefault.jpg",
+      "videoId": "exJc3UYW8Cg",
+      "title": "MALIQ & D'Essentials - Life is Madness (Official Visualizer)",
+      "channel": "MALIQ & D'Essentials",
+      "thumbnail": "https://i.ytimg.com/vi/exJc3UYW8Cg/mqdefault.jpg",
       "position": 0
     },
     {
-      "videoId": "fNJeBHDn-7g",
-      "title": "Jarimu",
-      "channel": "Anggi Marito - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/fNJeBHDn-7g/mqdefault.jpg",
+      "videoId": "m6F9I5Yf6Z0",
+      "title": "Anggi Marito - Jarimu (Offical Video)",
+      "channel": "Anggi Marito",
+      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
       "position": 1
     },
     {
@@ -73,17 +73,17 @@
       "position": 8
     },
     {
-      "videoId": "PWX5obVZohk",
-      "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
-      "channel": "Ade Nurulianto",
-      "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
-      "position": 9
-    },
-    {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
+      "position": 9
+    },
+    {
+      "videoId": "PWX5obVZohk",
+      "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
+      "channel": "Ade Nurulianto",
+      "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
       "position": 10
     },
     {
@@ -171,17 +171,17 @@
       "position": 22
     },
     {
-      "videoId": "FsvGsGDQD_Y",
-      "title": "Ahmad Abdul - Setelah Sekian Lama (Official Music Video)",
-      "channel": "Ahmad Abdul",
-      "thumbnail": "https://i.ytimg.com/vi/FsvGsGDQD_Y/mqdefault.jpg",
-      "position": 23
-    },
-    {
       "videoId": "e8IVUdt4r0I",
       "title": "YUNA - SENJATA (Official Audio)",
       "channel": "Yuna",
       "thumbnail": "https://i.ytimg.com/vi/e8IVUdt4r0I/mqdefault.jpg",
+      "position": 23
+    },
+    {
+      "videoId": "FsvGsGDQD_Y",
+      "title": "Ahmad Abdul - Setelah Sekian Lama (Official Music Video)",
+      "channel": "Ahmad Abdul",
+      "thumbnail": "https://i.ytimg.com/vi/FsvGsGDQD_Y/mqdefault.jpg",
       "position": 24
     },
     {
@@ -192,17 +192,17 @@
       "position": 25
     },
     {
-      "videoId": "Z4YYizJ-ojI",
-      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
-      "channel": "Fabio Asher",
-      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
-      "position": 26
-    },
-    {
       "videoId": "G5Wa1Kg-yWE",
       "title": "Maju Satu Satu",
       "channel": "Tsaqib - Topic",
       "thumbnail": "https://i.ytimg.com/vi/G5Wa1Kg-yWE/mqdefault.jpg",
+      "position": 26
+    },
+    {
+      "videoId": "Z4YYizJ-ojI",
+      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
+      "channel": "Fabio Asher",
+      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
       "position": 27
     },
     {
@@ -213,31 +213,31 @@
       "position": 28
     },
     {
-      "videoId": "FmBlbqgouVc",
-      "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
-      "channel": "TITI DJ",
-      "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "2CPVQCioK5I",
       "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
       "channel": "AstriD Music",
       "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
-      "position": 30
+      "position": 29
     },
     {
       "videoId": "DmHeChPunIY",
       "title": "Mawar de Jongh - Oh Semoga | Visualizer",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
-      "position": 31
+      "position": 30
     },
     {
       "videoId": "8qf8P62O7w4",
       "title": "Setengahku Dirimu",
       "channel": "Waode - Topic",
       "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "FmBlbqgouVc",
+      "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
+      "channel": "TITI DJ",
+      "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
       "position": 32
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "w6lNa5ZUHWQ",
-      "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
-      "channel": "Glenn Samuel",
-      "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "_pH_JZrZ25g",
       "title": "MALIQ & D'Essentials - Arah Labuh (Official Visualizer)",
       "channel": "MALIQ & D'Essentials",
       "thumbnail": "https://i.ytimg.com/vi/_pH_JZrZ25g/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "w6lNa5ZUHWQ",
+      "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
+      "channel": "Glenn Samuel",
+      "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
       "position": 37
     },
     {
@@ -304,24 +304,24 @@
       "position": 41
     },
     {
+      "videoId": "F83zAAOKHJ0",
+      "title": "Jaga Hati Hati - Hati",
+      "channel": "Anneth - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
+      "position": 42
+    },
+    {
       "videoId": "ISZvs9pINsE",
       "title": "Salahkah Ku Bahagia",
       "channel": "Insomniacks - Topic",
       "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
-      "position": 42
+      "position": 43
     },
     {
       "videoId": "f18zZojAC08",
       "title": "Apa Saja, Bisa! | Dance Version Video",
       "channel": "Glitter Official",
       "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
-      "position": 43
-    },
-    {
-      "videoId": "F83zAAOKHJ0",
-      "title": "Jaga Hati Hati - Hati",
-      "channel": "Anneth - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
       "position": 44
     },
     {
@@ -339,17 +339,17 @@
       "position": 46
     },
     {
-      "videoId": "0vkf7PcQepQ",
-      "title": "Baila - Dari Surga (Official Music Video)",
-      "channel": "Baila",
-      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
-      "position": 47
-    },
-    {
       "videoId": "mlM8WkPlz6A",
       "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
       "channel": "Bagas Ran",
       "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
+      "position": 47
+    },
+    {
+      "videoId": "UjiZuIBzrs8",
+      "title": "Baila - Dari Surga (Official Lyric Video)",
+      "channel": "Baila",
+      "thumbnail": "https://i.ytimg.com/vi/UjiZuIBzrs8/mqdefault.jpg",
       "position": 48
     },
     {

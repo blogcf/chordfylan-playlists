@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CMCE4NcGir7X7AMICLLh19cGEAE=&rs=AOn4CLAnI4VyvEL_-20IJkTXfb0k5MD1sg&v=1794502834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKTK4tcGir7X7AMICLLh19cGEAE=&rs=AOn4CLA0pWgNXNSxZLeu24sge2w6ohqz9Q&v=1794502834",
   "sourceCount": 65,
-  "updatedAt": "2026-11-14T06:41:23.762535+00:00",
+  "updatedAt": "2026-11-14T18:16:10.390679+00:00",
   "songs": [
     {
       "videoId": "JDJFH459ico",
@@ -185,17 +185,17 @@
       "position": 24
     },
     {
-      "videoId": "_Vid_V1vNtc",
-      "title": "sadge - heiakim & aiella [Official Music Video]",
-      "channel": "heiakim",
-      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
-      "position": 25
-    },
-    {
       "videoId": "jvrF1F-peyw",
       "title": "...dan berpesta",
       "channel": "Diskoria - Topic",
       "thumbnail": "https://i.ytimg.com/vi/jvrF1F-peyw/mqdefault.jpg",
+      "position": 25
+    },
+    {
+      "videoId": "_Vid_V1vNtc",
+      "title": "sadge - heiakim & aiella [Official Music Video]",
+      "channel": "heiakim",
+      "thumbnail": "https://i.ytimg.com/vi/_Vid_V1vNtc/mqdefault.jpg",
       "position": 26
     },
     {
@@ -248,24 +248,24 @@
       "position": 33
     },
     {
-      "videoId": "n_Fk82dFs_o",
-      "title": "Navicula - Rumah",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
-      "position": 34
-    },
-    {
       "videoId": "Moi0kcIwUB8",
       "title": "White Chorus - Aku dan Kamu [Official Lyric Video]",
       "channel": "White Chorus",
       "thumbnail": "https://i.ytimg.com/vi/Moi0kcIwUB8/mqdefault.jpg",
-      "position": 35
+      "position": 34
     },
     {
       "videoId": "NzTBePa7qv0",
       "title": "Hawa",
       "channel": "Havva - Topic",
       "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "n_Fk82dFs_o",
+      "title": "Navicula - Rumah",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
       "position": 36
     },
     {
@@ -339,10 +339,10 @@
       "position": 46
     },
     {
-      "videoId": "r0j_G3Rtwbs",
-      "title": "Rengkah",
-      "channel": "Deep Ocean - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
+      "videoId": "s5wKOI9jTN0",
+      "title": "Goodbye Everest",
+      "channel": "mpq - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/s5wKOI9jTN0/mqdefault.jpg",
       "position": 47
     },
     {
@@ -353,10 +353,10 @@
       "position": 48
     },
     {
-      "videoId": "T-Xnw6tGVgI",
-      "title": "lightcraft – Like a Child (Official Music Video)",
-      "channel": "lightcraft",
-      "thumbnail": "https://i.ytimg.com/vi/T-Xnw6tGVgI/mqdefault.jpg",
+      "videoId": "r0j_G3Rtwbs",
+      "title": "Rengkah",
+      "channel": "Deep Ocean - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
       "position": 49
     }
   ]
