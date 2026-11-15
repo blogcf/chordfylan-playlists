@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COjB49cGir7X7AMICLLh19cGEAE=&rs=AOn4CLBc-fVzrAmGu0bUpPIFc-We5YBtDQ&v=1794502834",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=COyp5dcGir7X7AMICLLh19cGEAE=&rs=AOn4CLBdQ-cBC3FyWzPsjMzeNE0wpLWXMg&v=1794502834",
   "sourceCount": 65,
-  "updatedAt": "2026-11-14T22:32:31.086114+00:00",
+  "updatedAt": "2026-11-15T06:47:00.398325+00:00",
   "songs": [
     {
       "videoId": "JDJFH459ico",
@@ -290,17 +290,17 @@
       "position": 39
     },
     {
-      "videoId": "sXUe22wn3wE",
-      "title": "Safe Around You",
-      "channel": "Blind Phase - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/sXUe22wn3wE/mqdefault.jpg",
-      "position": 40
-    },
-    {
       "videoId": "br3qj7tku1k",
       "title": "Paul Partohap - SUPRISE SUPRISE! (Lyric Video)",
       "channel": "paul partohap",
       "thumbnail": "https://i.ytimg.com/vi/br3qj7tku1k/mqdefault.jpg",
+      "position": 40
+    },
+    {
+      "videoId": "sXUe22wn3wE",
+      "title": "Safe Around You",
+      "channel": "Blind Phase - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/sXUe22wn3wE/mqdefault.jpg",
       "position": 41
     },
     {
@@ -353,10 +353,10 @@
       "position": 48
     },
     {
-      "videoId": "r0j_G3Rtwbs",
-      "title": "Rengkah",
-      "channel": "Deep Ocean - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
+      "videoId": "T-Xnw6tGVgI",
+      "title": "lightcraft – Like a Child (Official Music Video)",
+      "channel": "lightcraft",
+      "thumbnail": "https://i.ytimg.com/vi/T-Xnw6tGVgI/mqdefault.jpg",
       "position": 49
     }
   ]
