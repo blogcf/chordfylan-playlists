@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COzM6tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLDUfFCGNOD9w6cMtslKKJomQlGujQ&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COSA7tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLBVC6_Hv0LzNkuGiiFwAVGJo5aL-Q&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-16T06:45:22.965731+00:00",
+  "updatedAt": "2026-11-16T22:17:59.677478+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "W1lvPw3ejuA",
-      "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
-      "channel": "Salma Salsabil",
-      "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "Uv5C4lV2f4k",
       "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
       "channel": "MeiskaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "W1lvPw3ejuA",
+      "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
+      "channel": "Salma Salsabil",
+      "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
       "position": 37
     },
     {
@@ -311,17 +311,17 @@
       "position": 42
     },
     {
-      "videoId": "uzV-aToTmMc",
-      "title": "Lyodra - Pintu Hati (Official Video)",
-      "channel": "Lyodra Official",
-      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
-      "position": 43
-    },
-    {
       "videoId": "azZTfgTifDY",
       "title": "Ariel NOAH - Ancika (OST. Dilan ITB 1997) | Official Lyric Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/azZTfgTifDY/mqdefault.jpg",
+      "position": 43
+    },
+    {
+      "videoId": "uzV-aToTmMc",
+      "title": "Lyodra - Pintu Hati (Official Video)",
+      "channel": "Lyodra Official",
+      "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
       "position": 44
     },
     {
