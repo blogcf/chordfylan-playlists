@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CISA6NcGir7X7AMICLPh19cGEAE=&rs=AOn4CLDuMsdILrP26FO3e_x1969IOaOsRg&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COzM6tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLDUfFCGNOD9w6cMtslKKJomQlGujQ&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-15T18:57:22.230172+00:00",
+  "updatedAt": "2026-11-16T06:45:22.965731+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -220,24 +220,24 @@
       "position": 29
     },
     {
+      "videoId": "4BQGKMrwCGU",
+      "title": "Hatimu Milik Dia",
+      "channel": "Arvian Dwi - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/4BQGKMrwCGU/mqdefault.jpg",
+      "position": 30
+    },
+    {
       "videoId": "PWX5obVZohk",
       "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
       "channel": "Ade Nurulianto",
       "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
-      "position": 30
+      "position": 31
     },
     {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
-      "position": 31
-    },
-    {
-      "videoId": "4BQGKMrwCGU",
-      "title": "Hatimu Milik Dia",
-      "channel": "Arvian Dwi - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/4BQGKMrwCGU/mqdefault.jpg",
       "position": 32
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "Uv5C4lV2f4k",
-      "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
-      "channel": "MeiskaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "Uv5C4lV2f4k",
+      "title": "Meiska - Aku Cuma Punya Hati (Official Lyric Visualizer)",
+      "channel": "MeiskaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/Uv5C4lV2f4k/mqdefault.jpg",
       "position": 37
     },
     {
