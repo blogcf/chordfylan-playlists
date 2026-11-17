@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=COSA7tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLBVC6_Hv0LzNkuGiiFwAVGJo5aL-Q&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKyV8NcGir7X7AMICLPh19cGEAE=&rs=AOn4CLBbhsKe5Y2dweiBzBV98OYLvnqwgQ&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-16T22:17:59.677478+00:00",
+  "updatedAt": "2026-11-17T08:06:00.422574+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -136,17 +136,17 @@
       "position": 17
     },
     {
-      "videoId": "IMtdWKwFlv0",
-      "title": "Tiara Andini - Tulang dan Nadi (Official Visualizer)",
-      "channel": "Tiara Andini",
-      "thumbnail": "https://i.ytimg.com/vi/IMtdWKwFlv0/mqdefault.jpg",
-      "position": 18
-    },
-    {
       "videoId": "l_LF62caYYo",
       "title": "WIJAYA 80, Yovie Widianto - Cinta Sudah Lewat (Official Music Video)",
       "channel": "WIJAYA 80",
       "thumbnail": "https://i.ytimg.com/vi/l_LF62caYYo/mqdefault.jpg",
+      "position": 18
+    },
+    {
+      "videoId": "IMtdWKwFlv0",
+      "title": "Tiara Andini - Tulang dan Nadi (Official Visualizer)",
+      "channel": "Tiara Andini",
+      "thumbnail": "https://i.ytimg.com/vi/IMtdWKwFlv0/mqdefault.jpg",
       "position": 19
     },
     {
