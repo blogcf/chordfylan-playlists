@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKyV8NcGir7X7AMICJGW69cGEAE=&rs=AOn4CLAbXdGxar25h75OGUjUutHirVYirQ&v=1794820881",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNCA89cGir7X7AMICJGW69cGEAE=&rs=AOn4CLDjuwmCNNFquivYIwCwf-H_o8WdqA&v=1794820881",
   "sourceCount": 89,
-  "updatedAt": "2026-11-17T08:06:00.969793+00:00",
+  "updatedAt": "2026-11-17T21:03:48.283306+00:00",
   "songs": [
     {
       "videoId": "exJc3UYW8Cg",
@@ -241,17 +241,17 @@
       "position": 32
     },
     {
-      "videoId": "8qf8P62O7w4",
-      "title": "Setengahku Dirimu",
-      "channel": "Waode - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "FmBlbqgouVc",
       "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
       "channel": "TITI DJ",
       "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "8qf8P62O7w4",
+      "title": "Setengahku Dirimu",
+      "channel": "Waode - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
       "position": 34
     },
     {
@@ -318,24 +318,24 @@
       "position": 43
     },
     {
-      "videoId": "F83zAAOKHJ0",
-      "title": "Jaga Hati Hati - Hati",
-      "channel": "Anneth - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
-      "position": 44
-    },
-    {
       "videoId": "BcDL8b_mpJs",
       "title": "Francis Karel - Purple Skies (Official Music Video)",
       "channel": "Francis Karel",
       "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
-      "position": 45
+      "position": 44
     },
     {
       "videoId": "KdP4uUcRtIc",
       "title": "Luka Terakhir",
       "channel": "Sheera - Topic",
       "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
+      "position": 45
+    },
+    {
+      "videoId": "F83zAAOKHJ0",
+      "title": "Jaga Hati Hati - Hati",
+      "channel": "Anneth - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
       "position": 46
     },
     {
@@ -346,17 +346,17 @@
       "position": 47
     },
     {
-      "videoId": "0vkf7PcQepQ",
-      "title": "Baila - Dari Surga (Official Music Video)",
-      "channel": "Baila",
-      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
-      "position": 48
-    },
-    {
       "videoId": "YRySJukonBc",
       "title": "Strategi Memilikimu",
       "channel": "Alisha Dira - Topic",
       "thumbnail": "https://i.ytimg.com/vi/YRySJukonBc/mqdefault.jpg",
+      "position": 48
+    },
+    {
+      "videoId": "GCWPvB1Suh0",
+      "title": "Mahen - Aku Bisa (Official Lyric Video)",
+      "channel": "Indo Semar Sakti",
+      "thumbnail": "https://i.ytimg.com/vi/GCWPvB1Suh0/mqdefault.jpg",
       "position": 49
     }
   ]
