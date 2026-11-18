@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNCs9dcGir7X7AMICJGW69cGEAE=&rs=AOn4CLA1tbae1w3e1FJVOnLUL893G_g2TQ&v=1794820881",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKCa-NcGir7X7AMICJGW69cGEAE=&rs=AOn4CLBA4uYdY_1BI9eR4yxjjkm2s0KwNw&v=1794820881",
   "sourceCount": 89,
-  "updatedAt": "2026-11-18T07:41:34.700694+00:00",
+  "updatedAt": "2026-11-18T20:41:09.963274+00:00",
   "songs": [
     {
       "videoId": "exJc3UYW8Cg",
@@ -94,17 +94,17 @@
       "position": 11
     },
     {
-      "videoId": "UYDb8UvAVCc",
-      "title": "KELJO - Sesakit Itu (Official Lyrics Video)",
-      "channel": "KELJO",
-      "thumbnail": "https://i.ytimg.com/vi/UYDb8UvAVCc/mqdefault.jpg",
-      "position": 12
-    },
-    {
       "videoId": "9ih-bRUsqeM",
       "title": "Nicole Rossi - Birds Call Your Name - Stars Lyric",
       "channel": "Stars Lyric",
       "thumbnail": "https://i.ytimg.com/vi/9ih-bRUsqeM/mqdefault.jpg",
+      "position": 12
+    },
+    {
+      "videoId": "UYDb8UvAVCc",
+      "title": "KELJO - Sesakit Itu (Official Lyrics Video)",
+      "channel": "KELJO",
+      "thumbnail": "https://i.ytimg.com/vi/UYDb8UvAVCc/mqdefault.jpg",
       "position": 13
     },
     {
@@ -164,17 +164,17 @@
       "position": 21
     },
     {
-      "videoId": "e8IVUdt4r0I",
-      "title": "YUNA - SENJATA (Official Audio)",
-      "channel": "Yuna",
-      "thumbnail": "https://i.ytimg.com/vi/e8IVUdt4r0I/mqdefault.jpg",
-      "position": 22
-    },
-    {
       "videoId": "4lEmo0Vo8Os",
       "title": "MANTRA NUSANTARA - AVIWKILA (Official Lyric Video)",
       "channel": "Aviwkila",
       "thumbnail": "https://i.ytimg.com/vi/4lEmo0Vo8Os/mqdefault.jpg",
+      "position": 22
+    },
+    {
+      "videoId": "e8IVUdt4r0I",
+      "title": "YUNA - SENJATA (Official Audio)",
+      "channel": "Yuna",
+      "thumbnail": "https://i.ytimg.com/vi/e8IVUdt4r0I/mqdefault.jpg",
       "position": 23
     },
     {
@@ -241,66 +241,66 @@
       "position": 32
     },
     {
+      "videoId": "DCIlEn1dEpY",
+      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
+      "position": 33
+    },
+    {
       "videoId": "FmBlbqgouVc",
       "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
       "channel": "TITI DJ",
       "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
-      "position": 33
+      "position": 34
     },
     {
       "videoId": "8qf8P62O7w4",
       "title": "Setengahku Dirimu",
       "channel": "Waode - Topic",
       "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
-      "position": 34
+      "position": 35
+    },
+    {
+      "videoId": "CFx2zEtKNlQ",
+      "title": "Giant Jay Ft. Dewanda Pratama  - Kalau Aku Lebih Darinya (Official Music Video)",
+      "channel": "POP ART | On Behalf Of HP MUSIC",
+      "thumbnail": "https://i.ytimg.com/vi/CFx2zEtKNlQ/mqdefault.jpg",
+      "position": 36
     },
     {
       "videoId": "aCPfrVDJH-A",
       "title": "Forevermore",
       "channel": "Kaleb J - Topic",
       "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
-      "position": 35
+      "position": 37
     },
     {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
-      "position": 36
-    },
-    {
-      "videoId": "DCIlEn1dEpY",
-      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 37
+      "position": 38
     },
     {
       "videoId": "yhxIMnHf-PE",
       "title": "Dadali - Aku Bisa Gila (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/yhxIMnHf-PE/mqdefault.jpg",
-      "position": 38
+      "position": 39
     },
     {
       "videoId": "w6lNa5ZUHWQ",
       "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
       "channel": "Glenn Samuel",
       "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
-      "position": 39
+      "position": 40
     },
     {
       "videoId": "VcQ6UI5k3UI",
       "title": "ANGEL PIETERS - RUMAH SENDIRI (OFFICIAL LYRIC VIDEO)",
       "channel": "Angel Pieters",
       "thumbnail": "https://i.ytimg.com/vi/VcQ6UI5k3UI/mqdefault.jpg",
-      "position": 40
-    },
-    {
-      "videoId": "f18zZojAC08",
-      "title": "Apa Saja, Bisa! | Dance Version Video",
-      "channel": "Glitter Official",
-      "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
       "position": 41
     },
     {
@@ -311,17 +311,17 @@
       "position": 42
     },
     {
+      "videoId": "f18zZojAC08",
+      "title": "Apa Saja, Bisa! | Dance Version Video",
+      "channel": "Glitter Official",
+      "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
+      "position": 43
+    },
+    {
       "videoId": "ISZvs9pINsE",
       "title": "Salahkah Ku Bahagia",
       "channel": "Insomniacks - Topic",
       "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
-      "position": 43
-    },
-    {
-      "videoId": "BcDL8b_mpJs",
-      "title": "Francis Karel - Purple Skies (Official Music Video)",
-      "channel": "Francis Karel",
-      "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
       "position": 44
     },
     {
@@ -332,10 +332,10 @@
       "position": 45
     },
     {
-      "videoId": "0vkf7PcQepQ",
-      "title": "Baila - Dari Surga (Official Music Video)",
-      "channel": "Baila",
-      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
+      "videoId": "BcDL8b_mpJs",
+      "title": "Francis Karel - Purple Skies (Official Music Video)",
+      "channel": "Francis Karel",
+      "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
       "position": 46
     },
     {
@@ -346,17 +346,17 @@
       "position": 47
     },
     {
+      "videoId": "0vkf7PcQepQ",
+      "title": "Baila - Dari Surga (Official Music Video)",
+      "channel": "Baila",
+      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
+      "position": 48
+    },
+    {
       "videoId": "YRySJukonBc",
       "title": "Strategi Memilikimu",
       "channel": "Alisha Dira - Topic",
       "thumbnail": "https://i.ytimg.com/vi/YRySJukonBc/mqdefault.jpg",
-      "position": 48
-    },
-    {
-      "videoId": "GCWPvB1Suh0",
-      "title": "Mahen - Aku Bisa (Official Lyric Video)",
-      "channel": "Indo Semar Sakti",
-      "thumbnail": "https://i.ytimg.com/vi/GCWPvB1Suh0/mqdefault.jpg",
       "position": 49
     }
   ]

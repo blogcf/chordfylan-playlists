@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CNCs9dcGir7X7AMICOyb69cGEAE=&rs=AOn4CLBryQVfl4HYselZoeZVxK1doya_CA&v=1794821612",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKCa-NcGir7X7AMICOyb69cGEAE=&rs=AOn4CLA1-QXg1atl53jFUH9cnzT_pTjE5A&v=1794821612",
   "sourceCount": 66,
-  "updatedAt": "2026-11-18T07:41:35.171938+00:00",
+  "updatedAt": "2026-11-18T20:41:10.456243+00:00",
   "songs": [
     {
       "videoId": "JDJFH459ico",
@@ -108,24 +108,24 @@
       "position": 13
     },
     {
-      "videoId": "ZK8dboHDw5Y",
-      "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
-      "channel": "Mitty Zasia",
-      "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
-      "position": 14
-    },
-    {
       "videoId": "SzLVyHXSlOA",
       "title": "Dendi Nata - Semoga (Official Lyrics)",
       "channel": "Dendi Nata",
       "thumbnail": "https://i.ytimg.com/vi/SzLVyHXSlOA/mqdefault.jpg",
-      "position": 15
+      "position": 14
     },
     {
       "videoId": "RRAYAN75gRw",
       "title": "Barsena Bestandhi - Coba Lagi | Official Music Video",
       "channel": "Barsena Bestandhi",
       "thumbnail": "https://i.ytimg.com/vi/RRAYAN75gRw/mqdefault.jpg",
+      "position": 15
+    },
+    {
+      "videoId": "ZK8dboHDw5Y",
+      "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
+      "channel": "Mitty Zasia",
+      "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
       "position": 16
     },
     {
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "VphxiqsHaQg",
-      "title": "Dimas M - aku mau hidup yang ada kamunya",
-      "channel": "Dimas M",
-      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "VphxiqsHaQg",
+      "title": "Dimas M - aku mau hidup yang ada kamunya",
+      "channel": "Dimas M",
+      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
       "position": 33
     },
     {
