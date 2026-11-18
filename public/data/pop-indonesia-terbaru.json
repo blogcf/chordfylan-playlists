@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNCA89cGir7X7AMICJGW69cGEAE=&rs=AOn4CLDjuwmCNNFquivYIwCwf-H_o8WdqA&v=1794820881",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNCs9dcGir7X7AMICJGW69cGEAE=&rs=AOn4CLA1tbae1w3e1FJVOnLUL893G_g2TQ&v=1794820881",
   "sourceCount": 89,
-  "updatedAt": "2026-11-17T21:03:48.283306+00:00",
+  "updatedAt": "2026-11-18T07:41:34.700694+00:00",
   "songs": [
     {
       "videoId": "exJc3UYW8Cg",
@@ -164,17 +164,17 @@
       "position": 21
     },
     {
-      "videoId": "4lEmo0Vo8Os",
-      "title": "MANTRA NUSANTARA - AVIWKILA (Official Lyric Video)",
-      "channel": "Aviwkila",
-      "thumbnail": "https://i.ytimg.com/vi/4lEmo0Vo8Os/mqdefault.jpg",
-      "position": 22
-    },
-    {
       "videoId": "e8IVUdt4r0I",
       "title": "YUNA - SENJATA (Official Audio)",
       "channel": "Yuna",
       "thumbnail": "https://i.ytimg.com/vi/e8IVUdt4r0I/mqdefault.jpg",
+      "position": 22
+    },
+    {
+      "videoId": "4lEmo0Vo8Os",
+      "title": "MANTRA NUSANTARA - AVIWKILA (Official Lyric Video)",
+      "channel": "Aviwkila",
+      "thumbnail": "https://i.ytimg.com/vi/4lEmo0Vo8Os/mqdefault.jpg",
       "position": 23
     },
     {
@@ -185,17 +185,17 @@
       "position": 24
     },
     {
-      "videoId": "8n-nAfpFQvc",
-      "title": "Hanin Dhiya - Cinta Ini Membunuhku (Official Music Video)",
-      "channel": "Hanin Dhiya",
-      "thumbnail": "https://i.ytimg.com/vi/8n-nAfpFQvc/mqdefault.jpg",
-      "position": 25
-    },
-    {
       "videoId": "_pH_JZrZ25g",
       "title": "MALIQ & D'Essentials - Arah Labuh (Official Visualizer)",
       "channel": "MALIQ & D'Essentials",
       "thumbnail": "https://i.ytimg.com/vi/_pH_JZrZ25g/mqdefault.jpg",
+      "position": 25
+    },
+    {
+      "videoId": "8n-nAfpFQvc",
+      "title": "Hanin Dhiya - Cinta Ini Membunuhku (Official Music Video)",
+      "channel": "Hanin Dhiya",
+      "thumbnail": "https://i.ytimg.com/vi/8n-nAfpFQvc/mqdefault.jpg",
       "position": 26
     },
     {
@@ -262,52 +262,52 @@
       "position": 35
     },
     {
-      "videoId": "CFx2zEtKNlQ",
-      "title": "Giant Jay Ft. Dewanda Pratama  - Kalau Aku Lebih Darinya (Official Music Video)",
-      "channel": "POP ART | On Behalf Of HP MUSIC",
-      "thumbnail": "https://i.ytimg.com/vi/CFx2zEtKNlQ/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
-      "position": 37
+      "position": 36
     },
     {
       "videoId": "DCIlEn1dEpY",
       "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 38
+      "position": 37
     },
     {
       "videoId": "yhxIMnHf-PE",
       "title": "Dadali - Aku Bisa Gila (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/yhxIMnHf-PE/mqdefault.jpg",
-      "position": 39
+      "position": 38
     },
     {
       "videoId": "w6lNa5ZUHWQ",
       "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
       "channel": "Glenn Samuel",
       "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
-      "position": 40
+      "position": 39
     },
     {
       "videoId": "VcQ6UI5k3UI",
       "title": "ANGEL PIETERS - RUMAH SENDIRI (OFFICIAL LYRIC VIDEO)",
       "channel": "Angel Pieters",
       "thumbnail": "https://i.ytimg.com/vi/VcQ6UI5k3UI/mqdefault.jpg",
-      "position": 41
+      "position": 40
     },
     {
       "videoId": "f18zZojAC08",
       "title": "Apa Saja, Bisa! | Dance Version Video",
       "channel": "Glitter Official",
       "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
+      "position": 41
+    },
+    {
+      "videoId": "F83zAAOKHJ0",
+      "title": "Jaga Hati Hati - Hati",
+      "channel": "Anneth - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
       "position": 42
     },
     {
@@ -332,10 +332,10 @@
       "position": 45
     },
     {
-      "videoId": "F83zAAOKHJ0",
-      "title": "Jaga Hati Hati - Hati",
-      "channel": "Anneth - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
+      "videoId": "0vkf7PcQepQ",
+      "title": "Baila - Dari Surga (Official Music Video)",
+      "channel": "Baila",
+      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
       "position": 46
     },
     {

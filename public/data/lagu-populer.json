@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CNCA89cGir7X7AMICLPh19cGEAE=&rs=AOn4CLABx6CYO1B6YufrQlzdNWFpdI6UsA&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CNCs9dcGir7X7AMICLPh19cGEAE=&rs=AOn4CLBbjmBx0Rw5aqiMUygPSQIZUjSKlw&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-17T21:03:47.750985+00:00",
+  "updatedAt": "2026-11-18T07:41:34.281445+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -122,17 +122,17 @@
       "position": 15
     },
     {
-      "videoId": "XAl6rZepmDg",
-      "title": "no na - star (Official Music Video)",
-      "channel": "no na",
-      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
-      "position": 16
-    },
-    {
       "videoId": "l_LF62caYYo",
       "title": "WIJAYA 80, Yovie Widianto - Cinta Sudah Lewat (Official Music Video)",
       "channel": "WIJAYA 80",
       "thumbnail": "https://i.ytimg.com/vi/l_LF62caYYo/mqdefault.jpg",
+      "position": 16
+    },
+    {
+      "videoId": "XAl6rZepmDg",
+      "title": "no na - star (Official Music Video)",
+      "channel": "no na",
+      "thumbnail": "https://i.ytimg.com/vi/XAl6rZepmDg/mqdefault.jpg",
       "position": 17
     },
     {
@@ -199,17 +199,17 @@
       "position": 26
     },
     {
-      "videoId": "EnNAUCtR4vI",
-      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
-      "position": 27
-    },
-    {
       "videoId": "g3ZWhi29QFI",
       "title": "Juicy Luicy - Gurun Hujan (Official Lyric Video)",
       "channel": "Emotion Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/g3ZWhi29QFI/mqdefault.jpg",
+      "position": 27
+    },
+    {
+      "videoId": "EnNAUCtR4vI",
+      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
       "position": 28
     },
     {
