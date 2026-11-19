@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKCa-NcGir7X7AMICLPh19cGEAE=&rs=AOn4CLAzC5ooTpuXKqdWdAKuWoDzHrQp4A&v=1794502835",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKTN-tcGir7X7AMICLPh19cGEAE=&rs=AOn4CLDaOg6RWTrk3FQd-B4bPv610oCQaQ&v=1794502835",
   "sourceCount": 75,
-  "updatedAt": "2026-11-18T20:41:09.557195+00:00",
+  "updatedAt": "2026-11-19T07:37:38.322124+00:00",
   "songs": [
     {
       "videoId": "MNWQrwSKt2U",
@@ -353,10 +353,10 @@
       "position": 48
     },
     {
-      "videoId": "bxe6Hyszlm0",
-      "title": "Yura Yunita & Idgitaf - Mendung (Official Lyric Video)",
-      "channel": "YURA YUNITA",
-      "thumbnail": "https://i.ytimg.com/vi/bxe6Hyszlm0/mqdefault.jpg",
+      "videoId": "2x_EYv5H68o",
+      "title": "Stevan Pasaribu - Beri Aku Kesempatan (Official Music Video)",
+      "channel": "Stevan Pasaribu Musica Official",
+      "thumbnail": "https://i.ytimg.com/vi/2x_EYv5H68o/mqdefault.jpg",
       "position": 49
     }
   ]

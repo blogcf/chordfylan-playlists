@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKCa-NcGir7X7AMICOyb69cGEAE=&rs=AOn4CLA1-QXg1atl53jFUH9cnzT_pTjE5A&v=1794821612",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKTN-tcGir7X7AMICOyb69cGEAE=&rs=AOn4CLBA_XSNXAouAf2dfwO1k-wCYIhtBQ&v=1794821612",
   "sourceCount": 66,
-  "updatedAt": "2026-11-18T20:41:10.456243+00:00",
+  "updatedAt": "2026-11-19T07:37:39.204305+00:00",
   "songs": [
     {
       "videoId": "JDJFH459ico",
@@ -80,17 +80,17 @@
       "position": 9
     },
     {
-      "videoId": "nbYYExi3Utk",
-      "title": "Matter Mos & Dere - Senyum Tidurnya (Video Visual)",
-      "channel": "Matter Mos",
-      "thumbnail": "https://i.ytimg.com/vi/nbYYExi3Utk/mqdefault.jpg",
-      "position": 10
-    },
-    {
       "videoId": "GEvKwlfI_gU",
       "title": "HARRA. - Aneh Tapi Nyata (Official Music Video)",
       "channel": "HARRA.",
       "thumbnail": "https://i.ytimg.com/vi/GEvKwlfI_gU/mqdefault.jpg",
+      "position": 10
+    },
+    {
+      "videoId": "nbYYExi3Utk",
+      "title": "Matter Mos & Dere - Senyum Tidurnya (Video Visual)",
+      "channel": "Matter Mos",
+      "thumbnail": "https://i.ytimg.com/vi/nbYYExi3Utk/mqdefault.jpg",
       "position": 11
     },
     {
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "o-ePFlAgdyc",
-      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
-      "channel": "Aquarius Musikindo",
-      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "Z9NGrCfZmR8",
       "title": "The Midnight Darlings - What If We Met Sooner? (Official Lyric Video)",
       "channel": "The Midnight Darlings",
       "thumbnail": "https://i.ytimg.com/vi/Z9NGrCfZmR8/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "o-ePFlAgdyc",
+      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
+      "channel": "Aquarius Musikindo",
+      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
       "position": 30
     },
     {
@@ -339,24 +339,24 @@
       "position": 46
     },
     {
-      "videoId": "r0j_G3Rtwbs",
-      "title": "Rengkah",
-      "channel": "Deep Ocean - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
-      "position": 47
-    },
-    {
       "videoId": "s5wKOI9jTN0",
       "title": "Goodbye Everest",
       "channel": "mpq - Topic",
       "thumbnail": "https://i.ytimg.com/vi/s5wKOI9jTN0/mqdefault.jpg",
+      "position": 47
+    },
+    {
+      "videoId": "r0j_G3Rtwbs",
+      "title": "Rengkah",
+      "channel": "Deep Ocean - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/r0j_G3Rtwbs/mqdefault.jpg",
       "position": 48
     },
     {
-      "videoId": "Fxbvui3W7yo",
-      "title": "15. Tenang (with Matter Mos) - RIMALDI | 888 DREAMALDI FM",
-      "channel": "RIMALDI",
-      "thumbnail": "https://i.ytimg.com/vi/Fxbvui3W7yo/mqdefault.jpg",
+      "videoId": "T-Xnw6tGVgI",
+      "title": "lightcraft – Like a Child (Official Music Video)",
+      "channel": "lightcraft",
+      "thumbnail": "https://i.ytimg.com/vi/T-Xnw6tGVgI/mqdefault.jpg",
       "position": 49
     }
   ]
