@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMy__dcGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDM0FrV8GGi5WTr-CBo6Ma59Vp45Q&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMzr_9cGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDkKnu1_35LX2eDHZ5BLN_Vk7GSbQ&v=1795107634",
   "sourceCount": 75,
-  "updatedAt": "2026-11-19T20:47:17.923013+00:00",
+  "updatedAt": "2026-11-20T07:28:37.197455+00:00",
   "songs": [
     {
       "videoId": "Xg_xFy0aIlQ",
@@ -24,10 +24,10 @@
       "position": 1
     },
     {
-      "videoId": "Rp6evgrTqRo",
-      "title": "Sabda Cinta",
-      "channel": "Budi Doremi - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Rp6evgrTqRo/mqdefault.jpg",
+      "videoId": "EUG0C05gCkw",
+      "title": "Budi Doremi - Sabda Cinta (Official Lyric Visualizer)",
+      "channel": "Budi Doremi",
+      "thumbnail": "https://i.ytimg.com/vi/EUG0C05gCkw/mqdefault.jpg",
       "position": 2
     },
     {
@@ -108,17 +108,17 @@
       "position": 13
     },
     {
-      "videoId": "_GpYWnWlgkg",
-      "title": "Rizky Febian & Adrian Khalif  - Alamak [Official Music Video]",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/_GpYWnWlgkg/mqdefault.jpg",
-      "position": 14
-    },
-    {
       "videoId": "l_LF62caYYo",
       "title": "WIJAYA 80, Yovie Widianto - Cinta Sudah Lewat (Official Music Video)",
       "channel": "WIJAYA 80",
       "thumbnail": "https://i.ytimg.com/vi/l_LF62caYYo/mqdefault.jpg",
+      "position": 14
+    },
+    {
+      "videoId": "_GpYWnWlgkg",
+      "title": "Rizky Febian & Adrian Khalif  - Alamak [Official Music Video]",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/_GpYWnWlgkg/mqdefault.jpg",
       "position": 15
     },
     {
@@ -213,31 +213,31 @@
       "position": 28
     },
     {
-      "videoId": "EnNAUCtR4vI",
-      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "VH8FsN-OI0k",
       "title": "Rony Parulian - Wals Akhir Zaman (Official Music Video)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/VH8FsN-OI0k/mqdefault.jpg",
-      "position": 30
+      "position": 29
     },
     {
-      "videoId": "-lJ9osCpZCM",
-      "title": "BCL - Putusin Aja (Official Music Video)",
-      "channel": "IT'S ME BCL",
-      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 31
+      "videoId": "EnNAUCtR4vI",
+      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
+      "position": 30
     },
     {
       "videoId": "4BQGKMrwCGU",
       "title": "Hatimu Milik Dia",
       "channel": "Arvian Dwi - Topic",
       "thumbnail": "https://i.ytimg.com/vi/4BQGKMrwCGU/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "-lJ9osCpZCM",
+      "title": "BCL - Putusin Aja (Official Music Video)",
+      "channel": "IT'S ME BCL",
+      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
       "position": 32
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "cZcVa76PyOs",
-      "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
-      "channel": "Fajar Noor",
-      "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "pP5gYltKGJE",
       "title": "Rony Parulian - Februari (Official Album Visualizer)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/pP5gYltKGJE/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "cZcVa76PyOs",
+      "title": "Fajar Noor - Salah Apa Aku (Official Album Visualizer)",
+      "channel": "Fajar Noor",
+      "thumbnail": "https://i.ytimg.com/vi/cZcVa76PyOs/mqdefault.jpg",
       "position": 37
     },
     {
