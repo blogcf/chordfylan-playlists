@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMzr_9cGir7X7AMICLLW_NcGEAE=&rs=AOn4CLCb-mYRgXirpHR10x_zOdgvlDquHg&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CMjbgtgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLC_a7eI0DmlBMFHAg3DjhZedccQCw&v=1795107634",
   "sourceCount": 85,
-  "updatedAt": "2026-11-20T07:28:37.651906+00:00",
+  "updatedAt": "2026-11-20T20:30:42.093556+00:00",
   "songs": [
     {
       "videoId": "I1wd_j4w-aI",
@@ -80,17 +80,17 @@
       "position": 9
     },
     {
-      "videoId": "-lJ9osCpZCM",
-      "title": "BCL - Putusin Aja (Official Music Video)",
-      "channel": "IT'S ME BCL",
-      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 10
-    },
-    {
       "videoId": "PWX5obVZohk",
       "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
       "channel": "Ade Nurulianto",
       "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
+      "position": 10
+    },
+    {
+      "videoId": "-lJ9osCpZCM",
+      "title": "BCL - Putusin Aja (Official Music Video)",
+      "channel": "IT'S ME BCL",
+      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
       "position": 11
     },
     {
@@ -185,24 +185,24 @@
       "position": 24
     },
     {
-      "videoId": "4lEmo0Vo8Os",
-      "title": "MANTRA NUSANTARA - AVIWKILA (Official Lyric Video)",
-      "channel": "Aviwkila",
-      "thumbnail": "https://i.ytimg.com/vi/4lEmo0Vo8Os/mqdefault.jpg",
-      "position": 25
-    },
-    {
       "videoId": "FsvGsGDQD_Y",
       "title": "Ahmad Abdul - Setelah Sekian Lama (Official Music Video)",
       "channel": "Ahmad Abdul",
       "thumbnail": "https://i.ytimg.com/vi/FsvGsGDQD_Y/mqdefault.jpg",
-      "position": 26
+      "position": 25
     },
     {
       "videoId": "_pH_JZrZ25g",
       "title": "MALIQ & D'Essentials - Arah Labuh (Official Visualizer)",
       "channel": "MALIQ & D'Essentials",
       "thumbnail": "https://i.ytimg.com/vi/_pH_JZrZ25g/mqdefault.jpg",
+      "position": 26
+    },
+    {
+      "videoId": "4lEmo0Vo8Os",
+      "title": "MANTRA NUSANTARA - AVIWKILA (Official Lyric Video)",
+      "channel": "Aviwkila",
+      "thumbnail": "https://i.ytimg.com/vi/4lEmo0Vo8Os/mqdefault.jpg",
       "position": 27
     },
     {
@@ -227,17 +227,17 @@
       "position": 30
     },
     {
-      "videoId": "2CPVQCioK5I",
-      "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
-      "channel": "AstriD Music",
-      "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "DmHeChPunIY",
       "title": "Mawar de Jongh - Oh Semoga | Visualizer",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
+      "position": 31
+    },
+    {
+      "videoId": "2CPVQCioK5I",
+      "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
+      "channel": "AstriD Music",
+      "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
       "position": 32
     },
     {
@@ -248,45 +248,45 @@
       "position": 33
     },
     {
-      "videoId": "8qf8P62O7w4",
-      "title": "Setengahku Dirimu",
-      "channel": "Waode - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
-      "position": 34
-    },
-    {
       "videoId": "FmBlbqgouVc",
       "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
       "channel": "TITI DJ",
       "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
+      "position": 34
+    },
+    {
+      "videoId": "8qf8P62O7w4",
+      "title": "Setengahku Dirimu",
+      "channel": "Waode - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
       "position": 35
+    },
+    {
+      "videoId": "CFx2zEtKNlQ",
+      "title": "Giant Jay Ft. Dewanda Pratama  - Kalau Aku Lebih Darinya (Official Music Video)",
+      "channel": "POP ART | On Behalf Of HP MUSIC",
+      "thumbnail": "https://i.ytimg.com/vi/CFx2zEtKNlQ/mqdefault.jpg",
+      "position": 36
     },
     {
       "videoId": "aCPfrVDJH-A",
       "title": "Forevermore",
       "channel": "Kaleb J - Topic",
       "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
-      "position": 36
+      "position": 37
     },
     {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
-      "position": 37
+      "position": 38
     },
     {
       "videoId": "yhxIMnHf-PE",
       "title": "Dadali - Aku Bisa Gila (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/yhxIMnHf-PE/mqdefault.jpg",
-      "position": 38
-    },
-    {
-      "videoId": "w6lNa5ZUHWQ",
-      "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
-      "channel": "Glenn Samuel",
-      "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
       "position": 39
     },
     {
@@ -297,38 +297,38 @@
       "position": 40
     },
     {
+      "videoId": "w6lNa5ZUHWQ",
+      "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
+      "channel": "Glenn Samuel",
+      "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
+      "position": 41
+    },
+    {
       "videoId": "f18zZojAC08",
       "title": "Apa Saja, Bisa! | Dance Version Video",
       "channel": "Glitter Official",
       "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
-      "position": 41
-    },
-    {
-      "videoId": "ISZvs9pINsE",
-      "title": "Salahkah Ku Bahagia",
-      "channel": "Insomniacks - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 42
-    },
-    {
-      "videoId": "KdP4uUcRtIc",
-      "title": "Luka Terakhir",
-      "channel": "Sheera - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
-      "position": 43
     },
     {
       "videoId": "F83zAAOKHJ0",
       "title": "Jaga Hati Hati - Hati",
       "channel": "Anneth - Topic",
       "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
+      "position": 43
+    },
+    {
+      "videoId": "KdP4uUcRtIc",
+      "title": "Luka Terakhir",
+      "channel": "Sheera - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
       "position": 44
     },
     {
-      "videoId": "BcDL8b_mpJs",
-      "title": "Francis Karel - Purple Skies (Official Music Video)",
-      "channel": "Francis Karel",
-      "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
+      "videoId": "ISZvs9pINsE",
+      "title": "Salahkah Ku Bahagia",
+      "channel": "Insomniacks - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 45
     },
     {
@@ -339,24 +339,24 @@
       "position": 46
     },
     {
+      "videoId": "BcDL8b_mpJs",
+      "title": "Francis Karel - Purple Skies (Official Music Video)",
+      "channel": "Francis Karel",
+      "thumbnail": "https://i.ytimg.com/vi/BcDL8b_mpJs/mqdefault.jpg",
+      "position": 47
+    },
+    {
       "videoId": "mlM8WkPlz6A",
       "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
       "channel": "Bagas Ran",
       "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
-      "position": 47
+      "position": 48
     },
     {
       "videoId": "YRySJukonBc",
       "title": "Strategi Memilikimu",
       "channel": "Alisha Dira - Topic",
       "thumbnail": "https://i.ytimg.com/vi/YRySJukonBc/mqdefault.jpg",
-      "position": 48
-    },
-    {
-      "videoId": "GCWPvB1Suh0",
-      "title": "Mahen - Aku Bisa (Official Lyric Video)",
-      "channel": "Indo Semar Sakti",
-      "thumbnail": "https://i.ytimg.com/vi/GCWPvB1Suh0/mqdefault.jpg",
       "position": 49
     }
   ]

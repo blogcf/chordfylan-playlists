@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMzr_9cGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDkKnu1_35LX2eDHZ5BLN_Vk7GSbQ&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMjbgtgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLA1o5VpHe3zX_bLRPDXbZY9BuP8ww&v=1795107634",
   "sourceCount": 75,
-  "updatedAt": "2026-11-20T07:28:37.197455+00:00",
+  "updatedAt": "2026-11-20T20:30:41.772666+00:00",
   "songs": [
     {
       "videoId": "Xg_xFy0aIlQ",
@@ -206,10 +206,10 @@
       "position": 27
     },
     {
-      "videoId": "m6F9I5Yf6Z0",
-      "title": "Anggi Marito - Jarimu (Offical Video)",
-      "channel": "Anggi Marito",
-      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
+      "videoId": "EnNAUCtR4vI",
+      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
       "position": 28
     },
     {
@@ -220,10 +220,10 @@
       "position": 29
     },
     {
-      "videoId": "EnNAUCtR4vI",
-      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
+      "videoId": "m6F9I5Yf6Z0",
+      "title": "Anggi Marito - Jarimu (Offical Video)",
+      "channel": "Anggi Marito",
+      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
       "position": 30
     },
     {
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "-lJ9osCpZCM",
-      "title": "BCL - Putusin Aja (Official Music Video)",
-      "channel": "IT'S ME BCL",
-      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "PWX5obVZohk",
       "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
       "channel": "Ade Nurulianto",
       "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "-lJ9osCpZCM",
+      "title": "BCL - Putusin Aja (Official Music Video)",
+      "channel": "IT'S ME BCL",
+      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
       "position": 33
     },
     {
@@ -311,17 +311,17 @@
       "position": 42
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 43
-    },
-    {
       "videoId": "R3N_vMzQpwA",
       "title": "Andien - Naksir (Official Music Video)",
       "channel": "Andien",
       "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
+      "position": 43
+    },
+    {
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
       "position": 44
     },
     {
