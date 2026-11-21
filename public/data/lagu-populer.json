@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CMjbgtgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLA1o5VpHe3zX_bLRPDXbZY9BuP8ww&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKCMhdgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDpXcWVI-eaNTK1u9gJuRF7bBwN-A&v=1795107634",
   "sourceCount": 75,
-  "updatedAt": "2026-11-20T20:30:41.772666+00:00",
+  "updatedAt": "2026-11-21T07:23:33.696464+00:00",
   "songs": [
     {
       "videoId": "Xg_xFy0aIlQ",
@@ -31,10 +31,10 @@
       "position": 2
     },
     {
-      "videoId": "I1wd_j4w-aI",
-      "title": "Tiada Duanya",
-      "channel": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/I1wd_j4w-aI/mqdefault.jpg",
+      "videoId": "y2w-ai_jdMs",
+      "title": "Bebi Romeo & Syabila - Tiada Duanya (Official Music Video)",
+      "channel": "POPS Music Indonesia",
+      "thumbnail": "https://i.ytimg.com/vi/y2w-ai_jdMs/mqdefault.jpg",
       "position": 3
     },
     {
@@ -206,17 +206,17 @@
       "position": 27
     },
     {
-      "videoId": "EnNAUCtR4vI",
-      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
-      "channel": "Rizky Febian",
-      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
-      "position": 28
-    },
-    {
       "videoId": "VH8FsN-OI0k",
       "title": "Rony Parulian - Wals Akhir Zaman (Official Music Video)",
       "channel": "Rony Parulian",
       "thumbnail": "https://i.ytimg.com/vi/VH8FsN-OI0k/mqdefault.jpg",
+      "position": 28
+    },
+    {
+      "videoId": "EnNAUCtR4vI",
+      "title": "Rizky Febian - Adu Pandang (Official Music Video)",
+      "channel": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/EnNAUCtR4vI/mqdefault.jpg",
       "position": 29
     },
     {
@@ -241,24 +241,24 @@
       "position": 32
     },
     {
-      "videoId": "-lJ9osCpZCM",
-      "title": "BCL - Putusin Aja (Official Music Video)",
-      "channel": "IT'S ME BCL",
-      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 33
-    },
-    {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
-      "position": 34
+      "position": 33
     },
     {
       "videoId": "VX6BnfI_E2c",
       "title": "Paul Aro - Biar Kita Jadi Kenangan (Official Video)",
       "channel": "Paul Aro",
       "thumbnail": "https://i.ytimg.com/vi/VX6BnfI_E2c/mqdefault.jpg",
+      "position": 34
+    },
+    {
+      "videoId": "-lJ9osCpZCM",
+      "title": "BCL - Putusin Aja (Official Music Video)",
+      "channel": "IT'S ME BCL",
+      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
       "position": 35
     },
     {

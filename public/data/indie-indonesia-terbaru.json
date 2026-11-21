@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CMjbgtgGir7X7AMICP73_tcGEAE=&rs=AOn4CLDRpL7MWhqmlTkI3bnpif2HF13hXw&v=1795144702",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKCMhdgGir7X7AMICP73_tcGEAE=&rs=AOn4CLBLtxwdkftV7gVp73arChkrKu20pw&v=1795144702",
   "sourceCount": 70,
-  "updatedAt": "2026-11-20T20:30:44.312372+00:00",
+  "updatedAt": "2026-11-21T07:23:34.679850+00:00",
   "songs": [
     {
       "videoId": "ZR_5iYHcpX0",
@@ -101,17 +101,17 @@
       "position": 12
     },
     {
-      "videoId": "sOKOpo1t2Kk",
-      "title": "Galdive - In Love (Official Lyric Video)",
-      "channel": "galdive",
-      "thumbnail": "https://i.ytimg.com/vi/sOKOpo1t2Kk/mqdefault.jpg",
-      "position": 13
-    },
-    {
       "videoId": "SzLVyHXSlOA",
       "title": "Dendi Nata - Semoga (Official Lyrics)",
       "channel": "Dendi Nata",
       "thumbnail": "https://i.ytimg.com/vi/SzLVyHXSlOA/mqdefault.jpg",
+      "position": 13
+    },
+    {
+      "videoId": "sOKOpo1t2Kk",
+      "title": "Galdive - In Love (Official Lyric Video)",
+      "channel": "galdive",
+      "thumbnail": "https://i.ytimg.com/vi/sOKOpo1t2Kk/mqdefault.jpg",
       "position": 14
     },
     {
@@ -234,24 +234,24 @@
       "position": 31
     },
     {
-      "videoId": "o-ePFlAgdyc",
-      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
-      "channel": "Aquarius Musikindo",
-      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "SWkQwgx2Hzs",
       "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
       "channel": "Eleanor Whisper",
       "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
-      "position": 33
+      "position": 32
     },
     {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
+      "position": 33
+    },
+    {
+      "videoId": "o-ePFlAgdyc",
+      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
+      "channel": "Aquarius Musikindo",
+      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
       "position": 34
     },
     {
@@ -276,17 +276,17 @@
       "position": 37
     },
     {
-      "videoId": "n_Fk82dFs_o",
-      "title": "Navicula - Rumah",
-      "channel": "Navicula Music",
-      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
-      "position": 38
-    },
-    {
       "videoId": "Ump2qhnq0nA",
       "title": "1948",
       "channel": "The Brandals - Topic",
       "thumbnail": "https://i.ytimg.com/vi/Ump2qhnq0nA/mqdefault.jpg",
+      "position": 38
+    },
+    {
+      "videoId": "n_Fk82dFs_o",
+      "title": "Navicula - Rumah",
+      "channel": "Navicula Music",
+      "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
       "position": 39
     },
     {
