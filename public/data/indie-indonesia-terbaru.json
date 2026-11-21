@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKCMhdgGir7X7AMICP73_tcGEAE=&rs=AOn4CLBLtxwdkftV7gVp73arChkrKu20pw&v=1795144702",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIzgh9gGir7X7AMICP73_tcGEAE=&rs=AOn4CLDc2V_KtO4Jk9DkVsMkglMTrqAyTA&v=1795144702",
   "sourceCount": 70,
-  "updatedAt": "2026-11-21T07:23:34.679850+00:00",
+  "updatedAt": "2026-11-21T19:27:33.350363+00:00",
   "songs": [
     {
       "videoId": "ZR_5iYHcpX0",
@@ -248,17 +248,17 @@
       "position": 33
     },
     {
-      "videoId": "o-ePFlAgdyc",
-      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
-      "channel": "Aquarius Musikindo",
-      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
-      "position": 34
-    },
-    {
       "videoId": "VphxiqsHaQg",
       "title": "Dimas M - aku mau hidup yang ada kamunya",
       "channel": "Dimas M",
       "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
+      "position": 34
+    },
+    {
+      "videoId": "o-ePFlAgdyc",
+      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
+      "channel": "Aquarius Musikindo",
+      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
       "position": 35
     },
     {
@@ -276,17 +276,17 @@
       "position": 37
     },
     {
-      "videoId": "Ump2qhnq0nA",
-      "title": "1948",
-      "channel": "The Brandals - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Ump2qhnq0nA/mqdefault.jpg",
-      "position": 38
-    },
-    {
       "videoId": "n_Fk82dFs_o",
       "title": "Navicula - Rumah",
       "channel": "Navicula Music",
       "thumbnail": "https://i.ytimg.com/vi/n_Fk82dFs_o/mqdefault.jpg",
+      "position": 38
+    },
+    {
+      "videoId": "Ump2qhnq0nA",
+      "title": "1948",
+      "channel": "The Brandals - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/Ump2qhnq0nA/mqdefault.jpg",
       "position": 39
     },
     {
@@ -297,17 +297,17 @@
       "position": 40
     },
     {
-      "videoId": "CJdE3TosBC8",
-      "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
-      "channel": "Ravi Andika",
-      "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
-      "position": 41
-    },
-    {
       "videoId": "-JUrkl5mowM",
       "title": "The Midnight Darlings - It’s You (Official Lyric Video)",
       "channel": "The Midnight Darlings",
       "thumbnail": "https://i.ytimg.com/vi/-JUrkl5mowM/mqdefault.jpg",
+      "position": 41
+    },
+    {
+      "videoId": "CJdE3TosBC8",
+      "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
+      "channel": "Ravi Andika",
+      "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
       "position": 42
     },
     {
