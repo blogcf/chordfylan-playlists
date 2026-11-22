@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CIzgh9gGir7X7AMICP73_tcGEAE=&rs=AOn4CLDc2V_KtO4Jk9DkVsMkglMTrqAyTA&v=1795144702",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CPClitgGir7X7AMICP73_tcGEAE=&rs=AOn4CLDEpGNZjhjBS7c15wHr4mbQ110Q8w&v=1795144702",
   "sourceCount": 70,
-  "updatedAt": "2026-11-21T19:27:33.350363+00:00",
+  "updatedAt": "2026-11-22T07:03:54.770943+00:00",
   "songs": [
     {
       "videoId": "ZR_5iYHcpX0",
@@ -115,17 +115,17 @@
       "position": 14
     },
     {
-      "videoId": "UGoXO70bvIo",
-      "title": "Arash Buana - Sea (Official Lyric Video)",
-      "channel": "Arash Buana",
-      "thumbnail": "https://i.ytimg.com/vi/UGoXO70bvIo/mqdefault.jpg",
-      "position": 15
-    },
-    {
       "videoId": "RRAYAN75gRw",
       "title": "Barsena Bestandhi - Coba Lagi | Official Music Video",
       "channel": "Barsena Bestandhi",
       "thumbnail": "https://i.ytimg.com/vi/RRAYAN75gRw/mqdefault.jpg",
+      "position": 15
+    },
+    {
+      "videoId": "UGoXO70bvIo",
+      "title": "Arash Buana - Sea (Official Lyric Video)",
+      "channel": "Arash Buana",
+      "thumbnail": "https://i.ytimg.com/vi/UGoXO70bvIo/mqdefault.jpg",
       "position": 16
     },
     {
@@ -234,38 +234,38 @@
       "position": 31
     },
     {
-      "videoId": "SWkQwgx2Hzs",
-      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
-      "channel": "Eleanor Whisper",
-      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
-      "position": 33
+      "position": 32
     },
     {
       "videoId": "VphxiqsHaQg",
       "title": "Dimas M - aku mau hidup yang ada kamunya",
       "channel": "Dimas M",
       "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 34
+      "position": 33
     },
     {
-      "videoId": "o-ePFlAgdyc",
-      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
-      "channel": "Aquarius Musikindo",
-      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
-      "position": 35
+      "videoId": "SWkQwgx2Hzs",
+      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
+      "channel": "Eleanor Whisper",
+      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
+      "position": 34
     },
     {
       "videoId": "Moi0kcIwUB8",
       "title": "White Chorus - Aku dan Kamu [Official Lyric Video]",
       "channel": "White Chorus",
       "thumbnail": "https://i.ytimg.com/vi/Moi0kcIwUB8/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "o-ePFlAgdyc",
+      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
+      "channel": "Aquarius Musikindo",
+      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
       "position": 36
     },
     {
