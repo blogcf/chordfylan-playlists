@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CPClitgGir7X7AMICP73_tcGEAE=&rs=AOn4CLDEpGNZjhjBS7c15wHr4mbQ110Q8w&v=1795144702",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLyMjdgGir7X7AMICP73_tcGEAE=&rs=AOn4CLBCDp6YpL1zS9qRxaKuh0FVyyFH3w&v=1795144702",
   "sourceCount": 70,
-  "updatedAt": "2026-11-22T07:03:54.770943+00:00",
+  "updatedAt": "2026-11-22T19:49:28.633748+00:00",
   "songs": [
     {
       "videoId": "ZR_5iYHcpX0",
@@ -122,24 +122,24 @@
       "position": 15
     },
     {
-      "videoId": "UGoXO70bvIo",
-      "title": "Arash Buana - Sea (Official Lyric Video)",
-      "channel": "Arash Buana",
-      "thumbnail": "https://i.ytimg.com/vi/UGoXO70bvIo/mqdefault.jpg",
-      "position": 16
-    },
-    {
       "videoId": "ZK8dboHDw5Y",
       "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
       "channel": "Mitty Zasia",
       "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
-      "position": 17
+      "position": 16
     },
     {
       "videoId": "Ks4SGBdrlI0",
       "title": "Lomba Sihir - Vas Bunga (Official Lyric Video)",
       "channel": "Lomba Sihir",
       "thumbnail": "https://i.ytimg.com/vi/Ks4SGBdrlI0/mqdefault.jpg",
+      "position": 17
+    },
+    {
+      "videoId": "UGoXO70bvIo",
+      "title": "Arash Buana - Sea (Official Lyric Video)",
+      "channel": "Arash Buana",
+      "thumbnail": "https://i.ytimg.com/vi/UGoXO70bvIo/mqdefault.jpg",
       "position": 18
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "o-ePFlAgdyc",
-      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
-      "channel": "Aquarius Musikindo",
-      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "NzTBePa7qv0",
       "title": "Hawa",
       "channel": "Havva - Topic",
       "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "o-ePFlAgdyc",
+      "title": "Arah Pulang - Kemarau dan Sang Penghujan | Official Lyric Video",
+      "channel": "Aquarius Musikindo",
+      "thumbnail": "https://i.ytimg.com/vi/o-ePFlAgdyc/mqdefault.jpg",
       "position": 37
     },
     {

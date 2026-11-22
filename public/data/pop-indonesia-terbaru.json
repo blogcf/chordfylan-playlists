@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CPClitgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDrSTPw-bXhIZe5arDDAmyc1Q-wmg&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CLyMjdgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLAiAPBjCCBj5FQkoJKKROcIWshLdg&v=1795107634",
   "sourceCount": 85,
-  "updatedAt": "2026-11-22T07:03:54.287697+00:00",
+  "updatedAt": "2026-11-22T19:49:28.239855+00:00",
   "songs": [
     {
       "videoId": "y2w-ai_jdMs",
@@ -122,17 +122,17 @@
       "position": 15
     },
     {
-      "videoId": "fcrx-rXnezY",
-      "title": "Rimar - Tubin Tulat (Official Music Video)",
-      "channel": "Rimar Official",
-      "thumbnail": "https://i.ytimg.com/vi/fcrx-rXnezY/mqdefault.jpg",
-      "position": 16
-    },
-    {
       "videoId": "3ZhCLSFwTT8",
       "title": "“Yang Terindah” - Michela Thea Official Music Video ( cipt. Andi Budiawan)",
       "channel": "Michela Thea",
       "thumbnail": "https://i.ytimg.com/vi/3ZhCLSFwTT8/mqdefault.jpg",
+      "position": 16
+    },
+    {
+      "videoId": "fcrx-rXnezY",
+      "title": "Rimar - Tubin Tulat (Official Music Video)",
+      "channel": "Rimar Official",
+      "thumbnail": "https://i.ytimg.com/vi/fcrx-rXnezY/mqdefault.jpg",
       "position": 17
     },
     {
@@ -150,17 +150,17 @@
       "position": 19
     },
     {
-      "videoId": "47ratCNh1Ok",
-      "title": "Yuna - Senjata (Official Video)",
-      "channel": "Yuna",
-      "thumbnail": "https://i.ytimg.com/vi/47ratCNh1Ok/mqdefault.jpg",
-      "position": 20
-    },
-    {
       "videoId": "uzV-aToTmMc",
       "title": "Lyodra - Pintu Hati (Official Video)",
       "channel": "Lyodra Official",
       "thumbnail": "https://i.ytimg.com/vi/uzV-aToTmMc/mqdefault.jpg",
+      "position": 20
+    },
+    {
+      "videoId": "47ratCNh1Ok",
+      "title": "Yuna - Senjata (Official Video)",
+      "channel": "Yuna",
+      "thumbnail": "https://i.ytimg.com/vi/47ratCNh1Ok/mqdefault.jpg",
       "position": 21
     },
     {
@@ -213,31 +213,31 @@
       "position": 28
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
+      "videoId": "Z4YYizJ-ojI",
+      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
+      "channel": "Fabio Asher",
+      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
       "position": 29
-    },
-    {
-      "videoId": "2CPVQCioK5I",
-      "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
-      "channel": "AstriD Music",
-      "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
-      "position": 30
     },
     {
       "videoId": "DmHeChPunIY",
       "title": "Mawar de Jongh - Oh Semoga | Visualizer",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
+      "position": 30
+    },
+    {
+      "videoId": "2CPVQCioK5I",
+      "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
+      "channel": "AstriD Music",
+      "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
       "position": 31
     },
     {
-      "videoId": "Z4YYizJ-ojI",
-      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
-      "channel": "Fabio Asher",
-      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 32
     },
     {
@@ -255,24 +255,24 @@
       "position": 34
     },
     {
-      "videoId": "8qf8P62O7w4",
-      "title": "Setengahku Dirimu",
-      "channel": "Waode - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "FmBlbqgouVc",
       "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
       "channel": "TITI DJ",
       "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
-      "position": 36
+      "position": 35
     },
     {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "8qf8P62O7w4",
+      "title": "Setengahku Dirimu",
+      "channel": "Waode - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
       "position": 37
     },
     {
@@ -304,24 +304,24 @@
       "position": 41
     },
     {
+      "videoId": "ISZvs9pINsE",
+      "title": "Salahkah Ku Bahagia",
+      "channel": "Insomniacks - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
+      "position": 42
+    },
+    {
       "videoId": "KdP4uUcRtIc",
       "title": "Luka Terakhir",
       "channel": "Sheera - Topic",
       "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
-      "position": 42
+      "position": 43
     },
     {
       "videoId": "w6lNa5ZUHWQ",
       "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
       "channel": "Glenn Samuel",
       "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
-      "position": 43
-    },
-    {
-      "videoId": "ISZvs9pINsE",
-      "title": "Salahkah Ku Bahagia",
-      "channel": "Insomniacks - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 44
     },
     {
