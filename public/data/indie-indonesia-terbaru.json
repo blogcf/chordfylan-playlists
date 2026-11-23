@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLyMjdgGir7X7AMICP73_tcGEAE=&rs=AOn4CLBCDp6YpL1zS9qRxaKuh0FVyyFH3w&v=1795144702",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CKjgj9gGir7X7AMICP73_tcGEAE=&rs=AOn4CLBXmI1mcd3hJ3nHG5xPCila68at1A&v=1795144702",
   "sourceCount": 70,
-  "updatedAt": "2026-11-22T19:49:28.633748+00:00",
+  "updatedAt": "2026-11-23T07:51:47.747540+00:00",
   "songs": [
     {
       "videoId": "ZR_5iYHcpX0",
@@ -122,17 +122,17 @@
       "position": 15
     },
     {
-      "videoId": "ZK8dboHDw5Y",
-      "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
-      "channel": "Mitty Zasia",
-      "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
-      "position": 16
-    },
-    {
       "videoId": "Ks4SGBdrlI0",
       "title": "Lomba Sihir - Vas Bunga (Official Lyric Video)",
       "channel": "Lomba Sihir",
       "thumbnail": "https://i.ytimg.com/vi/Ks4SGBdrlI0/mqdefault.jpg",
+      "position": 16
+    },
+    {
+      "videoId": "ZK8dboHDw5Y",
+      "title": "Mitty Zasia - Anggap Kita Sudah Berhasil (Official Music Video)",
+      "channel": "Mitty Zasia",
+      "thumbnail": "https://i.ytimg.com/vi/ZK8dboHDw5Y/mqdefault.jpg",
       "position": 17
     },
     {
@@ -234,24 +234,24 @@
       "position": 31
     },
     {
+      "videoId": "SWkQwgx2Hzs",
+      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
+      "channel": "Eleanor Whisper",
+      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
+      "position": 32
+    },
+    {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
-      "position": 32
+      "position": 33
     },
     {
       "videoId": "VphxiqsHaQg",
       "title": "Dimas M - aku mau hidup yang ada kamunya",
       "channel": "Dimas M",
       "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 33
-    },
-    {
-      "videoId": "SWkQwgx2Hzs",
-      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
-      "channel": "Eleanor Whisper",
-      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
       "position": 34
     },
     {
@@ -304,17 +304,17 @@
       "position": 41
     },
     {
-      "videoId": "CJdE3TosBC8",
-      "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
-      "channel": "Ravi Andika",
-      "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
-      "position": 42
-    },
-    {
       "videoId": "br3qj7tku1k",
       "title": "Paul Partohap - SUPRISE SUPRISE! (Lyric Video)",
       "channel": "paul partohap",
       "thumbnail": "https://i.ytimg.com/vi/br3qj7tku1k/mqdefault.jpg",
+      "position": 42
+    },
+    {
+      "videoId": "CJdE3TosBC8",
+      "title": "Ravi Andika - Bulan Biru (Official Lyric Video)",
+      "channel": "Ravi Andika",
+      "thumbnail": "https://i.ytimg.com/vi/CJdE3TosBC8/mqdefault.jpg",
       "position": 43
     },
     {
