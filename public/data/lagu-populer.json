@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKDAldgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLAf1_E2MfTJT4SfiSv5lTPSmXcYjw&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CJSimNgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLA2elwZS3WGB69Ncswq3Ax5EdQGyw&v=1795107634",
   "sourceCount": 75,
-  "updatedAt": "2026-11-24T10:04:19.838701+00:00",
+  "updatedAt": "2026-11-24T22:35:15.303242+00:00",
   "songs": [
     {
       "videoId": "Xg_xFy0aIlQ",
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "GgpMwVJYkcM",
-      "title": "Salma Salsabil - maha benar (Official Music Video)",
-      "channel": "Salma Salsabil",
-      "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "VX6BnfI_E2c",
       "title": "Paul Aro - Biar Kita Jadi Kenangan (Official Video)",
       "channel": "Paul Aro",
       "thumbnail": "https://i.ytimg.com/vi/VX6BnfI_E2c/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "GgpMwVJYkcM",
+      "title": "Salma Salsabil - maha benar (Official Music Video)",
+      "channel": "Salma Salsabil",
+      "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
       "position": 33
     },
     {
@@ -318,17 +318,17 @@
       "position": 43
     },
     {
-      "videoId": "vt7XYFl-xds",
-      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
-      "channel": "EltasyaVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
-      "position": 44
-    },
-    {
       "videoId": "azZTfgTifDY",
       "title": "Ariel NOAH - Ancika (OST. Dilan ITB 1997) | Official Lyric Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/azZTfgTifDY/mqdefault.jpg",
+      "position": 44
+    },
+    {
+      "videoId": "vt7XYFl-xds",
+      "title": "Eltasya - Merayu Waktu (Official Lyric Video)",
+      "channel": "EltasyaVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/vt7XYFl-xds/mqdefault.jpg",
       "position": 45
     },
     {

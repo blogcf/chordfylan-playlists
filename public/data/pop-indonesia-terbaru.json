@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKDAldgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDaE1oqTR8dQoyZgQbVlnQyw4mfRQ&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CJSimNgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLChzmabYdH18gW1FiSJuaUN-KbHTg&v=1795107634",
   "sourceCount": 85,
-  "updatedAt": "2026-11-24T10:04:20.286034+00:00",
+  "updatedAt": "2026-11-24T22:35:15.772946+00:00",
   "songs": [
     {
       "videoId": "y2w-ai_jdMs",
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "DCIlEn1dEpY",
-      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
-      "channel": "ascadamusik",
-      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "FRewI3Mq6MU",
       "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
       "channel": "Emotion Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "DCIlEn1dEpY",
+      "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
+      "channel": "ascadamusik",
+      "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
       "position": 30
     },
     {
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "DmHeChPunIY",
-      "title": "Mawar de Jongh - Oh Semoga | Visualizer",
-      "channel": "Trinity Optima Production",
-      "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "Z4YYizJ-ojI",
       "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
       "channel": "Fabio Asher",
       "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "DmHeChPunIY",
+      "title": "Mawar de Jongh - Oh Semoga | Visualizer",
+      "channel": "Trinity Optima Production",
+      "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
       "position": 33
     },
     {
@@ -262,17 +262,17 @@
       "position": 35
     },
     {
-      "videoId": "FmBlbqgouVc",
-      "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
-      "channel": "TITI DJ",
-      "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
-      "position": 36
-    },
-    {
       "videoId": "8qf8P62O7w4",
       "title": "Setengahku Dirimu",
       "channel": "Waode - Topic",
       "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
+      "position": 36
+    },
+    {
+      "videoId": "FmBlbqgouVc",
+      "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
+      "channel": "TITI DJ",
+      "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
       "position": 37
     },
     {
