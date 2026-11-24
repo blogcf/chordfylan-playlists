@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CKjgj9gGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDEl17HTct0gV1O9RTwXAaRU5BUHA&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CICnk9gGir7X7AMICLLW_NcGEAE=&rs=AOn4CLB7yOiO_60lUkQhR5tKPYTFBIWJFQ&v=1795107634",
   "sourceCount": 75,
-  "updatedAt": "2026-11-23T07:51:47.005785+00:00",
+  "updatedAt": "2026-11-24T00:01:48.358657+00:00",
   "songs": [
     {
       "videoId": "Xg_xFy0aIlQ",
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "m6F9I5Yf6Z0",
-      "title": "Anggi Marito - Jarimu (Offical Video)",
-      "channel": "Anggi Marito",
-      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "GgpMwVJYkcM",
       "title": "Salma Salsabil - maha benar (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/GgpMwVJYkcM/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "m6F9I5Yf6Z0",
+      "title": "Anggi Marito - Jarimu (Offical Video)",
+      "channel": "Anggi Marito",
+      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
       "position": 33
     },
     {
@@ -283,24 +283,24 @@
       "position": 38
     },
     {
-      "videoId": "-lJ9osCpZCM",
-      "title": "BCL - Putusin Aja (Official Music Video)",
-      "channel": "IT'S ME BCL",
-      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 39
-    },
-    {
       "videoId": "i_lUqe8ds1I",
       "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Music Video)",
       "channel": "Aku eńau",
       "thumbnail": "https://i.ytimg.com/vi/i_lUqe8ds1I/mqdefault.jpg",
-      "position": 40
+      "position": 39
     },
     {
       "videoId": "KpkR77OdOeo",
       "title": "Ariel NOAH & Raisa - senang dengar suaramu lagi (OST. Dilan ITB 1997) | Official Music Video",
       "channel": "Musica Studios",
       "thumbnail": "https://i.ytimg.com/vi/KpkR77OdOeo/mqdefault.jpg",
+      "position": 40
+    },
+    {
+      "videoId": "-lJ9osCpZCM",
+      "title": "BCL - Putusin Aja (Official Music Video)",
+      "channel": "IT'S ME BCL",
+      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
       "position": 41
     },
     {
