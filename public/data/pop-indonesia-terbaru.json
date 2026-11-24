@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CICnk9gGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDJHAvS75jnwjjk7nWdp3teyjQjGA&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CKDAldgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDaE1oqTR8dQoyZgQbVlnQyw4mfRQ&v=1795107634",
   "sourceCount": 85,
-  "updatedAt": "2026-11-24T00:01:48.730793+00:00",
+  "updatedAt": "2026-11-24T10:04:20.286034+00:00",
   "songs": [
     {
       "videoId": "y2w-ai_jdMs",
@@ -24,10 +24,10 @@
       "position": 1
     },
     {
-      "videoId": "AN8KyBhi2RE",
-      "title": "Karma",
-      "channel": "SEEN - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/AN8KyBhi2RE/mqdefault.jpg",
+      "videoId": "msXYu_LVeRQ",
+      "title": "SEEN - Karma | Official Music Video",
+      "channel": "SEEN",
+      "thumbnail": "https://i.ytimg.com/vi/msXYu_LVeRQ/mqdefault.jpg",
       "position": 2
     },
     {
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "FRewI3Mq6MU",
-      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
-      "channel": "Emotion Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "DCIlEn1dEpY",
       "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "FRewI3Mq6MU",
+      "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
+      "channel": "Emotion Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
       "position": 30
     },
     {
@@ -339,17 +339,17 @@
       "position": 46
     },
     {
-      "videoId": "0vkf7PcQepQ",
-      "title": "Baila - Dari Surga (Official Music Video)",
-      "channel": "Baila",
-      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
-      "position": 47
-    },
-    {
       "videoId": "uLP-M0ZX5cg",
       "title": "Dominique Adhadiaz - basi. (Official Lyric Video)",
       "channel": "Dominique Adhadiaz",
       "thumbnail": "https://i.ytimg.com/vi/uLP-M0ZX5cg/mqdefault.jpg",
+      "position": 47
+    },
+    {
+      "videoId": "0vkf7PcQepQ",
+      "title": "Baila - Dari Surga (Official Music Video)",
+      "channel": "Baila",
+      "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
       "position": 48
     },
     {
