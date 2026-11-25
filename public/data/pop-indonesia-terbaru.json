@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CJSimNgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLChzmabYdH18gW1FiSJuaUN-KbHTg&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CIzAmtgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLA8h19p1l61dIzn-0p0PpXRq8IjUA&v=1795107634",
   "sourceCount": 85,
-  "updatedAt": "2026-11-24T22:35:15.772946+00:00",
+  "updatedAt": "2026-11-25T08:49:46.566601+00:00",
   "songs": [
     {
       "videoId": "y2w-ai_jdMs",
@@ -234,17 +234,17 @@
       "position": 31
     },
     {
-      "videoId": "Z4YYizJ-ojI",
-      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
-      "channel": "Fabio Asher",
-      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
-      "position": 32
-    },
-    {
       "videoId": "DmHeChPunIY",
       "title": "Mawar de Jongh - Oh Semoga | Visualizer",
       "channel": "Trinity Optima Production",
       "thumbnail": "https://i.ytimg.com/vi/DmHeChPunIY/mqdefault.jpg",
+      "position": 32
+    },
+    {
+      "videoId": "Z4YYizJ-ojI",
+      "title": "FABIO ASHER - APA? APA? APA? (OFFICIAL MUSIC VIDEO)",
+      "channel": "Fabio Asher",
+      "thumbnail": "https://i.ytimg.com/vi/Z4YYizJ-ojI/mqdefault.jpg",
       "position": 33
     },
     {
@@ -276,17 +276,17 @@
       "position": 37
     },
     {
-      "videoId": "aCPfrVDJH-A",
-      "title": "Forevermore",
-      "channel": "Kaleb J - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
-      "position": 38
-    },
-    {
       "videoId": "yhxIMnHf-PE",
       "title": "Dadali - Aku Bisa Gila (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/yhxIMnHf-PE/mqdefault.jpg",
+      "position": 38
+    },
+    {
+      "videoId": "aCPfrVDJH-A",
+      "title": "Forevermore",
+      "channel": "Kaleb J - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
       "position": 39
     },
     {
