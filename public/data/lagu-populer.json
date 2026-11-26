@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLTen9gGir7X7AMICPy3n9gGEAE=&rs=AOn4CLBiinGfj9OoW3XJDhOjfCjunN1OvA&v=1795677180",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLDOotgGir7X7AMICPy3n9gGEAE=&rs=AOn4CLByqSzZZdJU2Wix54lIHXfqH-u2LQ&v=1795677180",
   "sourceCount": 75,
-  "updatedAt": "2026-11-26T08:35:18.780297+00:00",
+  "updatedAt": "2026-11-26T21:42:09.951554+00:00",
   "songs": [
     {
       "videoId": "7bEXD2NUO0k",
@@ -255,17 +255,17 @@
       "position": 34
     },
     {
-      "videoId": "m6F9I5Yf6Z0",
-      "title": "Anggi Marito - Jarimu (Offical Video)",
-      "channel": "Anggi Marito",
-      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
-      "position": 35
-    },
-    {
       "videoId": "W1lvPw3ejuA",
       "title": "Salma Salsabil - Hatchu!! (Official Music Video)",
       "channel": "Salma Salsabil",
       "thumbnail": "https://i.ytimg.com/vi/W1lvPw3ejuA/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "m6F9I5Yf6Z0",
+      "title": "Anggi Marito - Jarimu (Offical Video)",
+      "channel": "Anggi Marito",
+      "thumbnail": "https://i.ytimg.com/vi/m6F9I5Yf6Z0/mqdefault.jpg",
       "position": 36
     },
     {
@@ -290,17 +290,17 @@
       "position": 39
     },
     {
-      "videoId": "-lJ9osCpZCM",
-      "title": "BCL - Putusin Aja (Official Music Video)",
-      "channel": "IT'S ME BCL",
-      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 40
-    },
-    {
       "videoId": "nbUE35zu2PQ",
       "title": "Lyodra, Bilal Indrajaya - Bersamamu (Official Video)",
       "channel": "Lyodra Official",
       "thumbnail": "https://i.ytimg.com/vi/nbUE35zu2PQ/mqdefault.jpg",
+      "position": 40
+    },
+    {
+      "videoId": "-lJ9osCpZCM",
+      "title": "BCL - Putusin Aja (Official Music Video)",
+      "channel": "IT'S ME BCL",
+      "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
       "position": 41
     },
     {
@@ -318,10 +318,10 @@
       "position": 43
     },
     {
-      "videoId": "R3N_vMzQpwA",
-      "title": "Andien - Naksir (Official Music Video)",
-      "channel": "Andien",
-      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
+      "videoId": "Nl6puTsCxlM",
+      "title": "Raissa Anggiani - Selasa Lalu (Official Lyric Video)",
+      "channel": "RaissaAnggianiVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/Nl6puTsCxlM/mqdefault.jpg",
       "position": 44
     },
     {
@@ -332,10 +332,10 @@
       "position": 45
     },
     {
-      "videoId": "Nl6puTsCxlM",
-      "title": "Raissa Anggiani - Selasa Lalu (Official Lyric Video)",
-      "channel": "RaissaAnggianiVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/Nl6puTsCxlM/mqdefault.jpg",
+      "videoId": "R3N_vMzQpwA",
+      "title": "Andien - Naksir (Official Music Video)",
+      "channel": "Andien",
+      "thumbnail": "https://i.ytimg.com/vi/R3N_vMzQpwA/mqdefault.jpg",
       "position": 46
     },
     {
