@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/pop-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Pop",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CNytndgGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDdXqGX2HOvwFJnULNHeA0gc7z9OA&v=1795107634",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kxD6vQQG7kmVW9tPuJ-ju24VmLDLRd3os/maxresdefault.jpg?sqp=CLTen9gGir7X7AMICLLW_NcGEAE=&rs=AOn4CLDpr8YgDXwRgyHuKfsmoCqbvya7fQ&v=1795107634",
   "sourceCount": 85,
-  "updatedAt": "2026-11-25T21:49:29.451637+00:00",
+  "updatedAt": "2026-11-26T08:35:19.208398+00:00",
   "songs": [
     {
       "videoId": "y2w-ai_jdMs",
@@ -220,24 +220,24 @@
       "position": 29
     },
     {
+      "videoId": "2CPVQCioK5I",
+      "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
+      "channel": "AstriD Music",
+      "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
+      "position": 30
+    },
+    {
       "videoId": "DCIlEn1dEpY",
       "title": "ILIR7 - Apakabar Mantan Terindah (Official Music Video)",
       "channel": "ascadamusik",
       "thumbnail": "https://i.ytimg.com/vi/DCIlEn1dEpY/mqdefault.jpg",
-      "position": 30
+      "position": 31
     },
     {
       "videoId": "FRewI3Mq6MU",
       "title": "Adrian Khalif - Kita Yang Mesra (Official Music Video)",
       "channel": "Emotion Entertainment",
       "thumbnail": "https://i.ytimg.com/vi/FRewI3Mq6MU/mqdefault.jpg",
-      "position": 31
-    },
-    {
-      "videoId": "2CPVQCioK5I",
-      "title": "Astrid & Adrian Martadinata - Kuingin Kau Tau (Official Music Video)",
-      "channel": "AstriD Music",
-      "thumbnail": "https://i.ytimg.com/vi/2CPVQCioK5I/mqdefault.jpg",
       "position": 32
     },
     {
@@ -248,24 +248,24 @@
       "position": 33
     },
     {
+      "videoId": "CFx2zEtKNlQ",
+      "title": "Giant Jay Ft. Dewanda Pratama  - Kalau Aku Lebih Darinya (Official Music Video)",
+      "channel": "POP ART | On Behalf Of HP MUSIC",
+      "thumbnail": "https://i.ytimg.com/vi/CFx2zEtKNlQ/mqdefault.jpg",
+      "position": 34
+    },
+    {
       "videoId": "K-3uJ8gHaP4",
       "title": "Element - Asa Yang Sirna (Official Music Video)",
       "channel": "element band",
       "thumbnail": "https://i.ytimg.com/vi/K-3uJ8gHaP4/mqdefault.jpg",
-      "position": 34
-    },
-    {
-      "videoId": "8qf8P62O7w4",
-      "title": "Setengahku Dirimu",
-      "channel": "Waode - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
       "position": 35
     },
     {
-      "videoId": "FmBlbqgouVc",
-      "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
-      "channel": "TITI DJ",
-      "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
+      "videoId": "aCPfrVDJH-A",
+      "title": "Forevermore",
+      "channel": "Kaleb J - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
       "position": 36
     },
     {
@@ -276,38 +276,38 @@
       "position": 37
     },
     {
-      "videoId": "aCPfrVDJH-A",
-      "title": "Forevermore",
-      "channel": "Kaleb J - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/aCPfrVDJH-A/mqdefault.jpg",
+      "videoId": "8qf8P62O7w4",
+      "title": "Setengahku Dirimu",
+      "channel": "Waode - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/8qf8P62O7w4/mqdefault.jpg",
       "position": 38
+    },
+    {
+      "videoId": "FmBlbqgouVc",
+      "title": "Titi DJ, Winky Wiryawan - Gelagat Indah (Official Music Video)",
+      "channel": "TITI DJ",
+      "thumbnail": "https://i.ytimg.com/vi/FmBlbqgouVc/mqdefault.jpg",
+      "position": 39
     },
     {
       "videoId": "VcQ6UI5k3UI",
       "title": "ANGEL PIETERS - RUMAH SENDIRI (OFFICIAL LYRIC VIDEO)",
       "channel": "Angel Pieters",
       "thumbnail": "https://i.ytimg.com/vi/VcQ6UI5k3UI/mqdefault.jpg",
-      "position": 39
+      "position": 40
     },
     {
       "videoId": "f18zZojAC08",
       "title": "Apa Saja, Bisa! | Dance Version Video",
       "channel": "Glitter Official",
       "thumbnail": "https://i.ytimg.com/vi/f18zZojAC08/mqdefault.jpg",
-      "position": 40
+      "position": 41
     },
     {
       "videoId": "KdP4uUcRtIc",
       "title": "Luka Terakhir",
       "channel": "Sheera - Topic",
       "thumbnail": "https://i.ytimg.com/vi/KdP4uUcRtIc/mqdefault.jpg",
-      "position": 41
-    },
-    {
-      "videoId": "ISZvs9pINsE",
-      "title": "Salahkah Ku Bahagia",
-      "channel": "Insomniacks - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
       "position": 42
     },
     {
@@ -318,45 +318,45 @@
       "position": 43
     },
     {
+      "videoId": "ISZvs9pINsE",
+      "title": "Salahkah Ku Bahagia",
+      "channel": "Insomniacks - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ISZvs9pINsE/mqdefault.jpg",
+      "position": 44
+    },
+    {
       "videoId": "w6lNa5ZUHWQ",
       "title": "Glenn Samuel - Nona Centil (Official Lyric Video)",
       "channel": "Glenn Samuel",
       "thumbnail": "https://i.ytimg.com/vi/w6lNa5ZUHWQ/mqdefault.jpg",
-      "position": 44
+      "position": 45
     },
     {
       "videoId": "F83zAAOKHJ0",
       "title": "Jaga Hati Hati - Hati",
       "channel": "Anneth - Topic",
       "thumbnail": "https://i.ytimg.com/vi/F83zAAOKHJ0/mqdefault.jpg",
-      "position": 45
-    },
-    {
-      "videoId": "uLP-M0ZX5cg",
-      "title": "Dominique Adhadiaz - basi. (Official Lyric Video)",
-      "channel": "Dominique Adhadiaz",
-      "thumbnail": "https://i.ytimg.com/vi/uLP-M0ZX5cg/mqdefault.jpg",
       "position": 46
-    },
-    {
-      "videoId": "mlM8WkPlz6A",
-      "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
-      "channel": "Bagas Ran",
-      "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
-      "position": 47
     },
     {
       "videoId": "0vkf7PcQepQ",
       "title": "Baila - Dari Surga (Official Music Video)",
       "channel": "Baila",
       "thumbnail": "https://i.ytimg.com/vi/0vkf7PcQepQ/mqdefault.jpg",
+      "position": 47
+    },
+    {
+      "videoId": "mlM8WkPlz6A",
+      "title": "Bagas Ran - Semesta Mengirimmu (Official Lyric Video)",
+      "channel": "Bagas Ran",
+      "thumbnail": "https://i.ytimg.com/vi/mlM8WkPlz6A/mqdefault.jpg",
       "position": 48
     },
     {
-      "videoId": "GCWPvB1Suh0",
-      "title": "Mahen - Aku Bisa (Official Lyric Video)",
-      "channel": "Indo Semar Sakti",
-      "thumbnail": "https://i.ytimg.com/vi/GCWPvB1Suh0/mqdefault.jpg",
+      "videoId": "uLP-M0ZX5cg",
+      "title": "Dominique Adhadiaz - basi. (Official Lyric Video)",
+      "channel": "Dominique Adhadiaz",
+      "thumbnail": "https://i.ytimg.com/vi/uLP-M0ZX5cg/mqdefault.jpg",
       "position": 49
     }
   ]

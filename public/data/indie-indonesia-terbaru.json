@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/indie-indonesia-terbaru.html",
   "sourceTitle": "Fresh Indonesian Indie",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CNytndgGir7X7AMICP73_tcGEAE=&rs=AOn4CLA6e_Mh8KAPC_WHwaAp1ZpVxfnU3w&v=1795144702",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_kmeSK0196PqJxBLa6gb78Lg8rbG8NwIp8/maxresdefault.jpg?sqp=CLTen9gGir7X7AMICP73_tcGEAE=&rs=AOn4CLC6JaeO7O6WzAiZddxHmCJyzOaJ3A&v=1795144702",
   "sourceCount": 70,
-  "updatedAt": "2026-11-25T21:49:29.845287+00:00",
+  "updatedAt": "2026-11-26T08:35:19.645864+00:00",
   "songs": [
     {
       "videoId": "ZR_5iYHcpX0",
@@ -206,17 +206,17 @@
       "position": 27
     },
     {
-      "videoId": "sUHH6kucs7E",
-      "title": "Ninety Horsepower - Jangan Mati Hari Ini (Official Music Video)",
-      "channel": "Ninety Horsepower Official",
-      "thumbnail": "https://i.ytimg.com/vi/sUHH6kucs7E/mqdefault.jpg",
-      "position": 28
-    },
-    {
       "videoId": "9zEkqCfX7bs",
       "title": "Navicula - Gagasan Tandingan",
       "channel": "Navicula Music",
       "thumbnail": "https://i.ytimg.com/vi/9zEkqCfX7bs/mqdefault.jpg",
+      "position": 28
+    },
+    {
+      "videoId": "sUHH6kucs7E",
+      "title": "Ninety Horsepower - Jangan Mati Hari Ini (Official Music Video)",
+      "channel": "Ninety Horsepower Official",
+      "thumbnail": "https://i.ytimg.com/vi/sUHH6kucs7E/mqdefault.jpg",
       "position": 29
     },
     {
@@ -227,45 +227,45 @@
       "position": 30
     },
     {
-      "videoId": "SWkQwgx2Hzs",
-      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
-      "channel": "Eleanor Whisper",
-      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
-      "position": 31
-    },
-    {
       "videoId": "5uwQ0tSexrM",
       "title": "Semasa",
       "channel": "Rio Clappy - Topic",
       "thumbnail": "https://i.ytimg.com/vi/5uwQ0tSexrM/mqdefault.jpg",
-      "position": 32
+      "position": 31
     },
     {
-      "videoId": "VphxiqsHaQg",
-      "title": "Dimas M - aku mau hidup yang ada kamunya",
-      "channel": "Dimas M",
-      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
-      "position": 33
+      "videoId": "SWkQwgx2Hzs",
+      "title": "Eleanor Whisper - Ini Hal Biasa (Official Lyric Video)",
+      "channel": "Eleanor Whisper",
+      "thumbnail": "https://i.ytimg.com/vi/SWkQwgx2Hzs/mqdefault.jpg",
+      "position": 32
     },
     {
       "videoId": "zaqIjFOSuh8",
       "title": "THE BRANDALS feat. SUKATANI - JARI KASAR (Official Music Video)",
       "channel": "The Brandals",
       "thumbnail": "https://i.ytimg.com/vi/zaqIjFOSuh8/mqdefault.jpg",
-      "position": 34
+      "position": 33
     },
     {
-      "videoId": "Moi0kcIwUB8",
-      "title": "White Chorus - Aku dan Kamu [Official Lyric Video]",
-      "channel": "White Chorus",
-      "thumbnail": "https://i.ytimg.com/vi/Moi0kcIwUB8/mqdefault.jpg",
-      "position": 35
+      "videoId": "VphxiqsHaQg",
+      "title": "Dimas M - aku mau hidup yang ada kamunya",
+      "channel": "Dimas M",
+      "thumbnail": "https://i.ytimg.com/vi/VphxiqsHaQg/mqdefault.jpg",
+      "position": 34
     },
     {
       "videoId": "NzTBePa7qv0",
       "title": "Hawa",
       "channel": "Havva - Topic",
       "thumbnail": "https://i.ytimg.com/vi/NzTBePa7qv0/mqdefault.jpg",
+      "position": 35
+    },
+    {
+      "videoId": "Moi0kcIwUB8",
+      "title": "White Chorus - Aku dan Kamu [Official Lyric Video]",
+      "channel": "White Chorus",
+      "thumbnail": "https://i.ytimg.com/vi/Moi0kcIwUB8/mqdefault.jpg",
       "position": 36
     },
     {
@@ -339,17 +339,17 @@
       "position": 46
     },
     {
-      "videoId": "YyUlFIu-7d0",
-      "title": "The Sky Is the Limit",
-      "channel": "Zeke and The Popo - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/YyUlFIu-7d0/mqdefault.jpg",
-      "position": 47
-    },
-    {
       "videoId": "s5wKOI9jTN0",
       "title": "Goodbye Everest",
       "channel": "mpq - Topic",
       "thumbnail": "https://i.ytimg.com/vi/s5wKOI9jTN0/mqdefault.jpg",
+      "position": 47
+    },
+    {
+      "videoId": "YyUlFIu-7d0",
+      "title": "The Sky Is the Limit",
+      "channel": "Zeke and The Popo - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/YyUlFIu-7d0/mqdefault.jpg",
       "position": 48
     },
     {
