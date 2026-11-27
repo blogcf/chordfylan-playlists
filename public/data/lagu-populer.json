@@ -5,9 +5,9 @@
   "limit": 50,
   "pageUrl": "https://www.chordfylan.com/p/lagu-populer.html",
   "sourceTitle": "Lagu POPuler",
-  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CLDOotgGir7X7AMICPy3n9gGEAE=&rs=AOn4CLByqSzZZdJU2Wix54lIHXfqH-u2LQ&v=1795677180",
+  "thumbnail": "https://i9.ytimg.com/s_p/RDCLAK5uy_mTO_y_IUPcrRrOexwFjmhx5qCtKjKnUkI/maxresdefault.jpg?sqp=CIyGpdgGir7X7AMICPy3n9gGEAE=&rs=AOn4CLBKgeBA8Se7K1TxrwKheWjwjpoHNw&v=1795677180",
   "sourceCount": 75,
-  "updatedAt": "2026-11-26T21:42:09.951554+00:00",
+  "updatedAt": "2026-11-27T08:47:19.138877+00:00",
   "songs": [
     {
       "videoId": "7bEXD2NUO0k",
@@ -213,17 +213,17 @@
       "position": 28
     },
     {
-      "videoId": "PWX5obVZohk",
-      "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
-      "channel": "Ade Nurulianto",
-      "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
-      "position": 29
-    },
-    {
       "videoId": "VX6BnfI_E2c",
       "title": "Paul Aro - Biar Kita Jadi Kenangan (Official Video)",
       "channel": "Paul Aro",
       "thumbnail": "https://i.ytimg.com/vi/VX6BnfI_E2c/mqdefault.jpg",
+      "position": 29
+    },
+    {
+      "videoId": "PWX5obVZohk",
+      "title": "Gloria Jessica, Ade Govinda - Timpang (Official Music Video)",
+      "channel": "Ade Nurulianto",
+      "thumbnail": "https://i.ytimg.com/vi/PWX5obVZohk/mqdefault.jpg",
       "position": 30
     },
     {
@@ -290,38 +290,38 @@
       "position": 39
     },
     {
+      "videoId": "Nl6puTsCxlM",
+      "title": "Raissa Anggiani - Selasa Lalu (Official Lyric Video)",
+      "channel": "RaissaAnggianiVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/Nl6puTsCxlM/mqdefault.jpg",
+      "position": 40
+    },
+    {
       "videoId": "nbUE35zu2PQ",
       "title": "Lyodra, Bilal Indrajaya - Bersamamu (Official Video)",
       "channel": "Lyodra Official",
       "thumbnail": "https://i.ytimg.com/vi/nbUE35zu2PQ/mqdefault.jpg",
-      "position": 40
+      "position": 41
     },
     {
       "videoId": "-lJ9osCpZCM",
       "title": "BCL - Putusin Aja (Official Music Video)",
       "channel": "IT'S ME BCL",
       "thumbnail": "https://i.ytimg.com/vi/-lJ9osCpZCM/mqdefault.jpg",
-      "position": 41
+      "position": 42
     },
     {
       "videoId": "JxHGVivrWNc",
       "title": "no na - the one (Official Music Video)",
       "channel": "no na",
       "thumbnail": "https://i.ytimg.com/vi/JxHGVivrWNc/mqdefault.jpg",
-      "position": 42
+      "position": 43
     },
     {
       "videoId": "EUG0C05gCkw",
       "title": "Budi Doremi - Sabda Cinta (Official Lyric Visualizer)",
       "channel": "Budi Doremi",
       "thumbnail": "https://i.ytimg.com/vi/EUG0C05gCkw/mqdefault.jpg",
-      "position": 43
-    },
-    {
-      "videoId": "Nl6puTsCxlM",
-      "title": "Raissa Anggiani - Selasa Lalu (Official Lyric Video)",
-      "channel": "RaissaAnggianiVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/Nl6puTsCxlM/mqdefault.jpg",
       "position": 44
     },
     {
